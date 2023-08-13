@@ -79,6 +79,8 @@ http://181.177.255.253:8000/play/a01c/index.m3u8
 http://181.177.255.253:8000/play/a00t/index.m3u8
 #EXTINF:-1,GOLPERU HD
 http://181.177.255.253:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-id="GolPeru.pe" tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="Sports",Gol Perú 
+http://181.177.255.253:8000/play/a02k/index.m3u8
 #EXTINF:-1,GolTV HD
 http://181.177.255.253:8000/play/a02e/index.m3u8
 #EXTINF:-1,Golden HD
