@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GolPeru.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Gol_Per%C3%BA_2019.svg.png" group-title="Sports",1+1 (1080p)
+http://181.177.255.253:8000/play/a02k/index.m3u8
