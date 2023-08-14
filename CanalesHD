@@ -51,21 +51,21 @@ http://181.177.255.253:8000/play/a01p/index.m3u8
 http://181.177.255.253:8000/play/a00p/index.m3u8
 #EXTINF:-1,E! HD
 http://181.177.255.253:8000/play/a02d/index.m3u8
-#EXTINF:-1,ESPN HD
+#EXTINF:-1 tvg-id="ESPN1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Sports",ESPN 1 HD 
 http://181.177.255.253:8000/play/a00j/index.m3u8
-#EXTINF:-1,ESPN HD
+#EXTINF:-1 tvg-id="ESPN1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Sports",ESPN 1 HD 
 http://181.177.255.253:8000/play/a01h/index.m3u8
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Sports",ESPN 2 HD 
 http://181.177.255.253:8000/play/a00b/index.m3u8
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Sports",ESPN 2 HD 
 http://181.177.255.253:8000/play/a00u/index.m3u8
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Sports",ESPN 2 HD 
 http://181.177.255.253:8000/play/a00f/index.m3u8
-#EXTINF:-1,ESPN 3 HD
+#EXTINF:-1 tvg-id="ESPN3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Sports",ESPN 3 HD 
 http://181.177.255.253:8000/play/a00s/index.m3u8
-#EXTINF:-1,ESPN 4 HD
+#EXTINF:-1 tvg-id="ESPN4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="Sports",ESPN 4 HD 
 http://181.177.255.253:8000/play/a01b/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
+#EXTINF:-1 tvg-id="ESPNEXTRA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="Sports",ESPN EXTRA HD 
 http://181.177.255.253:8000/play/a01s/index.m3u8
 #EXTINF:-1,El Gourmet HD
 http://181.177.255.253:8000/play/a011/index.m3u8
@@ -73,7 +73,7 @@ http://181.177.255.253:8000/play/a011/index.m3u8
 http://181.177.255.253:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Sports",Fox Sports 1 HD 
 http://181.177.255.253:8000/play/a031/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1920px-2015_Fox_sports_logo.svg.pngg" group-title="Sports",Fox Sports 2 HD 
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1920px-2015_Fox_sports_logo.svg.png" group-title="Sports",Fox Sports 2 HD 
 http://181.177.255.253:8000/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1920px-Fox_sports_3_logo.svg.png" group-title="Sports",Fox Sports 3 HD 
 http://181.177.255.253:8000/play/a00t/index.m3u8
