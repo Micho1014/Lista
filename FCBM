@@ -1,0 +1,183 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Arirang.ko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/1920px-Arirang-TV-Logo.svg.png" group-title="Internacionales",Arirang
+http://221.120.145.12:8000/play/a02r/index.m3u8
+#EXTINF:-1,A&E HD
+http://181.177.255.253:8000/play/a005/index.m3u8
+#EXTINF:-1,ATRES SERIES HD
+http://181.177.255.253:8000/play/a00w/index.m3u8
+#EXTINF:-1,AXN HD
+http://181.177.255.253:8000/play/a008/index.m3u8
+#EXTINF:-1,AZ Cinema HD
+http://181.177.255.253:8000/play/a020/index.m3u8
+#EXTINF:-1,America TV HD
+http://181.177.255.253:8000/play/a02h/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://181.177.255.253:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/800px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="Internacionales", BBC World News
+http://85.196.241.132:28656/udp/239.130.3.47:7051
+#EXTINF:-1,CHV HD
+http://181.177.255.253:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="CGTNEspañol.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Internacionales",CGTN Español
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:-1,CNN Chile HD
+http://181.177.255.253:8000/play/a003/index.m3u8
+#EXTINF:-1,Canal 13 HD
+http://181.177.255.253:8000/play/a02n/index.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://181.177.255.253:8000/play/a01w/index.m3u8
+#EXTINF:-1,Cinecanal HD
+http://181.177.255.253:8000/play/a01q/index.m3u8
+#EXTINF:-1,Cinemax HD
+http://181.177.255.253:8000/play/a00x/index.m3u8
+#EXTINF:-1,Clover HD
+http://181.177.255.253:8000/play/a00e/index.m3u8
+#EXTINF:-1,Comedy Central HD
+http://181.177.255.253:8000/play/a00y/index.m3u8
+#EXTINF:-1,DHE HD
+http://181.177.255.253:8000/play/a02z/index.m3u8
+#EXTINF:-1 tvg-id="DIRECTVSPORTS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",Directv Sports HD 
+http://181.177.255.253:8000/play/a075/index.m3u8
+#EXTINF:-1 tvg-id="DIRECTVSPORTS2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes",Directv Sports 2 HD 
+http://181.177.255.253:8000/play/a076/index.m3u8
+#EXTINF:-1 tvg-id="DIRECTVSPORTS+.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="Deportes",Directv Sports + HD 
+http://181.177.255.253:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-id="DIRECTVSPORTSFIGHT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/DSportsFight.png" group-title="Deportes",Directv Sports Fight + HD 
+http://181.177.255.253:8000/play/a077/index.m3u8
+#EXTINF:-1,Discovery H&H HD
+http://181.177.255.253:8000/play/a016/index.m3u8
+#EXTINF:-1,Discovery HD
+http://181.177.255.253:8000/play/a030/index.m3u8
+#EXTINF:-1,Discovery Kids HD
+http://181.177.255.253:8000/play/a015/index.m3u8
+#EXTINF:-1,Discovery Theater HD
+http://181.177.255.253:8000/play/a017/index.m3u8
+#EXTINF:-1,Discovery World HD
+http://181.177.255.253:8000/play/a01p/index.m3u8
+#EXTINF:-1,Disney HD
+http://181.177.255.253:8000/play/a00p/index.m3u8
+#EXTINF:-1,E! HD
+http://181.177.255.253:8000/play/a02d/index.m3u8
+#EXTINF:-1 tvg-id="ESPN1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 1 HD 
+http://181.177.255.253:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="ESPN1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 1 HD 
+http://181.177.255.253:8000/play/a01h/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 HD 
+http://181.177.255.253:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 HD 
+http://181.177.255.253:8000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 HD 
+http://181.177.255.253:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 HD 
+http://181.177.255.253:8000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="ESPN4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 HD 
+http://181.177.255.253:8000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-id="ESPNEXTRA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="Deportes",ESPN Extra HD 
+http://181.177.255.253:8000/play/a01s/index.m3u8
+#EXTINF:-1,El Gourmet HD
+http://181.177.255.253:8000/play/a011/index.m3u8
+#EXTINF:-1,El Gourmet HD
+http://181.177.255.253:8000/play/a011/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes",Fox Sports 1 HD 
+http://181.177.255.253:8000/play/a031/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1920px-2015_Fox_sports_logo.svg.png" group-title="Deportes",Fox Sports 2 HD 
+http://181.177.255.253:8000/play/a01c/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1920px-Fox_sports_3_logo.svg.png" group-title="Deportes",Fox Sports 3 HD 
+http://181.177.255.253:8000/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="GolPeru.pe" tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="Deportes",Gol Perú HD 
+http://181.177.255.253:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-id="GolTV.us" tvg-logo="https://pbs.twimg.com/profile_images/1644135377446350849/8odKYNxT_400x400.jpg" group-title="Deportes",Gol TV Latam HD 
+http://181.177.255.253:8000/play/a02e/index.m3u8
+#EXTINF:-1,Golden HD
+http://181.177.255.253:8000/play/a028/index.m3u8
+#EXTINF:-1,HBO HD
+http://181.177.255.253:8000/play/a01t/index.m3u8
+#EXTINF:-1,HBO 2 HD
+http://181.177.255.253:8000/play/a021/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://181.177.255.253:8000/play/a033/index.m3u8
+#EXTINF:-1,HBO POP HD
+http://181.177.255.253:8000/play/a00c/index.m3u8
+#EXTINF:-1,HBO XTREME HD
+http://181.177.255.253:8000/play/a034/index.m3u8
+#EXTINF:-1,HOLA TV HD
+http://181.177.255.253:8000/play/a00q/index.m3u8
+#EXTINF:-1,ID HD
+http://181.177.255.253:8000/play/a00z/index.m3u8
+#EXTINF:-1,Kanal D Drama HD
+http://181.177.255.253:8000/play/a01v/index.m3u8
+#EXTINF:-1 tvg-id="KBSDrama.ko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/1920px-KBS_DRAMA.svg.png" group-title="Internacionales",KBS Drama
+http://ye23.vip/z7z8/2021/kbs2020.php?id=5
+#EXTINF:-1 tvg-id="KBSWorld.ko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png" group-title="Internacionales",KBS World
+http://221.120.145.12:8000/play/a02r/index.m3u
+#EXTINF:-1,La Red HD
+http://181.177.255.253:8000/play/a00i/index.m3u8
+#EXTINF:-1,Las Estrellas HD
+http://181.177.255.253:8000/play/a02y/index.m3u8
+#EXTINF:-1 tvg-id="Liga1.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Liga_de_F%C3%BAtbol_Profesional_-_Liga_1_%28Per%C3%BA%29.jpg/800px-Liga_de_F%C3%BAtbol_Profesional_-_Liga_1_%28Per%C3%BA%29.jpg" group-title="Deportes",Liga 1
+http://181.177.255.253:8000/play/a073/index.m3u8
+#EXTINF:-1 tvg-id="Liga1Max.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo-Liga1Max-Per%C3%BA.png" group-title="Deportes",Liga 1 Max
+http://181.177.255.253:8000/play/a074/index.m3u8
+#EXTINF:-1,Lolly Kids HD
+http://181.177.255.253:8000/play/a02p/index.m3u8
+#EXTINF:-1,Love Nature HD
+http://181.177.255.253:8000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-id="MBCTV.ko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/1920px-Munhwa_Broadcasting_Company.svg.png" group-title="Internacionales",MBC TV
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1,MEGA HD
+http://181.177.255.253:8000/play/a01n/index.m3u8
+#EXTINF:-1,MTV HD
+http://181.177.255.253:8000/play/a02w/index.m3u8
+#EXTINF:-1,MTV LIVE HD
+http://181.177.255.253:8000/play/a01a/index.m3u8
+#EXTINF:-1,Movistar Deportes HD
+http://181.177.255.253:8000/play/a026/index.m3u8
+#EXTINF:-1,Nat Geo HD
+http://181.177.255.253:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="NHK.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/800px-NHK_logo_2020.svg.png" group-title="Internacionales",NHK
+http://203.162.235.41:12091/
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="Internacionales",NHK World Japan
+http://203.162.235.41:13092/
+#EXTINF:-1 tvg-id="NHKGeneralTv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/800px-NHK_logo_2020.svg.png" group-title="Internacionales",NHK General Tv
+http://203.162.235.41:14093/
+#EXTINF:-1,Nick HD
+http://181.177.255.253:8000/play/a00h/index.m3u8
+#EXTINF:-1,Paramount HD
+http://181.177.255.253:8000/play/a01x/index.m3u8
+#EXTINF:-1,Pasiones HD
+http://181.177.255.253:8000/play/a00o/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://181.177.255.253:8000/play/a018/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://181.177.255.253:8000/play/a02t/index.m3u8
+#EXTINF:-1,STAR TVE HD
+http://181.177.255.253:8000/play/a01z/index.m3u8
+#EXTINF:-1,Sony HD
+http://181.177.255.253:8000/play/a006/index.m3u8
+#EXTINF:-1,Space HD
+http://181.177.255.253:8000/play/a009/index.m3u8
+#EXTINF:-1,Stingray Concerts HD
+http://181.177.255.253:8000/play/a02f/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://181.177.255.253:8000/play/a01y/index.m3u8
+#EXTINF:-1,Sun Channel HD
+http://181.177.255.253:8000/play/a014/index.m3u8
+#EXTINF:-1,TNT HD
+http://181.177.255.253:8000/play/a00r/index.m3u8
+#EXTINF:-1,TNT SPORTS HD
+http://181.177.255.253:8000/play/a00a/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://181.177.255.253:8000/play/a01f/index.m3u8
+#EXTINF:-1,TRUTV HD
+http://181.177.255.253:8000/play/a010/index.m3u8
+#EXTINF:-1,TV+ HD
+http://181.177.255.253:8000/play/a01m/index.m3u8
+#EXTINF:-1 tvg-id="TvMondeInfo.fr" tvg-logo="https://frenchflicks.com/tl_files/tv5monde/TV5MONDE%202/TV5Monde_Info.png" group-title="Internacionales",TV Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+#EXTINF:-1,Telehit HD
+http://181.177.255.253:8000/play/a029/index.m3u8
+#EXTINF:-1,Travelxp HD
+http://181.177.255.253:8000/play/a013/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://181.177.255.253:8000/play/a019/index.m3u8
+#EXTINF:-1,Warner Channel HD
+http://181.177.255.253:8000/play/a007/index.m3u8
