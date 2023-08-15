@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Arirang.ko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/1920px-Arirang-TV-Logo.svg.png" group-title="Internacionales",Arirang
-http://221.120.145.12:8000/play/a02r/index.m3u8
+http://221.120.145.12:8000/play/a02t/index.m3u8
 #EXTINF:-1,A&E HD
 http://181.177.255.253:8000/play/a005/index.m3u8
 #EXTINF:-1,ATRES SERIES HD
