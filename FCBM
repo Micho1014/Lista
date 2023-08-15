@@ -171,8 +171,6 @@ http://181.177.255.253:8000/play/a01f/index.m3u8
 http://181.177.255.253:8000/play/a010/index.m3u8
 #EXTINF:-1,TV+ HD
 http://181.177.255.253:8000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="TvMonde.fr" tvg-logo="https://frenchflicks.com/tl_files/tv5monde/TV5MONDE%202/TV5Monde_Info.png" group-title="Internacionales",Tv Monde
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1,Telehit HD
 http://181.177.255.253:8000/play/a029/index.m3u8
 #EXTINF:-1,Travelxp HD
