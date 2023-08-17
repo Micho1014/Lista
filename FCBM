@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Arirang.ko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/1920px-Arirang-TV-Logo.svg.png" group-title="Internacionales",Arirang
 http://221.120.145.12:8000/play/a02t/index.m3u8
-#EXTINF:-1,A&E HD
+#EXTINF:-1 tvg-id="A&E.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1920px-A%26E_Network_logo.svg.png" group-title="Peliculas y Series",A&E Latam
 http://181.177.255.253:8000/play/a005/index.m3u8
-#EXTINF:-1,ATRES SERIES HD
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png" group-title="Peliculas y Series",Atreseries
 http://181.177.255.253:8000/play/a00w/index.m3u8
-#EXTINF:-1,AXN HD
+#EXTINF:-1 tvg-id="AXN.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1920px-AXN_logo_%282015%29.svg.png" group-title="Peliculas y Series",AXN
 http://181.177.255.253:8000/play/a008/index.m3u8
-#EXTINF:-1,AZ Cinema HD
+#EXTINF:-1 tvg-id="AZCinema.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/1920px-TV_Azteca_Cinema_logo.svg.png" group-title="Peliculas y Series",AZ Cinema
 http://181.177.255.253:8000/play/a020/index.m3u8
-#EXTINF:-1,America TV HD
+#EXTINF:-1 tvg-id="AmericaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/800px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Perú",America Tv
 http://181.177.255.253:8000/play/a02h/index.m3u8
-#EXTINF:-1,Animal Planet HD
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" group-title="Ciencia y Cultura",Animal Planet
 http://181.177.255.253:8000/play/a023/index.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/800px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="Internacionales", BBC World News
 http://85.196.241.132:28656/udp/239.130.3.47:7051
