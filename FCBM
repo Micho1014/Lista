@@ -15,23 +15,27 @@ http://181.177.255.253:8000/play/a02h/index.m3u8
 http://181.177.255.253:8000/play/a023/index.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/800px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="Internacionales", BBC World News
 http://85.196.241.132:28656/udp/239.130.3.47:7051
-#EXTINF:-1,CHV HD
-http://181.177.255.253:8000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-id="CGTNEspañol.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Internacionales",CGTN Español
-https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:-1,CNN Chile HD
+#EXTINF:-1 tvg-id="CCTV-4.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/CCTV-4_channel.svg/800px-CCTV-4_channel.svg.png" group-title="Internacionales",CCTV-4
+http://185.236.229.31:9981/play/a05y
+#EXTINF:-1 tvg-id="CNN Chile.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/800px-CNN_Chile_logo_2017.svg.png" group-title="Noticias",CNN Chile
 http://181.177.255.253:8000/play/a003/index.m3u8
-#EXTINF:-1,Canal 13 HD
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/1024px-Emblema_del_Canal_13_Chile.svg.png" group-title="Internacionales",Canal 13
 http://181.177.255.253:8000/play/a02n/index.m3u8
-#EXTINF:-1,Cartoon Network HD
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
 http://181.177.255.253:8000/play/a01w/index.m3u8
-#EXTINF:-1,Cinecanal HD
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1920px-CGTN.svg.png" group-title="Internacionales",CGTN
+http://185.236.229.31:9981/play/a05z
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/CGTN_Documentary.svg/1920px-CGTN_Documentary.svg.png" group-title="Internacionales",CGTN Documentary
+http://185.236.229.31:9981/play/a060
+#EXTINF:-1 tvg-id="CGTNEspañol.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Internacionales",CGTN Español
+http://185.236.229.31:9981/play/a061
+#EXTINF:-1 tvg-id="Cinecanal.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1920px-CinecanalLA.png" group-title="Series y Peliculas",Cinecanal
 http://181.177.255.253:8000/play/a01q/index.m3u8
-#EXTINF:-1,Cinemax HD
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1920px-Cinemax_%28Yellow%29.svg.png" group-title="Series y Peliculas",Cinecanal
 http://181.177.255.253:8000/play/a00x/index.m3u8
-#EXTINF:-1,Clover HD
+#EXTINF:-1 tvg-id="Clover.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Clover_Channel_2021.svg/revision/latest?cb=20220608131431&path-prefix=es" group-title="Series y Peliculas",Clover
 http://181.177.255.253:8000/play/a00e/index.m3u8
-#EXTINF:-1,Comedy Central HD
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="Series y Peliculas",Comedy Central
 http://181.177.255.253:8000/play/a00y/index.m3u8
 #EXTINF:-1,DHE HD
 http://181.177.255.253:8000/play/a02z/index.m3u8
@@ -55,6 +59,8 @@ http://181.177.255.253:8000/play/a017/index.m3u8
 http://181.177.255.253:8000/play/a01p/index.m3u8
 #EXTINF:-1,Disney HD
 http://181.177.255.253:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://cfres-71f3.kxcdn.com/si/l/dw-news.jpg" group-title="Noticias",DW English
+http://185.236.229.31:9981/play/a068
 #EXTINF:-1,E! HD
 http://181.177.255.253:8000/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="ESPN1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 1 HD 
@@ -147,6 +153,12 @@ http://181.177.255.253:8000/play/a00h/index.m3u8
 http://181.177.255.253:8000/play/a01x/index.m3u8
 #EXTINF:-1,Pasiones HD
 http://181.177.255.253:8000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="RSILA1.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1920px-RSI_La_1_2012.svg.png" group-title="Internacionales",Noticias",RSI LA 1
+http://185.236.229.31:9981/play/a00m
+#EXTINF:-1 tvg-id="RTSDEUX.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/1920px-RTS_2_logo_2019.svg.png" group-title="Internacionales",RTS Deux
+http://185.236.229.31:9981/play/a00k
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_SRF_1.svg/1920px-Logo_SRF_1.svg.png" group-title="Internacionales",SFR 1
+http://185.236.229.31:9981/play/a00h
 #EXTINF:-1,STAR CHANNEL HD
 http://181.177.255.253:8000/play/a018/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
@@ -177,6 +189,8 @@ http://181.177.255.253:8000/play/a01m/index.m3u8
 http://181.177.255.253:8000/play/a029/index.m3u8
 #EXTINF:-1,Travelxp HD
 http://181.177.255.253:8000/play/a013/index.m3u8
+#EXTINF:-1 tvg-id="TVEInternacional.es" tvg-logo="https://css2.rtve.es/css/rtveplay.2021/i/compartir_tve_internacional.jpg" group-title="Series y Peliculas",TVE Internacional
+http://221.120.145.12:8000/play/a02z/index.m3u8
 #EXTINF:-1,UNIVERSAL CHANNEL HD
 http://181.177.255.253:8000/play/a019/index.m3u8
 #EXTINF:-1,Warner Channel HD
