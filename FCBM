@@ -33,6 +33,20 @@ http://185.236.229.31:9981/play/a061
 http://181.177.255.253:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1920px-Cinemax_%28Yellow%29.svg.png" group-title="Series y Peliculas",Cinecanal
 http://181.177.255.253:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="ClaroTv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_Claro.svg/1920px-Logo_de_Claro.svg.png" group-title="Trafico En Vivo",Av. Derby
+https://live.smartechlatam.online/claro/derby/index.m3u8
+#EXTINF:-1 tvg-id="ClaroTv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_Claro.svg/1920px-Logo_de_Claro.svg.png" group-title="Trafico En Vivo",Panamericana
+https://live.smartechlatam.online/claro/panamericana/index.m3u8
+#EXTINF:-1 tvg-id="ClaroTv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_Claro.svg/1920px-Logo_de_Claro.svg.png" group-title="Trafico En Vivo",Paseo de la Republica
+https://live.smartechlatam.online/claro/paseodelarepublica/index.m3u8
+#EXTINF:-1 tvg-id="ClaroTv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_Claro.svg/1920px-Logo_de_Claro.svg.png" group-title="Trafico En Vivo",Angamos
+https://live.smartechlatam.online/claro/angamos/index.m3u8
+#EXTINF:-1 tvg-id="ClaroTv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_Claro.svg/1920px-Logo_de_Claro.svg.png" group-title="Trafico En Vivo",Brasil-J.Prado
+https://live.smartechlatam.online/claro/brasilconjavierprado/index.m3u8
+#EXTINF:-1 tvg-id="ClaroTv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_Claro.svg/1920px-Logo_de_Claro.svg.png" group-title="Trafico En Vivo",La Marina
+https://live.smartechlatam.online/claro/lamarina/index.m3u8
+#EXTINF:-1 tvg-id="ClaroTv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_Claro.svg/1920px-Logo_de_Claro.svg.png" group-title="Trafico En Vivo",Javier Prado
+https://live.smartechlatam.online/claro/javierprado/index.m3u8
 #EXTINF:-1 tvg-id="Clover.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Clover_Channel_2021.svg/revision/latest?cb=20220608131431&path-prefix=es" group-title="Series y Peliculas",Clover
 http://181.177.255.253:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="Series y Peliculas",Comedy Central
