@@ -29,9 +29,9 @@ http://185.236.229.31:9981/play/a05z
 http://185.236.229.31:9981/play/a060
 #EXTINF:-1 tvg-id="CGTNEspañol.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Internacionales",CGTN Español
 http://185.236.229.31:9981/play/a061
-#EXTINF:-1 tvg-id="Cinecanal.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1920px-CinecanalLA.png" group-title="Series y Peliculas",Cinecanal
+#EXTINF:-1 tvg-id="Cinecanal.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1920px-CinecanalLA.png" group-title="Peliculas y Series",Cinecanal
 http://181.177.255.253:8000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1920px-Cinemax_%28Yellow%29.svg.png" group-title="Series y Peliculas",Cinemax
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1920px-Cinemax_%28Yellow%29.svg.png" group-title="Peliculas y Series",Cinemax
 http://181.177.255.253:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="CanalClaro.pe" tvg-logo="https://static.claro.com.pe/img/logos/canal-6-claro.jpg" group-title="Trafico En Vivo",Av. Derby
 https://live.smartechlatam.online/claro/derby/index.m3u8
@@ -47,11 +47,11 @@ https://live.smartechlatam.online/claro/brasilconjavierprado/index.m3u8
 https://live.smartechlatam.online/claro/lamarina/index.m3u8
 #EXTINF:-1 tvg-id="ClaroTv.pe" tvg-logo="https://static.claro.com.pe/img/logos/canal-6-claro.jpg" group-title="Trafico En Vivo",Javier Prado
 https://live.smartechlatam.online/claro/javierprado/index.m3u8
-#EXTINF:-1 tvg-id="Clover.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Clover_Channel_2021.svg/revision/latest?cb=20220608131431&path-prefix=es" group-title="Series y Peliculas",Clover
+#EXTINF:-1 tvg-id="Clover.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Clover_Channel_2021.svg/revision/latest?cb=20220608131431&path-prefix=es" group-title="Peliculas y Series",Clover
 http://181.177.255.253:8000/play/a00e/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="Series y Peliculas",Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="Peliculas y Series",Comedy Central
 http://181.177.255.253:8000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-id="DHE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1920px-2020_Canal_DHE_logo.svg.png" group-title="Series y Peliculas",DHE
+#EXTINF:-1 tvg-id="DHE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1920px-2020_Canal_DHE_logo.svg.png" group-title="Peliculas y Series",DHE
 http://181.177.255.253:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTVSPORTS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",Directv Sports HD 
 http://181.177.255.253:8000/play/a075/index.m3u8
@@ -105,17 +105,17 @@ http://181.177.255.253:8000/play/a00t/index.m3u8
 http://181.177.255.253:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="GolTV.us" tvg-logo="https://pbs.twimg.com/profile_images/1644135377446350849/8odKYNxT_400x400.jpg" group-title="Deportes",Gol TV Latam HD 
 http://181.177.255.253:8000/play/a02e/index.m3u8
-#EXTINF:-1 tvg-id="Golden.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1920px-Canal_Golden_logo.svg.png" group-title="Series y Peliculas",Golden
+#EXTINF:-1 tvg-id="Golden.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1920px-Canal_Golden_logo.svg.png" group-title="Peliculas y Series",Golden
 http://181.177.255.253:8000/play/a028/index.m3u8
-#EXTINF:-1 tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png" group-title="Series y Peliculas",HBO
+#EXTINF:-1 tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png" group-title="Peliculas y Series",HBO
 http://181.177.255.253:8000/play/a01t/index.m3u8
-#EXTINF:-1 tvg-id="HBO2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" group-title="Series y Peliculas",HBO 2
+#EXTINF:-1 tvg-id="HBO2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" group-title="Peliculas y Series",HBO 2
 http://181.177.255.253:8000/play/a021/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamily.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1024px-HBO_Family.svg.png" group-title="Series y Peliculas",HBO Family
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1024px-HBO_Family.svg.png" group-title="Peliculas y Series",HBO Family
 http://181.177.255.253:8000/play/a033/index.m3u8
-#EXTINF:-1 tvg-id="HBOPop.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="Series y Peliculas",HBO Pop
+#EXTINF:-1 tvg-id="HBOPop.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="Peliculas y Series",HBO Pop
 http://181.177.255.253:8000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-id="HBOXtreme.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="Series y Peliculas",HBO Xtreme
+#EXTINF:-1 tvg-id="HBOXtreme.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="Peliculas y Series",HBO Xtreme
 http://181.177.255.253:8000/play/a034/index.m3u8
 #EXTINF:-1,HOLA TV HD
 http://181.177.255.253:8000/play/a00q/index.m3u8
