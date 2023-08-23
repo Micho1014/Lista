@@ -117,19 +117,17 @@ http://181.177.255.253:8000/play/a033/index.m3u8
 http://181.177.255.253:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="Peliculas y Series",HBO Xtreme
 http://181.177.255.253:8000/play/a034/index.m3u8
-#EXTINF:-1,HOLA TV HD
+#EXTINF:-1 tvg-id="HolaTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg" group-title="Entretenimiento",Hola TV
 http://181.177.255.253:8000/play/a00q/index.m3u8
-#EXTINF:-1,ID HD
-http://181.177.255.253:8000/play/a00z/index.m3u8
-#EXTINF:-1,Kanal D Drama HD
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://www.kanalddrama.com/assets/img/logotop2.png" group-title="Entretenimiento",Kanal D Drama
 http://181.177.255.253:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="KBSDrama.ko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/1920px-KBS_DRAMA.svg.png" group-title="Internacionales",KBS Drama
 http://ye23.vip/z7z8/2021/kbs2020.php?id=5
 #EXTINF:-1 tvg-id="KBSWorld.ko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png" group-title="Internacionales",KBS World
 http://221.120.145.12:8000/play/a02r/index.m3u
-#EXTINF:-1,La Red HD
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/1024px-La_Red_Logotipo_2021.svg.png" group-title="Entretenimiento",La Red
 http://181.177.255.253:8000/play/a00i/index.m3u8
-#EXTINF:-1,Las Estrellas HD
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Entretenimiento",Las Estrellas
 http://181.177.255.253:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="Liga1.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Liga_de_F%C3%BAtbol_Profesional_-_Liga_1_%28Per%C3%BA%29.jpg/800px-Liga_de_F%C3%BAtbol_Profesional_-_Liga_1_%28Per%C3%BA%29.jpg" group-title="Deportes",Liga 1
 http://181.177.255.253:8000/play/a073/index.m3u8
@@ -137,21 +135,21 @@ http://181.177.255.253:8000/play/a073/index.m3u8
 http://181.177.255.253:8000/play/a074/index.m3u8
 #EXTINF:-1 tvg-id="Liga1Max.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo-Liga1Max-Per%C3%BA.png" group-title="Deportes",Liga 1.1 Max
 http://200.123.15.177:1982/play/a03c/index.m3u8
-#EXTINF:-1,Lolly Kids HD
+#EXTINF:-1 tvg-id="LollyKids.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Lolly_Kids_TV_2018.svg/revision/latest?cb=20220608234257&path-prefix=es" group-title="Infantil",Lolly Kids
 http://181.177.255.253:8000/play/a02p/index.m3u8
-#EXTINF:-1,Love Nature HD
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://en.wikipedia.org/wiki/Love_Nature#/media/File:Love_Nature_TV.png" group-title="Ciencia y Cultura",Las Estrellas
 http://181.177.255.253:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="MBCTV.ko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/1920px-Munhwa_Broadcasting_Company.svg.png" group-title="Internacionales",MBC TV
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1,MEGA HD
+#EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/218px-Logotipo_de_Mega_%282020-%29.svg.png" group-title="Entretenimiento",Mega
 http://181.177.255.253:8000/play/a01n/index.m3u8
-#EXTINF:-1,MTV HD
+#EXTINF:-1 tvg-id="Mtv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1280px-MTV-2021.svg.png" group-title="Musicales",MTV
 http://181.177.255.253:8000/play/a02w/index.m3u8
-#EXTINF:-1,MTV LIVE HD
+#EXTINF:-1 tvg-id="MtvLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1024px-MTV_Live_2021_logo.svg.png" group-title="Musicales",MTV
 http://181.177.255.253:8000/play/a01a/index.m3u8
-#EXTINF:-1,Movistar Deportes HD
+#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1920px-Movistar_Deportes.svg.png" group-title="Deportes",Movistar Deportes
 http://181.177.255.253:8000/play/a026/index.m3u8
-#EXTINF:-1,Nat Geo HD
+#EXTINF:-1 tvg-id="NatGeo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1920px-Natgeologo.svg.png" group-title="Ciencia y Cultura",Nat Geo
 http://181.177.255.253:8000/play/a01o/index.m3u8
 #EXTINF:-1 tvg-id="NHK.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/800px-NHK_logo_2020.svg.png" group-title="Internacionales",NHK
 http://203.162.235.41:12091/
@@ -159,11 +157,11 @@ http://203.162.235.41:12091/
 http://203.162.235.41:13092/
 #EXTINF:-1 tvg-id="NHKGeneralTv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/800px-NHK_logo_2020.svg.png" group-title="Internacionales",NHK General Tv
 http://203.162.235.41:14093/
-#EXTINF:-1,Nick HD
+#EXTINF:-1 tvg-id="Nick.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1024px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Infantil",Nick
 http://181.177.255.253:8000/play/a00h/index.m3u8
-#EXTINF:-1,Paramount HD
+#EXTINF:-1 tvg-id="Paramount.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Paramount%2B_logo.svg/480px-Paramount%2B_logo.svg.png" group-title="Peliculas y Series",Paramount
 http://181.177.255.253:8000/play/a01x/index.m3u8
-#EXTINF:-1,Pasiones HD
+#EXTINF:-1 tvg-id="Pasiones.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1920px-Pasiones_Tv_logo.svg.png" group-title="Entretenimiento",Pasiones
 http://181.177.255.253:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1920px-RSI_La_1_2012.svg.png" group-title="Internacionales",RSI LA 1
 http://185.236.229.31:9981/play/a00m
@@ -171,39 +169,39 @@ http://185.236.229.31:9981/play/a00m
 http://185.236.229.31:9981/play/a00k
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_SRF_1.svg/1920px-Logo_SRF_1.svg.png" group-title="Internacionales",SFR 1
 http://185.236.229.31:9981/play/a00h
-#EXTINF:-1,STAR CHANNEL HD
+#EXTINF:-1 tvg-id="StarChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png" group-title="Peliculas y Series",Star Channel
 http://181.177.255.253:8000/play/a018/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
+#EXTINF:-1 tvg-id="StarChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png" group-title="Peliculas y Series",Star Channel
 http://181.177.255.253:8000/play/a02t/index.m3u8
-#EXTINF:-1,STAR TVE HD
+#EXTINF:-1 tvg-id="StarTVE.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Internacionales",Star TVE
 http://181.177.255.253:8000/play/a01z/index.m3u8
-#EXTINF:-1,Sony HD
+#EXTINF:-1 tvg-id="SonyChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/180px-Sony_Channel_Logo.png" group-title="Peliculas y Series",Sony Channel
 http://181.177.255.253:8000/play/a006/index.m3u8
-#EXTINF:-1,Space HD
+#EXTINF:-1 tvg-id="Space.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1920px-SpaceLogo.svg.png" group-title="Peliculas y Series",Space
 http://181.177.255.253:8000/play/a009/index.m3u8
-#EXTINF:-1,Stingray Concerts HD
+#EXTINF:-1 tvg-id="StingrayiConcerts.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Stingray_Concerts.svg/330px-Stingray_Concerts.svg.png" group-title="Musicales",Stingray iConcerts
 http://181.177.255.253:8000/play/a02f/index.m3u8
-#EXTINF:-1,Studio Universal HD
+#EXTINF:-1 tvg-id="StudioUniversal.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="Peliculas y Series",Studio Universal
 http://181.177.255.253:8000/play/a01y/index.m3u8
-#EXTINF:-1,Sun Channel HD
+#EXTINF:-1 tvg-id="SunChannel.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/500px-Sun_Channel_Logo_2022.webp.png" group-title="Entretenimiento",Sun Channel
 http://181.177.255.253:8000/play/a014/index.m3u8
-#EXTINF:-1,TNT HD
+#EXTINF:-1 tvg-id="Tnt.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/800px-TNT_%28TV_Channel%29.svg.png" group-title="Peliculas y Series",TNT
 http://181.177.255.253:8000/play/a00r/index.m3u8
-#EXTINF:-1,TNT SPORTS HD
+#EXTINF:-1 tvg-id="TntSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1920px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports
 http://181.177.255.253:8000/play/a00a/index.m3u8
-#EXTINF:-1,TNT Series HD
+#EXTINF:-1 tvg-id="TntSeries.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Peliculas y Series",TNT Series
 http://181.177.255.253:8000/play/a01f/index.m3u8
-#EXTINF:-1,TRUTV HD
+#EXTINF:-1 tvg-id="TruTv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="Entretenimiento",TruTV
 http://181.177.255.253:8000/play/a010/index.m3u8
-#EXTINF:-1,TV+ HD
+#EXTINF:-1 tvg-id="Tv+.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/480px-TV%2B_%282018%29.png" group-title="Entretenimiento",TV+
 http://181.177.255.253:8000/play/a01m/index.m3u8
-#EXTINF:-1,Telehit HD
+#EXTINF:-1 tvg-id="Telehit.mx" tvg-logo="https://es.wikipedia.org/wiki/Telehit#/media/Archivo:Telehit_logo_2020.png" group-title="Musicales",Telehit
 http://181.177.255.253:8000/play/a029/index.m3u8
-#EXTINF:-1,Travelxp HD
+#EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="https://en.wikipedia.org/wiki/Travelxp#/media/File:Txphd_logo_2015.png" group-title="Ciencia y Cultura",Travelxp
 http://181.177.255.253:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="TVEInternacional.es" tvg-logo="https://css2.rtve.es/css/rtveplay.2021/i/compartir_tve_internacional.jpg" group-title="Internacionales",TVE Internacional
 http://221.120.145.12:8000/play/a02z/index.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL HD
+#EXTINF:-1 tvg-id="UniversalChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" group-title="Peliculas y Series",Universal Channel
 http://181.177.255.253:8000/play/a019/index.m3u8
-#EXTINF:-1,Warner Channel HD
+#EXTINF:-1 tvg-id="WarnerChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Peliculas y Series",Warner Channel
 http://181.177.255.253:8000/play/a007/index.m3u8
