@@ -119,6 +119,8 @@ http://181.177.255.253:8000/play/a00c/index.m3u8
 http://181.177.255.253:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="HolaTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg" group-title="Entretenimiento",Hola TV
 http://181.177.255.253:8000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="K-ContentbyCJENM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1920px-Pluto_TV_logo_2020.svg.png" group-title="Internacionales",K-Content by CJ ENM 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176ff3ba00900000763710f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://www.kanalddrama.com/assets/img/logotop2.png" group-title="Entretenimiento",Kanal D Drama
 http://181.177.255.253:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="KBS1TV.ko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/1920px-KBS_1_logo.svg.png" group-title="Internacionales",KBS 1
@@ -169,6 +171,12 @@ http://181.177.255.253:8000/play/a00h/index.m3u8
 http://181.177.255.253:8000/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="Pasiones.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1920px-Pasiones_Tv_logo.svg.png" group-title="Entretenimiento",Pasiones
 http://181.177.255.253:8000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="PlutoTvDramasCoreanos.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1920px-Pluto_TV_logo_2020.svg.png" group-title="Internacionales",Pluto TV Dramas Coreanos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+#EXTINF:-1 tvg-id="PlutoTvK-pop.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1920px-Pluto_TV_logo_2020.svg.png" group-title="Internacionales",Pluto TV K-POP
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c8b3ddaaf9d4000780066f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+#EXTINF:-1 tvg-id="PlutoTvK-Drama.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1920px-Pluto_TV_logo_2020.svg.png" group-title="Internacionales",Pluto TV K-Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62ac54bda1c8650007e9d1c4/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1920px-RSI_La_1_2012.svg.png" group-title="Internacionales",RSI LA 1
 http://185.236.229.31:9981/play/a00m
 #EXTINF:-1 tvg-id="RTSDEUX.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/1920px-RTS_2_logo_2019.svg.png" group-title="Internacionales",RTS Deux
