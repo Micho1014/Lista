@@ -103,8 +103,8 @@ http://45.4.3.75:7700/play/a00q
 http://45.4.3.75:7700/play/a016
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="Entretenimiento",El Gourmet
 http://45.4.3.75:7700/play/a00i
-#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-logo="https://es.wikipedia.org/wiki/Europa_Europa_%28canal_de_televisi%C3%B3n%29#/media/Archivo:EUROPAEUROPALOGO2016.png" group-title="Internacionales",Europa Europa
-http://45.228.234.193:16003/play/a0cc/index.m3u8
+#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="Internacionales",Europa Europa
+http://170.82.37.21:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes",Fox Sports 1 HD 
 http://45.4.3.75:7700/play/a02a
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1920px-2015_Fox_sports_logo.svg.png" group-title="Deportes",Fox Sports 2 HD 
@@ -137,7 +137,7 @@ http://45.4.3.75:7700/play/a02o
 http://45.4.3.75:7700/play/a02d
 #EXTINF:-1 tvg-id="HolaTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg" group-title="Entretenimiento",Hola TV
 http://45.4.3.75:7700/play/a007
-#EXTINF:-1 tvg-id="K-ContentbyCJENM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1920px-Pluto_TV_logo_2020.svg.png" group-title="Internacionales",K-Content by CJ ENM 
+#EXTINF:-1 tvg-id="KbyCJENM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1920px-Pluto_TV_logo_2020.svg.png" group-title="Internacionales",K-Content by CJ ENM 
 https://i.mjh.nz/PlutoTV/60c8b3ddaaf9d4000780066f-alt.m3u8
 #EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://www.kanalddrama.com/assets/img/logotop2.png" group-title="Entretenimiento",Kanal D Drama
 http://45.4.3.75:7700/play/a018
@@ -197,7 +197,7 @@ http://45.4.3.75:7700/play/a005
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62ac54bda1c8650007e9d1c4/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1 tvg-id="PlutoTvDramasCoreanos.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1920px-Pluto_TV_logo_2020.svg.png" group-title="Internacionales",Pluto TV Dramas Coreanos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-#EXTINF:-1 tvg-id="PlutoTvK-pop.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1920px-Pluto_TV_logo_2020.svg.png" group-title="Internacionales",Pluto TV K-POP
+#EXTINF:-1 tvg-id="Plupop.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1920px-Pluto_TV_logo_2020.svg.png" group-title="Internacionales",Pluto TV K-POP
 https://i.mjh.nz/PlutoTV/60c8b3ddaaf9d4000780066f-alt.m3u8
 #EXTINF:-1 tvg-id="PlutoTvLaSeleccion.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/La_selecci%C3%B3n%2Cla_serie_logo.PNG" group-title="Internacionales",Pluto TV La Selección
 https://i.mjh.nz/PlutoTV/63211ba9cad976000794f988-alt.m3u8
