@@ -85,22 +85,22 @@ http://45.4.3.75:7700/play/a006
 http://185.236.229.31:9981/play/a068
 #EXTINF:-1 tvg-id="E!Latino.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png" group-title="Entretenimiento",E! Latino
 http://45.4.3.75:7700/play/a01o
-#EXTINF:-1 tvg-id="ESPN1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 1 HD 
-http://45.4.3.75:7700/play/a02v
-#EXTINF:-1 tvg-id="ESPN1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 1 HD 
-http://45.4.3.75:7700/play/a01n
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 HD 
-http://45.4.3.75:7700/play/a02r
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 HD 
-http://45.4.3.75:7700/play/a02n
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 HD 
-http://45.4.3.75:7700/play/a00b
-#EXTINF:-1 tvg-id="ESPN3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 HD 
-http://45.4.3.75:7700/play/a009
+#EXTINF:-1 tvg-id="ESPN1S.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 1 SUR
+http://177.234.242.112:50032/play/a0fo/index.m3u8
+#EXTINF:-1 tvg-id="ESPN1C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 1 CENTRO
+http://170.82.37.21:8000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2S.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 SUR
+http://170.239.205.5:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 CENTRP
+http://170.82.37.21:8000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3S.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 SUR 
+http://170.239.205.5:8000/play/a01w/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 CENTRO
+http://170.82.37.21:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 HD 
-http://45.4.3.75:7700/play/a00q
+http://170.82.37.21:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="ESPNEXTRA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="Deportes",ESPN Extra HD 
-http://45.4.3.75:7700/play/a016
+http://177.234.242.102:50032/play/a0f6/index.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="Entretenimiento",El Gourmet
 http://45.4.3.75:7700/play/a00i
 #EXTINF:-1 tvg-id="Europaeuropa.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="Internacionales",Europa europa
