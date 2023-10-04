@@ -201,7 +201,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62ac54bda1c8650007e9d1
 #EXTINF:-1 tvg-id="PlutoTvDramasCoreanos.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1920px-Pluto_TV_logo_2020.svg.png" group-title="Internacionales",Pluto TV Dramas Coreanos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1 tvg-id="Plupop.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1920px-Pluto_TV_logo_2020.svg.png" group-title="Internacionales",Pluto TV K-POP
-https://i.mjh.nz/PlutoTV/60c8b3ddaaf9d4000780066f-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c8b3ddaaf9d4000780066f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1 tvg-id="PlutoTvLaSeleccion.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/La_selecci%C3%B3n%2Cla_serie_logo.PNG" group-title="Internacionales",Pluto TV La Selección
 https://i.mjh.nz/PlutoTV/63211ba9cad976000794f988-alt.m3u8
 #EXTINF:-1 tvg-id="RaiItalia.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1920px-Rai_Italia_-_Logo_2017.svg.png" group-title="Internacionales",Rai Italia
