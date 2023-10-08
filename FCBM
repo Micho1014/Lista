@@ -106,7 +106,7 @@ http://177.234.242.102:50032/play/a0f6/index.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="Entretenimiento",El Gourmet
 http://190.60.40.37:12500/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="Europaeuropa.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="Internacionales",Europa europa
-http://170.82.37.21:8000/play/a02b/index.m3u8
+http://45.5.117.182:8000/play/a0fq/index.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Noticias",Exitosa TV
 http://187.102.208.105:50001/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes",Fox Sports 1 HD 
