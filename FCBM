@@ -205,7 +205,7 @@ http://203.162.235.41:12091/
 http://203.162.235.41:13092/
 #EXTINF:-1 tvg-id="NHKGeneralTv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/800px-NHK_logo_2020.svg.png" group-title="Internacionales",NHK General Tv
 http://203.162.235.41:14093/
-#EXTINF:-1 tvg-id="Nick.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1024px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Infantil",Nick
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1024px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Infantil",Nickelodeon
 http://190.6.199.62:8009/play/a0mc/index.m3u8
 #EXTINF:-1 tvg-id="Paramount.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Paramount%2B_logo.svg/480px-Paramount%2B_logo.svg.png" group-title="Peliculas y Series",Paramount
 http://190.60.40.37:12500/play/a0am/index.m3u8
