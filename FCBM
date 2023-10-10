@@ -26,9 +26,9 @@ http://161.132.243.192:50001/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
 http://190.27.253.211:8000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-4.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/CCTV-4_channel.svg/800px-CCTV-4_channel.svg.png" group-title="Internacionales",CCTV-4
-http://185.236.229.31:9981/play/a05y
+https://cntv.sbs/tv?auth=231005&id=cctv4
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1920px-CGTN.svg.png" group-title="Internacionales",CGTN
-http://185.236.229.31:9981/play/a05z
+http://181.78.21.60:16123/play/ch32
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/CGTN_Documentary.svg/1920px-CGTN_Documentary.svg.png" group-title="Internacionales",CGTN Documentary
 http://185.236.229.31:9981/play/a060
 #EXTINF:-1 tvg-id="CGTNEspañol.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Internacionales",CGTN Español
