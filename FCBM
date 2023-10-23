@@ -176,7 +176,7 @@ http://161.132.243.192:50001/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="Liga1.pe" tvg-logo="https://static.claro.com.pe/img/logos/logo-liga1.jpg" group-title="Deportes",Liga 1
 http://190.187.154.156:8000/play/a0cb/index.m3u8
 #EXTINF:-1 tvg-id="Liga1Max.pe" tvg-logo="https://static.claro.com.pe/img/logos/logo-liga1-max.png" group-title="Deportes",Liga 1 Max
-http://209.45.81.84:8000/play/a00c/index.m3u8
+http://38.43.150.126:8000/play/a04j/index.m3u8
 #EXTINF:-1 tvg-id="LollyKids.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Lolly_Kids_TV_2018.svg/revision/latest?cb=20220608234257&path-prefix=es" group-title="Infantil",Lolly Kids
 http://190.60.40.37:12500/play/a09c/index.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://en.wikipedia.org/wiki/Love_Nature#/media/File:Love_Nature_TV.png" group-title="Ciencia y Cultura",Love Nature
