@@ -94,7 +94,7 @@ http://181.78.22.70:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="ESPN1C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 1 CENTRO
 http://170.82.37.21:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2S.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 SUR
-http://181.78.208.254:8010/play/a00h/index.m3u8 
+http://181.78.22.70:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 CENTRO
 http://170.82.37.21:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3S.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 SUR 
