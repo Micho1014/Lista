@@ -188,7 +188,7 @@ https://ythlsgo.onrender.com/channel/UC-VbFgagk6GJGDJgRQIMpZw.m3u8
 #EXTINF:-1 tvg-id="MBCNews.kr" tvg-logo="https://play-lh.googleusercontent.com/HqtVY28S66KoEjc1bi-qlKWKt0lVGdG9YEoBOHl2XkTPJZG03quFYoQMf5TlWaTgaD97" group-title="Internacionales",MBC News
 https://ythls.onrender.com/video/q-Wv4Pvt-5A.m3u8
 #EXTINF:-1 tvg-id="MBCTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/1920px-Munhwa_Broadcasting_Company.svg.png" group-title="Internacionales",MBC TV
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/218px-Logotipo_de_Mega_%282020-%29.svg.png" group-title="Entretenimiento",Mega
 http://190.217.117.194:8000/play/a05g/index.m3u8
 #EXTINF:-1 tvg-id="Mtv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1280px-MTV-2021.svg.png" group-title="Musicales",MTV
@@ -248,7 +248,7 @@ http://185.236.229.31:9981/play/a00m
 #EXTINF:-1 tvg-id="RTSDEUX.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/1920px-RTS_2_logo_2019.svg.png" group-title="Internacionales",RTS Deux
 http://185.236.229.31:9981/play/a00k
 #EXTINF:-1 tvg-id="SBSNews.kr" tvg-logo="https://yt3.googleusercontent.com/w7ColCSgsKVMJuh6izq4oRlYn-ZkJ8roQuHQy1Nvc75ONCH7uzLmoUE5YMJtZqFCHb4ZFPxAOg=s900-c-k-c0x00ffffff-no-rj" group-title="Internacionales",SBS News
-https://ythls.onrender.com/channel/UCkinYTS9IHqOEwR1Sze2JTw.m3u8
+https://ythls.armelin.one/channel/UCkinYTS9IHqOEwR1Sze2JTw.m3u8
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_SRF_1.svg/1920px-Logo_SRF_1.svg.png" group-title="Internacionales",SFR 1
 http://185.236.229.31:9981/play/a00h
 #EXTINF:-1 tvg-id="StarChannelCentro.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png" group-title="Peliculas y Series",Star Channel 
