@@ -303,3 +303,23 @@ http://45.169.38.226:8000/play/a0er/index.m3u8
 http://45.169.38.226:8000/play/a09g/index.m3u8
 #EXTINF:-1 tvg-id="WeatherNews.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Weathernews_logo.svg/1200px-Weathernews_logo.svg.png" group-title="Internacionales",Weather News
 https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
+#EXTINF:-1 tvg-id="Willax.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="Nacional", 1.1 Willax
+http://209.45.81.84:8000/play/a038
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/800px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Nacional", 2.1 Latina
+http://45.238.21.84:8000/play/a085
+#EXTINF:-1 tvg-id="TopLatino.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="Nacional",3.1 Top Latino
+http://209.45.81.84:8000/play/a037
+#EXTINF:-1 tvg-id="AmericaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/800px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Nacional", 4.1 America Tv
+http://209.45.81.84:8000/play/a007
+#EXTINF:-1 tvg-id="Panamericana.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg/800px-Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg.png" group-title="Nacional", 5.1 Panamericana
+http://209.45.81.84:8000/play/a00b
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Nacional", 6.1 Exitosa TV
+http://209.45.81.84:8000/play/a035
+#EXTINF:-1 tvg-id="Karibeña.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Nacional", 6.2 Karibeña
+http://209.45.81.84:8000/play/a036
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1280px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Nacional", 7.1 TV Peru
+http://209.45.81.84:8000/play/a036
+#EXTINF:-1 tvg-id="RadioNacional.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Radio_Nacional_del_Per%C3%BA_%282021%29.svg/1920px-Radio_Nacional_del_Per%C3%BA_%282021%29.svg.png" group-title="Nacional", 7.2 Radio Nacional
+https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8
+#EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/1920px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Nacional", 7.3 TV Peru Noticias
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
