@@ -64,7 +64,7 @@ http://190.60.40.37:12500/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="DHE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1920px-2020_Canal_DHE_logo.svg.png" group-title="Peliculas y Series",DHE
 http://190.149.66.90:4000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTVSPORTS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",Directv Sports HD 
-http://161.132.243.192:50001/play/a03o/index.m3u8
+http://209.45.81.84:8000/play/a03d
 #EXTINF:-1 tvg-id="DIRECTVSPORTS2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes",Directv Sports 2 HD 
 http://161.132.243.192:50001/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTVSPORTS+.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="Deportes",Directv Sports + HD 
@@ -318,7 +318,7 @@ http://209.45.81.84:8000/play/a035
 #EXTINF:-1 tvg-id="Karibeña.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Nacional", 6.2 Karibeña
 http://209.45.81.84:8000/play/a036
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1280px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Nacional", 7.1 TV Peru
-http://209.45.81.84:8000/play/a036
+http://209.45.81.84:8000/play/a030
 #EXTINF:-1 tvg-id="RadioNacional.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Radio_Nacional_del_Per%C3%BA_%282021%29.svg/1920px-Radio_Nacional_del_Per%C3%BA_%282021%29.svg.png" group-title="Nacional", 7.2 Radio Nacional
 https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/1920px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Nacional", 7.3 TV Peru Noticias
