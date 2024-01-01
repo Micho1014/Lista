@@ -127,7 +127,7 @@ http://199.127.60.83:16020
 http://190.116.90.43:8000/play/a012
 #EXTINF:-1 tvg-id="GolTV.us" tvg-logo="https://pbs.twimg.com/profile_images/1644135377446350849/8odKYNxT_400x400.jpg" group-title="Deportes",Gol TV Latam HD 
 http://190.102.139.243:8900/play/a0ok/index.m3u8
-#EXTINF:-1 tvg-id="Golden.mx" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2021_01/large.92231216_GoldenPlus2020.png.d59a79a13d995edfc0dc2f0c02253cc5.png" group-title="Peliculas y Series",Golden Plus
+#EXTINF:-1 tvg-id="Golden.mx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png" group-title="Peliculas y Series",Golden Plus
 http://190.60.40.37:12500/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="HistoryChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/800px-History_%282021%29.svg.png" group-title="Ciencia y Cultura",History Channel
 http://161.132.243.192:50001/play/a003/index.m3u8
@@ -177,9 +177,9 @@ http://161.132.243.192:50001/play/a01t/index.m3u8
 http://190.187.154.156:8000/play/a0cb/index.m3u8
 #EXTINF:-1 tvg-id="Liga1Max.pe" tvg-logo="https://static.claro.com.pe/img/logos/logo-liga1-max.png" group-title="Deportes",Liga 1 Max
 http://177.53.153.20:8001/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="LollyKids.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Lolly_Kids_TV_2018.svg/revision/latest?cb=20220608234257&path-prefix=es" group-title="Infantil",Lolly Kids
+#EXTINF:-1 tvg-id="LollyKids.us" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/lolly-kids.png" group-title="Infantil",Lolly Kids
 http://190.60.40.37:12500/play/a09c/index.m3u8
-#EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://en.wikipedia.org/wiki/Love_Nature#/media/File:Love_Nature_TV.png" group-title="Ciencia y Cultura",Love Nature
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Ciencia y Cultura",Love Nature
 http://190.60.40.37:12500/play/a0al/index.m3u8
 #EXTINF:-1 tvg-id="MBCAmerica.us" tvg-logo="https://www.mbc-america.com/images/logo/MBXAMERICA_LOGO.png" group-title="Internacionales",MBC America
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
@@ -241,7 +241,7 @@ http://176.65.146.136:8020/play/a06i/index.m3u8
 http://176.65.146.136:8020/play/a06k/index.m3u8
 #EXTINF:-1 tvg-id="RPPTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Noticias",RPP TV
 http://187.102.208.108:50001/play/a02n/index.m3u8
-#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/95-594018101410.png" group-title="Internacionales",RTP Internacional
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/1920px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="Internacionales",RTP Internacional
 http://149.62.177.156:8000/play/a0mn
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1920px-RSI_La_1_2012.svg.png" group-title="Internacionales",RSI LA 1
 http://185.236.229.31:9981/play/a00m
@@ -283,9 +283,9 @@ http://190.217.117.194:8000/play/a071/index.m3u8
 http://190.217.117.194:8000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="Tv+.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/480px-TV%2B_%282018%29.png" group-title="Entretenimiento",TV+
 http://45.175.166.13:49010/play/a053/index.m3u8
-#EXTINF:-1 tvg-id="Telehit.mx" tvg-logo="https://es.wikipedia.org/wiki/Telehit#/media/Archivo:Telehit_logo_2020.png" group-title="Musicales",Telehit
+#EXTINF:-1 tvg-id="Telehit.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png" group-title="Musicales",Telehit
 http://190.217.117.194:8000/play/a07a/index.m3u8
-#EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="https://en.wikipedia.org/wiki/Travelxp#/media/File:Txphd_logo_2015.png" group-title="Ciencia y Cultura",Travelxp
+#EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="Ciencia y Cultura",Travelxp
 http://45.175.166.13:49010/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="TV5.fr" tvg-logo="https://latina.tv5monde.com/sites/tv5_locaux/files/2022-02/tv5latina.png" group-title="Internacionales",TV5 Amérique Latine 
 http://45.186.252.17:7500/play/a08l
