@@ -114,7 +114,7 @@ http://45.166.92.22:58001/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Noticias",Exitosa TV
 http://191.97.60.193:10000/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes",Fox Sports 1 HD 
-http://45.166.92.22:58001/play/a00t/index.m3u8
+http://45.181.121.194:8000/play/a02z
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1920px-2015_Fox_sports_logo.svg.png" group-title="Deportes",Fox Sports 2 HD 
 http://45.181.121.57:2909/play/210
 #EXTINF:-1 tvg-id="FoxSports3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1920px-Fox_sports_3_logo.svg.png" group-title="Deportes",Fox Sports 3 HD 
