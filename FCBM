@@ -174,7 +174,7 @@ http://190.60.40.37:12500/play/a072/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/800px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento",Las Estrellas
 http://161.132.243.192:50001/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="Liga1.pe" tvg-logo="https://static.claro.com.pe/img/logos/logo-liga1.jpg" group-title="Deportes",Liga 1
-http://38.56.220.254:8000/play/a00n/index.m3u8
+http://38.56.220.254:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="Liga1Max.pe" tvg-logo="https://static.claro.com.pe/img/logos/logo-liga1-max.png" group-title="Deportes",Liga 1 Max
 http://38.56.220.254:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="LollyKids.us" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/lolly-kids.png" group-title="Infantil",Lolly Kids
