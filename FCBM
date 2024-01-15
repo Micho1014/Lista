@@ -244,13 +244,13 @@ http://187.102.208.108:50001/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/1920px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="Internacionales",RTP Internacional
 http://149.62.177.156:8000/play/a0mn
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1920px-RSI_La_1_2012.svg.png" group-title="Internacionales",RSI LA 1
-http://185.236.229.31:9981/play/a00m
+http://45.65.112.49:8000/play/a094
 #EXTINF:-1 tvg-id="RTSDEUX.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/1920px-RTS_2_logo_2019.svg.png" group-title="Internacionales",RTS Deux
-http://185.236.229.31:9981/play/a00k
+http://45.65.112.49:8000/play/a091
 #EXTINF:-1 tvg-id="SBSNews.kr" tvg-logo="https://yt3.googleusercontent.com/w7ColCSgsKVMJuh6izq4oRlYn-ZkJ8roQuHQy1Nvc75ONCH7uzLmoUE5YMJtZqFCHb4ZFPxAOg=s900-c-k-c0x00ffffff-no-rj" group-title="Internacionales",SBS News
 https://ythls.armelin.one/channel/UCkinYTS9IHqOEwR1Sze2JTw.m3u8
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_SRF_1.svg/1920px-Logo_SRF_1.svg.png" group-title="Internacionales",SFR 1
-http://185.236.229.31:9981/play/a00h
+http://45.65.112.49:8000/play/a08y
 #EXTINF:-1 tvg-id="StarChannelCentro.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png" group-title="Peliculas y Series",Star Channel 
 http://161.132.243.192:50001/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="StarTVE.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Internacionales",Star TVE
