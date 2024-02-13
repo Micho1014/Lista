@@ -165,10 +165,10 @@ http://mytv.dothome.co.kr/ch/catv/6.php
 http://mytv.dothome.co.kr/ch/catv/5.php
 #EXTINF:-1 tvg-id="KBSStory.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/1920px-KBS_Story.svg.png" group-title="Internacionales",KBS Story
 http://mytv.dothome.co.kr/ch/catv/4.php
-#EXTINF:-1 tvg-id="KBSNEWSD.ko" tvg-logo="https://camo.githubusercontent.com/94f080f5227938791a87457d59d2b074d3455b2140aab32ed48ff0818a71f8d9/68747470733a2f2f692e696d6775722e636f6d2f34714b6776484e2e706e67" group-title="Internacionales",KBS News D
+#EXTINF:-1 tvg-id="KBSNEWSD.ko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg/800px-%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg.png" group-title="Internacionales",KBS News D
 http://mytv.dothome.co.kr/ch/catv/1.php
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png" group-title="Internacionales",KBS World
-https://epg.pw/stream/78c5f7f91d9a825f82cc2250b146b90dab53f5149c46d24208e2f7ca6b12d9bb.ctv
+https://epg.pw/stream/f44322efd9b82dbd882b593f7ed95cefd507ff7d175548215115910e2c2805c8.m3u8
 #EXTINF:-1 tvg-id="LaRed.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/1024px-La_Red_Logotipo_2021.svg.png" group-title="Entretenimiento",La Red
 http://190.60.40.37:12500/play/a072/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/800px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento",Las Estrellas
