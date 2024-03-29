@@ -22,7 +22,7 @@ http://167.250.39.130:8000/play/bbcnews
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/1024px-Emblema_del_Canal_13_Chile.svg.png" group-title="Internacionales",Canal 13
 http://45.235.37.254:8370/play/a02c
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-logo="https://pbs.twimg.com/profile_images/899643326831501313/KieG4VDx_400x400.jpg" group-title="Noticias",Canal N
-http://161.132.243.192:50001/play/a02o/index.m3u8
+http://oaktvpro.club:8080/live/RaulTapia/Raul2023/3409.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
 http://45.232.210.3:8000/play/a05i
 #EXTINF:-1 tvg-id="CCTV-4.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/CCTV-4_channel.svg/800px-CCTV-4_channel.svg.png" group-title="Internacionales",CCTV-4
@@ -248,7 +248,7 @@ http://154.54.220.67:34780/play/a048
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1920px-Rai_Movie_-_Logo_2017.svg.png" group-title="Internacionales",Rai Movie
 http://45.65.112.49:8000/play/a07c
 #EXTINF:-1 tvg-id="RPPTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Noticias",RPP TV
-http://187.102.208.108:50001/play/a02n/index.m3u8
+http://oaktvpro.club:8080/live/RaulTapia/Raul2023/3416.m3u8
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/1920px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="Internacionales",RTP Internacional
 http://149.62.177.156:8000/play/a0mn
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1920px-RSI_La_1_2012.svg.png" group-title="Internacionales",RSI LA 1
