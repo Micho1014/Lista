@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1280px-AMC_logo_2019.svg.png" group-title="Peliculas y Series",AMC Latam
 http://138.117.97.182:58091/play/a01o
 #EXTINF:-1 tvg-id="Arirang.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/1920px-Arirang-TV-Logo.svg.png" group-title="Internacionales",Arirang
-http://181.119.66.30:8000/play/ARIRANG/index.m3u8
+https://epg.pw/stream/cc7424e1a51010e06540ad76373def772bef92279a8eb9e3ad2fa1615a51f510.m3u8
 #EXTINF:-1 tvg-id="ArirangRadio.kr" tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="Musicales",Arirang Radio
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="A&E.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1920px-A%26E_Network_logo.svg.png" group-title="Peliculas y Series",A&E Latam
