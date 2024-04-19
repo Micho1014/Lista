@@ -86,7 +86,7 @@ http://138.117.97.182:58091/play/a00o
 #EXTINF:-1 tvg-id="DisneyChannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png" group-title="Infantil",Disney Channel
 http://138.186.20.13:23200/play/a053
 #EXTINF:-1 tvg-id="DWEspañol.de" tvg-logo="https://cfres-71f3.kxcdn.com/si/l/dw-news.jpg" group-title="Noticias",DW Español
-http://38.44.109.41:8888/play/a009
+http://177.93.48.30:8552/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="E!Latino.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png" group-title="Entretenimiento",E! Latino
 http://190.60.40.37:12500/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="EITBasque.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/1920px-ETB_Basque_2022_logo.svg.png" group-title="Internacionales",ETB Basque
