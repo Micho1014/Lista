@@ -238,7 +238,7 @@ https://i.mjh.nz/PlutoTV/63211ba9cad976000794f988-alt.m3u8
 #EXTINF:-1 tvg-id="PlutoTvMcGyver.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/MacGyver.svg/1920px-MacGyver.svg.png" group-title="Peliculas y Series",Pluto TV McGyver
 https://i.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
 #EXTINF:-1 tvg-id="RaiItalia.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1920px-Rai_Italia_-_Logo_2017.svg.png" group-title="Internacionales",Rai Italia
-http://190.102.139.244:8900/play/a10e/index.m3u8
+http://177.234.247.66:8888/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1024px-Rai_1_-_Logo_2016.svg.png" group-title="Internacionales",Rai 1
 http://154.54.220.67:34780/play/a046
 #EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1024px-Rai_2_-_Logo_2016.svg.png" group-title="Internacionales",Rai 2
