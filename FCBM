@@ -92,7 +92,7 @@ http://190.60.40.37:12500/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="EITBasque.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/1920px-ETB_Basque_2022_logo.svg.png" group-title="Internacionales",ETB Basque
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-id="ESPNPERU.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 1 PERU
-http://38.56.109.19/play/ESPN/index.m3u8
+http://168.232.168.242:4000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="ESPN1S.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 1 SUR
 http://181.78.64.71:16123/play/ch16
 #EXTINF:-1 tvg-id="ESPN1C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 1 CENTRO
