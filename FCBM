@@ -316,15 +316,15 @@ https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
 #EXTINF:-1 tvg-id="Willax.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="Nacional", 1.1 Willax
 http://161.132.108.74:50001/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/800px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Nacional", 2.1 Latina
-http://161.132.108.74:50001/play/a029/index.m3u8
+http://190.119.127.236:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="TopLatino.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="Nacional", 3.1 Top Latino
 http://161.132.108.74:50001/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="RPP.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Nacional", 3.2 RPP TV
 http://161.132.108.74:50001/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/800px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Nacional", 4.1 America Tv
-http://161.132.108.74:50001/play/a02a/index.m3u8
+http://190.119.127.236:8000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-id="Panamericana.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg/800px-Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg.png" group-title="Nacional", 5.1 Panamericana
-http://161.132.108.74:50001/play/a02b/index.m3u8
+http://190.116.38.18:8000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Nacional", 6.1 Exitosa TV
 http://161.132.108.74:50001/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="Karibeña.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logokaribe%C3%B1atv.png" group-title="Nacional", 6.2 Karibeña
