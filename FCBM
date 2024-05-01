@@ -142,17 +142,17 @@ http://161.132.243.192:50001/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="History2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/375px-History2_logo_%282022%29.svg.png" group-title="Ciencia y Cultura",History 2
 http://161.132.243.192:50001/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png" group-title="Peliculas y Series",HBO
-http://181.78.22.251:8090/play/a022/index.m3u8
+http://190.119.127.236:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" group-title="Peliculas y Series",HBO 2
-http://181.78.22.251:8090/play/a023/index.m3u8
+http://190.119.127.236:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="HBO+.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png" group-title="Peliculas y Series",HBO +
-http://131.161.53.2:8000/play/a01o/index.m3u8
+http://186.189.215.34:8200/play/a0l4/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1024px-HBO_Family.svg.png" group-title="Peliculas y Series",HBO Family
-http://181.78.22.251:8090/play/a020/index.m3u8
+http://190.116.38.18:8000/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="HBOPop.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="Peliculas y Series",HBO Pop
-http://181.78.22.251:8090/play/a028/index.m3u8
+http://190.116.38.18:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="Peliculas y Series",HBO Xtreme
-http://181.78.22.251:8090/play/a021/index.m3u8
+http://186.190.231.178:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="HolaTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg" group-title="Entretenimiento",Hola TV
 http://138.186.20.13:23200/play/a054
 #EXTINF:-1 tvg-id="KbyCJENM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1920px-Pluto_TV_logo_2020.svg.png" group-title="Internacionales",K-Content by CJ ENM 
