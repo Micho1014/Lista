@@ -53,7 +53,7 @@ https://live.smartechlatam.online/claro/brasilconjavierprado/index.m3u8
 https://live.smartechlatam.online/claro/lamarina/index.m3u8
 #EXTINF:-1 tvg-id="ClaTv.pe" tvg-logo="https://static.claro.com.pe/img/logos/canal-6-claro.jpg" group-title="Trafico En Vivo",Javier Prado
 https://live.smartechlatam.online/claro/javierprado/index.m3u8
-#EXTINF:-1 tvg-id="Clover.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Clover_Channel_2021.svg/revision/latest?cb=20220608131431&path-prefix=es" group-title="Peliculas y Series",Clover
+#EXTINF:-1 tvg-id="Clover.us" tvg-logo="https://cloverchannel.com/wp-content/uploads/2023/12/Clover_7-300x87.png" group-title="Peliculas y Series",Clover
 http://177.53.153.20:8001/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="CNN Chile.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/800px-CNN_Chile_logo_2017.svg.png" group-title="Noticias",CNN Chile
 http://190.119.127.236:8000/play/a07c/index.m3u8
