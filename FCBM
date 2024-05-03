@@ -349,3 +349,5 @@ http://161.132.108.74:50001/play/a044/index.m3u8
 http://161.132.108.74:50001/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="Global.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/800px-Global_logo_2019.png" group-title="Nacional", 13.1 Global
 http://161.132.108.74:50001/play/a02k/index.m3u8
+#EXTINF:-1 ,Age of Youth 청춘시대 (2016)
+https://download942.mediafire.com/mvwkau6qee8giGzZ5aKbkdT7zQyQgDPosOPlDEyVNYqYSB-V8ih4Dsm4Wig01Z2eYpbjdfvt31-Puc8NduyPub5WFwe6_kmp3FBW6MosqcsTEdDf1CPZf6d2H14N4nP7yGSTdU1H4O6BsN3VgaUeTssmdKc8z1hBzK5XvsP79ICg/0art5tobdaj2qiv/20-01.mp4
