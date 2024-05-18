@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1280px-AMC_logo_2019.svg.png" group-title="Peliculas y Series",AMC Latam
 http://138.117.97.182:58091/play/a01o
 #EXTINF:-1 tvg-id="Arirang.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/1920px-Arirang-TV-Logo.svg.png" group-title="Internacionales",Arirang
-http://190.113.43.210:8000/play/a09v
+https://epg.pw/stream/ec607a6e7a3bcf706696eda53995fb831ee68c633ff2b80c6095c5976eacaa79.m3u8
 #EXTINF:-1 tvg-id="ArirangRadio.kr" tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="Musicales",Arirang Radio
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="A&E.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1920px-A%26E_Network_logo.svg.png" group-title="Peliculas y Series",A&E Latam
@@ -26,7 +26,7 @@ http://oaktvpro.club:8080/live/RaulTapia/Raul2023/3409.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
 http://45.5.151.151:8000/play/a0ir/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-4.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/CCTV-4_channel.svg/800px-CCTV-4_channel.svg.png" group-title="Internacionales",CCTV-4
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+https://epg.pw/stream/ec607a6e7a3bcf706696eda53995fb831ee68c633ff2b80c6095c5976eacaa79.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1920px-CGTN.svg.png" group-title="Internacionales",CGTN
 https://live-wuxi.cgtn.com/live/wx_cgtn_1000k_internalnormal.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/CGTN_Documentary.svg/1920px-CGTN_Documentary.svg.png" group-title="Internacionales",CGTN Documentary
@@ -192,7 +192,7 @@ http://190.60.40.37:12500/play/a0al/index.m3u8
 #EXTINF:-1 tvg-id="MBCAmerica.us" tvg-logo="https://www.mbc-america.com/images/logo/MBXAMERICA_LOGO.png" group-title="Internacionales",MBC America
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
 #EXTINF:-1 tvg-id="MBCEvery1.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC_every1_logo.png" group-title="Internacionales",MBC Every 1
-https://ythlsgo.onrender.com/channel/UC-VbFgagk6GJGDJgRQIMpZw.m3u8
+https://ythls.armelin.one/channel/UC-VbFgagk6GJGDJgRQIMpZw.m3u8
 #EXTINF:-1 tvg-id="MBCNews.kr" tvg-logo="https://play-lh.googleusercontent.com/HqtVY28S66KoEjc1bi-qlKWKt0lVGdG9YEoBOHl2XkTPJZG03quFYoQMf5TlWaTgaD97" group-title="Internacionales",MBC News
 https://ythls.onrender.com/video/q-Wv4Pvt-5A.m3u8
 #EXTINF:-1 tvg-id="MBCTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/1920px-Munhwa_Broadcasting_Company.svg.png" group-title="Internacionales",MBC TV
@@ -250,7 +250,7 @@ http://45.65.112.49:8000/play/a07c
 #EXTINF:-1 tvg-id="RPPTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Noticias",RPP TV
 http://oaktvpro.club:8080/live/RaulTapia/Raul2023/3416.m3u8
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/1920px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="Internacionales",RTP Internacional
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1920px-RSI_La_1_2012.svg.png" group-title="Internacionales",RSI LA 1
 http://45.65.112.49:8000/play/a094
 #EXTINF:-1 tvg-id="RTSDEUX.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/1920px-RTS_2_logo_2019.svg.png" group-title="Internacionales",RTS Deux
