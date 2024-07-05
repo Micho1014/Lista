@@ -309,6 +309,8 @@ http://177.234.247.66:8888/play/a046/index.m3u8
 http://45.186.252.17:7500/play/a08l
 #EXTINF:-1 tvg-id="TVEInternacional.es" tvg-logo="https://css2.rtve.es/css/rtveplay.2021/i/compartir_tve_internacional.jpg" group-title="Internacionales",TVE Internacional
 http://212.180.228.230:8005/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="TVELA1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/800px-Logo_TVE-1.svg.png" group-title="Internacionales",TVE La 1
+https://jactvpro.xyz/auth/FDq4e0T01ywUvVNQsMSTRE6xZh4fT082pj7qru3-e-ybKIwojp7pyVx4ILbUKtRoX4f4sHCx9CXn7gFKI6r7D7_V8Bq8o6jD15keyb_3PCeqmnQvAsnjnmcaTCSHVt6FCN0rdi1iytUWJvqOETMeBBIcIrqAWX72tzvPDgXH-YCMsnAFTRBIxH6sp1RwuvtuiIvInVQNrDLW8kdfr54rn6RRv3opkJZz8EThCTDy1YdDTkLWOyRDgqWWsHlWXbZDITyFobDHOMVxVWP4oXQcJe2IIqsGCsKr_XlZ3jVmkVBoWVBP9vBCeqlaw6X_4v8amtVkFwtLRjf2yDnPC18nHdtVnXozEwCs-1aLyQcUwyy7_TuY-zRIuRlxFOO8lcsPdZGp-STpl6yqYMB_xlHxT9L_lRZIJbEwQVfNFz7Gd6Zoou47e4EYfR0DULZ8yYOQshnklpF-U-GDeJpTTzZs6IWVyT6ffvRLrMAU_HDFZixQ8O0oKdaQnmJsitVzxixG1inD0cyaLzL5LzyjyKYGMgNsxPCC3HSgv2-SJcWJ6DFjytw-TIEPjiDEvPbrgVoV2RqmAAud-nMuwzmy4EeLpJJWhdBL2HJCyhtCOHB4KzlDYrSqINMU3qX0Ao_Cj2lf
 #EXTINF:-1 tvg-id="tvN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1280px-Logo_tvN.svg.png" group-title="Internacionales",tvN
 https://stream.freetv.fun/tvn-5.ctv
 #EXTINF:-1 tvg-id="tvNMovies.kr" tvg-logo="https://www.pngkey.com/png/full/107-1070871_tvn-movies-film.png" group-title="Internacionales",tvN Movies
