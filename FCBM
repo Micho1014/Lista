@@ -320,7 +320,7 @@ http://45.169.38.226:8000/play/a0ed/index.m3u8
 #EXTINF:-1 tvg-id="UniversalChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" group-title="Peliculas y Series",Universal Channel
 http://190.119.127.236:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="Univision.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/725px-Logo_Univision_2019.svg.png" group-title="Internacionales",Univision
-http://38.252.238.202:6102/play/a03e/index.m3u8
+https://7.tiofutbol.com/univision/mono.m3u8?token=71821b37bb036649860f07829cfbd9a8aec10486-a10274d26b8096c27c2f76667c93637a-1720346324-1720313924&remote=38.25.28.10
 #EXTINF:-1 tvg-id="WarnerChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Peliculas y Series",Warner Channel
 http://190.119.127.236:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="WeatherNews.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Weathernews_logo.svg/1200px-Weathernews_logo.svg.png" group-title="Internacionales",Weather News
