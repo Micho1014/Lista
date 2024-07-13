@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AdultSwim.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1920px-Adult_Swim_2003_logo.svg.png" group-title="Entretenimiento",Adult Swim
+http://138.186.20.13:23200/play/a05e
 #EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1280px-AMC_logo_2019.svg.png" group-title="Peliculas y Series",AMC Latam
 http://45.5.117.182:8000/play/a0fn/index.m3u8
 #EXTINF:-1 tvg-id="Arirang.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/1920px-Arirang-TV-Logo.svg.png" group-title="Internacionales",Arirang
@@ -60,9 +62,9 @@ https://live.smartechlatam.online/claro/javierprado/index.m3u8
 #EXTINF:-1 tvg-id="Clover.us" tvg-logo="https://cloverchannel.com/wp-content/uploads/2023/12/Clover_7-300x87.png" group-title="Peliculas y Series",Clover
 http://177.53.153.20:8001/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="CNN Chile.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/800px-CNN_Chile_logo_2017.svg.png" group-title="Noticias",CNN Chile
-http://190.119.127.236:8000/play/a07c/index.m3u8
+http://138.186.20.13:23200/play/a04i
 #EXTINF:-1 tvg-id="CNNESPANOL.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1280px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Noticias",CNN Español
-http://38.56.118.88:4000/play/a06k/index.m3u8
+http://170.239.207.48:4050/play/CH29
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/800px-CNN_International_logo.svg.png" group-title="Noticias",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="Peliculas y Series",Comedy Central
@@ -122,7 +124,7 @@ http://45.5.151.151:8000/play/a0fe/index.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="Entretenimiento",El Gourmet
 http://190.60.40.37:12500/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="Europaeuropa.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="Internacionales",Europa europa
-http://138.117.97.182:58091/play/a05k
+http://168.181.122.234:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="Eurochannel.br" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6e091f79f9edd9147ae_euro.png" group-title="Internacionales",Eurochannel
 http://38.44.109.41:8888/play/a00c
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Noticias",Exitosa TV
@@ -136,7 +138,7 @@ http://190.119.127.236:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="GloboInternacional.br" tvg-logo="https://assets.website-files.com/5aecec4570137400861ad117/5c5c77a52662fe0f3e2db2f4_logo_globo_internacional.png" group-title="Internacionales",Globo Internacional
 http://45.71.252.16:8000/play/a0f2/index.m3u8
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="Deportes",Gol Perú HD 
-http://190.119.127.236:8000/play/a05g/index.m3u8
+http://170.239.207.48:4050/play/CH57
 #EXTINF:-1 tvg-id="GolTV.us" tvg-logo="https://pbs.twimg.com/profile_images/1644135377446350849/8odKYNxT_400x400.jpg" group-title="Deportes",Gol TV Latam HD 
 http://170.254.234.244:9009/play/a05q/index.m3u8
 #EXTINF:-1 tvg-id="Golden.mx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png" group-title="Peliculas y Series",Golden Plus
@@ -294,7 +296,7 @@ http://190.61.91.81:5000/play/a0bg
 #EXTINF:-1 tvg-id="Telemundo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1024px-Telemundo_logo_2018.svg.png" group-title="Internacionales",Telemundo
 http://161.132.243.192:50001/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="TheK-pop.kr" tvg-logo="https://pbs.twimg.com/profile_images/1224570939972575232/KSiGcUtU_400x400.jpg" group-title="Musicales",The K-POP by SBS M
-https://epg.pw/stream/14f8a263948c503385d896a7f48267e2f4644fa86e13d61cdee1974492ef843d.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720923069/ei/XN-SZtnKOpK_sfIP-9yNmAI/ip/20.168.76.145/id/JVocS7Yftw8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-iv.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAeZO_wfDrcPGkh43rLGzvz2dIVQUih4cKKZChechizl658uIldGMLyxdhRY/vprv/1/playlist_type/DVR/initcwndbps/4915000/mh/wS/mm/44/mn/sn-iv/ms/lva/mv/m/mvi/5/pl/15/dover/11/pacing/0/keepalive/yes/mt/1720901086/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAIyRUZmIE9CotzKLNUL0Z95qHkz8_ZBxspsZ5s-s4PCvAiEArBthxy5GCxo7jRI6fK1aN34Z4Escp98_y0ygUMHYeoQ%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgFcDtzKf8wjy-KP6zTBlwrGqaXNRLXgbn6evSVV_o7OcCIE9h2BMdHWsx-BtqMRvO5fq5f82cpaKJbvqpE5L4j89H/playlist/index.m3u8
 #EXTINF:-1 tvg-id="Tnt.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/800px-TNT_%28TV_Channel%29.svg.png" group-title="Peliculas y Series",TNT
 http://190.119.127.236:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="TntSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1920px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports
@@ -303,8 +305,6 @@ http://45.232.210.3:8000/play/cdfhd
 http://190.119.127.236:8000/play/a06s/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="Ciencia y Cultura",Travelxp
 http://177.234.247.66:8888/play/a014/index.m3u8
-#EXTINF:-1 tvg-id="TruTv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="Entretenimiento",TruTV
-http://45.238.21.131:6570/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1920px-TUDN_Logo.svg.png" group-title="Deportes",TUDN
 http://45.5.117.182:8000/play/lh0jp/index.m3u8
 #EXTINF:-1 tvg-id="Tv+.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/480px-TV%2B_%282018%29.png" group-title="Entretenimiento",TV+
