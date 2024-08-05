@@ -330,7 +330,7 @@ http://190.119.127.236:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="WeatherNews.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Weathernews_logo.svg/1200px-Weathernews_logo.svg.png" group-title="Internacionales",Weather News
 https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
 #EXTINF:-1 tvg-id="Willax.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="Nacional", 1.1 Willax
-http://181.176.153.106:8090/play/a0p3/index.m3u8
+https://live-c.cf.dmcdn.net/sec2(sqS_qy43wF97a9AzrxoGiP6ucTU56Da8vvoeysYcEZCpRilXx0YOJ4wyGhYXPx9yz9N9WIGWkDBF55Zu646d_A4mAL6KoZhhB7myt68v2EA)/dm/3/x7x4dgx/s/live-480.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/800px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Nacional", 2.1 Latina
 https://jireh-2-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-id="TopLatino.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="Nacional", 3.1 Top Latino
@@ -340,7 +340,7 @@ http://161.132.108.74:50001/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/800px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Nacional", 4.1 America Tv
 http://190.109.4.34:8000/play/a08i/index.m3u8
 #EXTINF:-1 tvg-id="Panamericana.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg/800px-Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg.png" group-title="Nacional", 5.1 Panamericana
-http://190.116.38.18:8000/play/a01a/index.m3u8
+https://live-c.cf.dmcdn.net/sec2(N7jqcbqsTmOgBZI1MJFB3QpurFx_ojkqLWy1ToF__s1qIBOy4ukTmIpBX_sDAaCdW5eh1lvxBGFXQOL6SXnDmgANbiv705zY5VK-_mhaYSk)/dm/3/x774s7s/s/live-720.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Nacional", 6.1 Exitosa TV
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Karibeña.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logokaribe%C3%B1atv.png" group-title="Nacional", 6.2 Karibeña
