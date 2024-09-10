@@ -220,7 +220,7 @@ http://170.254.234.244:9009/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1920px-Movistar_Deportes.svg.png" group-title="Deportes",Movistar Deportes
 http://192.141.99.3:8000/play/a036
 #EXTINF:-1 tvg-id="MovistarEventos2.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F08%2F49%2F8497308_4421741CE2838F7D.png&height=60&resize=RATIO&format=PNG" group-title="Deportes",Movistar Eventos 2
-https://z29vzc.la10tv.com/movistar_eventos2/tracks-v1a1/mono.m3u8?remote=38.25.17.42&token=416e6cc1f88260a8532e2e87ad35ee615cec7c6e-9982414e934a8178bb07f48159544d74-1726041420-1726005420
+https://server4.betzta.com/eventos/tracks-v1a1/mono.m3u8?remote=38.25.17.42&token=cc8938af0cb3c4682c0a98b788af59d486abe3a1-60e73d27dbffa4138b5dfda1b72a8883-1726017264-1726006464
 #EXTINF:-1 tvg-id="NatGeo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1920px-Natgeologo.svg.png" group-title="Ciencia y Cultura",Nat Geo
 http://170.254.234.244:9009/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://static.claro.com.pe/img/logos/logo-nativa.jpg" group-title="Perú",Nativa
