@@ -194,7 +194,7 @@ http://161.132.243.192:50001/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="Liga1.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/1280px-L1-LOGO.svg.png" group-title="Deportes",L1
 https://ym9yzq.la10tv.com/liga1max/tracks-v1a1/mono.m3u8?remote=38.25.28.10&token=d6c66b9ae40918cfdf942f02ee89cc49304ee4d4-03b0f8e2d5deadb2fa17cf792b69c251-1722505658-1722469658
 #EXTINF:-1 tvg-id="Liga1Max.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1920px-L1MAX-LOGO.svg.png" group-title="Deportes",L1 Max
-https://cars565.pricesaskeloadsc.com/l1max/tracks-v1a1/mono.m3u8?token=993bb776e4503e95e41b27f4af7419ca306350ba-dd-1724674428-1724638428
+https://obla.pricesaskeloadsc.com/l1max/tracks-v1a1/mono.m3u8?token=762f4cb59900df2bcccf83aa896a17a8ae0ab92d-fc-1726286303-1726250303
 #EXTINF:-1 tvg-id="LollyKids.us" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/lolly-kids.png" group-title="Infantil",Lolly Kids
 http://190.60.40.37:12500/play/a09c/index.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Ciencia y Cultura",Love Nature
