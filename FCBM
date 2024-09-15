@@ -192,7 +192,7 @@ http://190.60.40.37:12500/play/a072/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/800px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento",Las Estrellas
 http://161.132.243.192:50001/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="Liga1.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/1280px-L1-LOGO.svg.png" group-title="Deportes",L1
-https://ym9yzq.la10tv.com/liga1max/tracks-v1a1/mono.m3u8?remote=38.25.28.10&token=d6c66b9ae40918cfdf942f02ee89cc49304ee4d4-03b0f8e2d5deadb2fa17cf792b69c251-1722505658-1722469658
+https://fonz02.dlive.click/SD9spFAXTXijKqmfKFTOWg/1726388654/33382e32352e33302e3130/ff563/playlist.m3u8
 #EXTINF:-1 tvg-id="Liga1Max.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1920px-L1MAX-LOGO.svg.png" group-title="Deportes",L1 Max
 https://812.pricesaskeloadsc.com/l1max/tracks-v1a1/mono.m3u8?token=302aa41844411ac520174b09e64d966243521d22-4d-1726393645-1726357645
 #EXTINF:-1 tvg-id="LollyKids.us" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/lolly-kids.png" group-title="Infantil",Lolly Kids
