@@ -138,7 +138,7 @@ http://191.52.214.5:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="GloboInternacional.br" tvg-logo="https://assets.website-files.com/5aecec4570137400861ad117/5c5c77a52662fe0f3e2db2f4_logo_globo_internacional.png" group-title="Internacionales",Globo Internacional
 http://45.71.252.16:8000/play/a0f2/index.m3u8
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="Deportes",Gol Perú 
-http://200.60.124.19:29000/play/a00b/index.m3u8
+https://zxzlbnrz.la10tv.com/golperu/tracks-v1a1/mono.m3u8?remote=38.25.17.42&token=a26f31c26e02d63494cc3f936191a297f4368169-b9421fa1f4fd3ad70f9e9a8a59a7d175-1727081115-1727045115
 #EXTINF:-1 tvg-id="GolTV.us" tvg-logo="https://yt3.googleusercontent.com/fHJVG2vfMoKMP6BDE-Iio9P4fAXlRlzEN_HjK8kG6qMB0xpy0BFwnixlkvqSEDQGaY2nwZCim_w=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes",Gol TV Latam 
 http://177.222.108.82:2500/play/a0h0/index.m3u8
 #EXTINF:-1 tvg-id="Golden.mx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png" group-title="Peliculas y Series",Golden Plus
