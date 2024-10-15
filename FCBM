@@ -221,8 +221,10 @@ http://190.60.40.37:12500/play/a015/index.m3u8
 http://170.254.234.244:9009/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1920px-Movistar_Deportes.svg.png" group-title="Deportes",Movistar Deportes
 http://192.141.99.3:8000/play/a036
+#EXTINF:-1 tvg-id="MovistarEventos1.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F08%2F00%2F8005555_950265F10D883D1D.png&height=60&resize=RATIO&format=PNG" group-title="Deportes",Movistar Eventos 1
+https://bwfrzq.la10tv.com/movistar_eventos/tracks-v1a1/mono.m3u8?id=38.25.25.170&token=e7ead3464cb0ed4c49629ace67285bc495478122-f7-1729067885-1729031885
 #EXTINF:-1 tvg-id="MovistarEventos2.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F08%2F49%2F8497308_4421741CE2838F7D.png&height=60&resize=RATIO&format=PNG" group-title="Deportes",Movistar Eventos 2
-https://server4.betzta.com/eventos/tracks-v1a1/mono.m3u8?remote=38.25.17.42&token=cc8938af0cb3c4682c0a98b788af59d486abe3a1-60e73d27dbffa4138b5dfda1b72a8883-1726017264-1726006464
+https://bmv3.la10tv.com/movistar_eventos2/tracks-v1a1/mono.m3u8?id=38.25.25.170&token=bd742907e696e6844b5b0800cf1f8aa81aaa63d1-cb-1729068366-1729032366
 #EXTINF:-1 tvg-id="NatGeo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1920px-Natgeologo.svg.png" group-title="Ciencia y Cultura",Nat Geo
 http://170.254.234.244:9009/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://static.claro.com.pe/img/logos/logo-nativa.jpg" group-title="Perú",Nativa
@@ -332,7 +334,7 @@ https://stream1.freetv.fun/tvn-movies-1.ctv
 #EXTINF:-1 tvg-id="TVTOKYO.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/1920px-TV_Tokyo_logo_2023.svg.png" group-title="Internacionales",TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/480px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports
-http://170.239.207.48:4050/play/CH59
+https://am91cm5leq.la10tv.com/tycsports/tracks-v1a1/mono.m3u8?id=38.25.25.170&token=418a1084608c453a1f9d125a09230a4ce1c1e1f6-26-1729068414-1729032414
 #EXTINF:-1 tvg-id="UniversalChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" group-title="Peliculas y Series",Universal Channel
 http://45.71.37.194:8010/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="Univision.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/725px-Logo_Univision_2019.svg.png" group-title="Internacionales",Univision
