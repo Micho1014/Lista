@@ -14,7 +14,7 @@ http://217.26.191.118:8126/play/a0f8/index.m3u8
 #EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png" group-title="Peliculas y Series",Atreseries
 http://190.102.246.93:9005/play/a02p
 #EXTINF:-1 tvg-id="AXN.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1920px-AXN_logo_%282015%29.svg.png" group-title="Peliculas y Series",AXN
-http://217.26.191.118:8126/play/a0g2/index.m3u8
+http://190.61.46.126:9001/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="AZCinema.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/1920px-TV_Azteca_Cinema_logo.svg.png" group-title="Peliculas y Series",AZ Cinema
 http://181.78.21.46:8000/play/a030
 #EXTINF:-1 tvg-id="AmericaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/800px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Perú",America Tv
@@ -196,7 +196,7 @@ http://217.26.191.118:8126/play/a0dl/index.m3u8
 #EXTINF:-1 tvg-id="Liga1.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/1280px-L1-LOGO.svg.png" group-title="Deportes",L1
 https://fonz02.dlive.click/SD9spFAXTXijKqmfKFTOWg/1726388654/33382e32352e33302e3130/ff563/playlist.m3u8
 #EXTINF:-1 tvg-id="Liga1Max.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1920px-L1MAX-LOGO.svg.png" group-title="Deportes",L1 Max
-https://cos1.pricesaskeloadsc.com/l1max/tracks-v1a1/mono.m3u8?token=58ed59bd0b9323b89aa31fa1201ef7d2c37accc9-94-1730017096-1729981096
+https://a2vlca.la10tv.com/liga1max/tracks-v1a1/mono.m3u8?id=38.25.25.170&token=ebe037e4fb15d73a279d7f5fdd0d28c958da6b2b-67-1730064146-1730049746
 #EXTINF:-1 tvg-id="LollyKids.us" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/lolly-kids.png" group-title="Infantil",Lolly Kids
 http://190.60.40.37:12500/play/a09c/index.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Ciencia y Cultura",Love Nature
@@ -350,7 +350,7 @@ https://jireh-2-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 #EXTINF:-1 tvg-id="TopLatino.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="Nacional", 3.1 Top Latino
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/chunklist_w1182441096_tkdHZ0b2tlbnN0YXJ0dGltZT0xNzIwNDgwNTM4JnR2dG9rZW5lbmR0aW1lPTE3MjA0ODIzMzgmdHZ0b2tlbmhhc2g9dG9QTm5hYlNZTzEtZ0JCbk43LVA3Z2pSZlBjZTBDeHgtMkR6U2JidHFsbz0=.m3u8
 #EXTINF:-1 tvg-id="RPP.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Nacional", 3.2 RPP TV
-http://161.132.108.74:50001/play/a02n/index.m3u8
+http://8.243.126.131:8000/play/a07s/index.m3u8
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/800px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Nacional", 4.1 America Tv
 http://190.109.4.34:8000/play/a08i/index.m3u8
 #EXTINF:-1 tvg-id="Panamericana.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg/800px-Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg.png" group-title="Nacional", 5.1 Panamericana
