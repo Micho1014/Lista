@@ -220,9 +220,9 @@ http://190.60.40.37:12500/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="Mtv00.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Musicales",MTV 00's  
 http://170.254.234.244:9009/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1920px-Movistar_Deportes.svg.png" group-title="Deportes",Movistar Deportes
-http://167.250.180.251:4000/play/a0ic/index.m3u8
+https://c3bvcnrz.la10tv.com/movistar/tracks-v1a1/mono.m3u8?token=d554f9de04ccea0677e676682671bbab995bba22-c9-1731660723-1731624723
 #EXTINF:-1 tvg-id="MovistarEventos1.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F08%2F00%2F8005555_950265F10D883D1D.png&height=60&resize=RATIO&format=PNG" group-title="Deportes",Movistar Eventos 1
-https://bwfrzq.la10tv.com/movistar_eventos/tracks-v1a1/mono.m3u8?id=38.25.25.170&token=e7ead3464cb0ed4c49629ace67285bc495478122-f7-1729067885-1729031885
+https://server.betzta.com/lb/movistarligadecampeones7/index.m3u8?token=8bf651e5ad6218847a5b82843d63a26c4da78315-e2ce790efd3fa7ccae3b509ccbc00f39-1731637283-1731626483&remote=38.25.15.10
 #EXTINF:-1 tvg-id="MovistarEventos2.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F08%2F49%2F8497308_4421741CE2838F7D.png&height=60&resize=RATIO&format=PNG" group-title="Deportes",Movistar Eventos 2
 https://bmv3.la10tv.com/movistar_eventos2/tracks-v1a1/mono.m3u8?id=38.25.25.170&token=bd742907e696e6844b5b0800cf1f8aa81aaa63d1-cb-1729068366-1729032366
 #EXTINF:-1 tvg-id="NatGeo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1920px-Natgeologo.svg.png" group-title="Ciencia y Cultura",Nat Geo
