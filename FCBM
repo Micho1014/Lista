@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="AsianCrush.us" tvg-logo="https://www.asiancrush.com/images/asiancrush/asiancrush_logo_image.png" group-title="Internacionales",AsianCrush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/cb563f166570609098cf2167d7f162ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aad6852db80148b6f4adafb8c2360625f5c98435ee3b24af6abe15e47d064f0ac154c947958e683179fc94dbb8681469912d227f2409d90a68bda18e0d6ab4b918649a96b224048aac214a6c754a2df9e290a88703c430d279ec9f1d06f4c4bc3de3e8292e5b077eb1b8ea82884723eb801e22fce50d82dc281c090cd65561f9fc26319dd5c68e2e25bf1982ab15a12b063e9abeadc3c5f91ff177940c65715434137bdf2d11d88cf14d9e36dd5f4212a31ce954a8c8ef2addbf0dc1ad2759187c39133141a38441ad009ebda4ccb39d17d9fcb110a55590bf8c9028ad58f1e784967b2ad72985317b0d08ec3f80b38c16f521acb68cb54086983653f2cab7db7ca723cc9150b83342ff21760d315b2eb7a87d2b18f3132bbdac855ec2fbee578b5d836e93c6c1752c9b14639624372d7e26377405acb57ebdecfa13a4937e5f9c9f1d7407a601d1241079fedf77af9d697317cf6a094d6f7ac761b0a4c137b926d49005868e2937e1b9d/87/848x480_1686360/index.m3u8
 #EXTINF:-1 tvg-id="AdultSwim.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1920px-Adult_Swim_2003_logo.svg.png" group-title="Entretenimiento",Adult Swim
-http://190.60.37.115:8001/play/a0c5/index.m3u8
+http://190.217.22.156:18000/play/a04a
 #EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1280px-AMC_logo_2019.svg.png" group-title="Peliculas y Series",AMC Latam
 http://181.78.82.6:46090/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="Arirang.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/1920px-Arirang-TV-Logo.svg.png" group-title="Internacionales",Arirang
@@ -10,11 +10,11 @@ https://stream1.freetv.fun/arirang-korea-1.m3u8
 #EXTINF:-1 tvg-id="ArirangRadio.kr" tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="Musicales",Arirang Radio
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="A&E.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1920px-A%26E_Network_logo.svg.png" group-title="Peliculas y Series",A&E Latam
-http://181.78.82.6:46090/play/a00d/index.m3u8
+http://190.217.22.156:18000/play/a043
 #EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png" group-title="Peliculas y Series",Atreseries
 http://190.102.246.93:9005/play/a02p
 #EXTINF:-1 tvg-id="AXN.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1920px-AXN_logo_%282015%29.svg.png" group-title="Peliculas y Series",AXN
-http://181.78.82.6:46090/play/a00g/index.m3u8
+http://190.217.22.156:18000/play/a045
 #EXTINF:-1 tvg-id="AZCinema.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/1920px-TV_Azteca_Cinema_logo.svg.png" group-title="Peliculas y Series",AZ Cinema
 http://181.78.21.46:8000/play/a030
 #EXTINF:-1 tvg-id="AmericaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/800px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Perú",America Tv
@@ -172,11 +172,11 @@ https://r.mjh.nz/PlutoTV/6176ff3ba00900000763710f-alt.m3u8
 #EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://www.kanalddrama.com/assets/img/logotop2.png" group-title="Entretenimiento",Kanal D Drama
 http://190.60.40.37:12500/play/a07d/index.m3u8
 #EXTINF:-1 tvg-id="KBS1TV.ko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/1920px-KBS_1_logo.svg.png" group-title="Internacionales",KBS 1
-http://mytv.dothome.co.kr/ch/public/1.php
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1732592329&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzI1OTIzMjl9fX1dfQ__&Signature=NR0msX-9zVm3~St5ek2udRtvZgLJ4duzQsd~7UVxTmxOIvtXRZC~9MizsYlNkgUAqmg2YSza9L9vU9~K9sgSc-x4O30xYcm1tl~erNvjeXmF8RmNJ1MOAHYvSgrSb1xEk8QFPeI2jjPXIyKQUQx3FL-wM7AziJv7P0oh79L0H0nfSEPwvyNIv1Eg~1nrnRfj8sw4qccBBd9ztjruWpeCihH2TJEbDFlT07F~93zp1e1UUYp2jg05Hf0lSoGr7RKZ~m2-LS~FqT72-hahKORLwnlxQOqjMhYTP2O9tKdM8n0rrwWwfli5hY7Uj3C12pDwzyebe~pkCKBmDNk3uq6vMQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 tvg-id="KBS2TV.ko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1920px-KBS_2_logo.svg.png" group-title="Internacionales",KBS 2
-http://mytv.dothome.co.kr/ch/public/3.php
+https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1732592412&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzI1OTI0MTJ9fX1dfQ__&Signature=PHLpatsGtyCK3hBHgo2bw5VdwVcsCMP~yvSLwzjjeVeTNK3mk-P1PHKejlosvqFZhSLbhgbal7sk5epNHmwFPx7pcR1IMUwqyZCZqjEKiowP0W-Dsv47zZDjgOf-5E6km4s1e4v-MgbfnM0odKY4d1xsEwcTr1J~hI1nUsDLEJQRlXt0GGYjd4CadYjtAKEbPjH23tALJMOqUugmLR8GEXj4VmHhzaz30QbJCiyWvOaGaMzoLN7d0-SA0GAT8hkOG01uuIuX9lfIvgzRa~nFZHSonlUT4EK5zv3ly1cvPLjiETXRquIrn1EnglcLMJWcZo7jnEJXE1NhkV3Up8fgOQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/1920px-KBS_DRAMA.svg.png" group-title="Internacionales",KBS Drama
-http://mytv.dothome.co.kr/ch/catv/2.php
+https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Expires=1732592457&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi9rYnNuZHJhbWEtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMjU5MjQ1N319fV19&Signature=jXI8aSLapIZas6468wzZwnnuA7HshZgk9frgNJ~BSqk8m~B9DEYe4zAr1Ph~Ski8BeiZjn2edkIJYiqoZBihC85TfnszBFyH2IeKaJRF633VvkNgp45pASDzAbe7enQv2VPZ8l746-xoed6El0ibGWd8Men8Li4DxQqh3AFZBzRFiUb~xDS8Nj~GVclRAWOkzM2uVjDmpHAq2BCcZEL6I~oAhfXvBBov6~wH4A4VrhQJJ4gexZ6Qgmw8HfQjaYm8gYO6QbgXRGqZFFe20qSlOoWT~46ghI5dJYFMl-R0K~BksLCgiyyWaldaRsqdCQw0YwaJtxppevMjHQ6r2e1ysA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 tvg-id="KBSJoy.kr" tvg-logo="https://seeklogo.com/images/K/kbs-joy-logo-3FA6C0D39E-seeklogo.com.png" group-title="Internacionales",KBS Joy
 http://mytv.dothome.co.kr/ch/catv/3.php
 #EXTINF:-1 tvg-id="KBSKids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/1920px-KBS_kids.svg.png" group-title="Internacionales",KBS Kids
