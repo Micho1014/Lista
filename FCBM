@@ -74,9 +74,9 @@ http://190.60.40.37:12500/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="DHE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1920px-2020_Canal_DHE_logo.svg.png" group-title="Peliculas y Series",DHE
 http://217.26.191.118:8126/play/a0dm/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTVSPORTS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",Directv Sports HD 
-https://c2f2zq.fubohd.com/dsports/tracks-v1a1/mono.m3u8?token=f39595accf9d585537ac93e01a211249f240994d-0b-1736487830-1736451830
+https://cgxheq.fubohd.com/dsports/tracks-v1a1/mono.m3u8?token=8fa373b52321eda88d08c5d530abd4f406f64297-c8-1736740004-1736704004
 #EXTINF:-1 tvg-id="DIRECTVSPORTS2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes",Directv Sports 2 HD 
-http://38.252.218.1:4000/play/a091/index.m3u8
+http://200.60.124.19:29000/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTVSPORTS+.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="Deportes",Directv Sports + HD 
 https://zw5k.la10tv.com/dsportsplus/tracks-v1a1/mono.m3u8?remote=38.25.25.170&token=c3638d279aa410d29d1c9d109e22dfb30c612ac8-a768d0d238dcb701eb63a155d917dc53-1728802949-1728766949
 #EXTINF:-1 tvg-id="DIRECTVSPORTSFIGHT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/DSportsFight.png" group-title="Deportes",Directv Sports Fight + HD 
@@ -121,6 +121,8 @@ http://45.176.232.114:8000/play/a03o
 http://190.60.49.244:4000/play/a071
 #EXTINF:-1 tvg-id="ESPN7.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1920px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7
 http://190.60.49.244:4000/play/a04c
+#EXTINF:-1 tvg-id="ESPNDEPORTES.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Deportes",ESPN DEPORTES
+https://pecdl.pricesaskeloadsc.com/espn_deportes/tracks-v1a1/mono.m3u8?token=21b0fc8255d567073e2fe60c6962fc299fe3f404-62-1736739762-1736703762
 #EXTINF:-1 tvg-id="ESPNPREMIUM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1920px-ESPN_Premium_logo.svg.png" group-title="Deportes",ESPN PREMIUM
 http://181.78.82.6:46090/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="Entretenimiento",El Gourmet
