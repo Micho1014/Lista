@@ -278,7 +278,7 @@ http://45.65.112.49:8000/play/a091
 #EXTINF:-1 tvg-id="SBS.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1920px-Seoul_Broadcasting_System_logo.svg.png" group-title="Internacionales",SBS
 https://stream1.freetv.fun/sbs-4.m3u8
 #EXTINF:-1 tvg-id="SBSPLAY.kr" tvg-logo="https://www.sbs.co.kr/images/m/about_sbsplay_logo.png" group-title="Internacionales",SBS Drama Play
-https://stream1.freetv.fun/sbstv-1.m3u8
+https://newidco-sbs-1-eu.xiaomi.wurl.tv/bf4797101b0f71e947c36d35d707518b.m3u8
 #EXTINF:-1 tvg-id="SBSNews.kr" tvg-logo="https://yt3.googleusercontent.com/w7ColCSgsKVMJuh6izq4oRlYn-ZkJ8roQuHQy1Nvc75ONCH7uzLmoUE5YMJtZqFCHb4ZFPxAOg=s900-c-k-c0x00ffffff-no-rj" group-title="Internacionales",SBS News
 https://ythls.armelin.one/channel/UCkinYTS9IHqOEwR1Sze2JTw.m3u8
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_SRF_1.svg/1920px-Logo_SRF_1.svg.png" group-title="Internacionales",SFR 1
