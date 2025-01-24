@@ -220,11 +220,13 @@ https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/218px-Logotipo_de_Mega_%282020-%29.svg.png" group-title="Entretenimiento",Mega
 http://170.254.234.244:9009/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="Mtv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1280px-MTV-2021.svg.png" group-title="Musicales",MTV
-http://190.60.40.37:12500/play/a068/index.m3u8
+http://181.119.107.201:5054/play/a0b3/index.m3u8
+#EXTINF:-1 tvg-id="MtvHits.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/631px-MTV_Hits_2021.svg.png" group-title="Musicales",MTV Hits
+http://179.1.147.210:5000/play/a02c
 #EXTINF:-1 tvg-id="MtvLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1024px-MTV_Live_2021_logo.svg.png" group-title="Musicales",MTV Live
 http://190.60.40.37:12500/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="Mtv00.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Musicales",MTV 00's  
-http://170.254.234.244:9009/play/a01s/index.m3u8
+http://181.119.107.201:5054/play/a0ds/index.m3u8
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1920px-Movistar_Deportes.svg.png" group-title="Deportes",Movistar Deportes
 https://c3bvcnrz.la10tv.com/movistar/tracks-v1a1/mono.m3u8?token=d554f9de04ccea0677e676682671bbab995bba22-c9-1731660723-1731624723
 #EXTINF:-1 tvg-id="MovistarEventos1.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F08%2F00%2F8005555_950265F10D883D1D.png&height=60&resize=RATIO&format=PNG" group-title="Deportes",Movistar Eventos 1
