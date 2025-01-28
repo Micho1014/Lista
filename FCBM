@@ -116,17 +116,17 @@ http://190.60.49.244:4000/play/a070
 #EXTINF:-1 tvg-id="ESPN3C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 CENTRO
 http://45.5.117.182:8000/play/a0jn/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4
-http://190.217.22.156:18000/play/a041
+http://190.109.31.53:9000/play/a077/index.m3u8
 #EXTINF:-1 tvg-id="ESPN5.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1920px-ESPN_5_logo.svg.png" group-title="Deportes",ESPN 5
-http://181.174.228.134:8998/play/a00b/index.m3u8
+http://190.109.31.53:9000/play/a07q/index.m3u8
 #EXTINF:-1 tvg-id="ESPN6.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1920px-ESPN_6_logo.svg.png" group-title="Deportes",ESPN 6
 http://190.60.49.244:4000/play/a071
 #EXTINF:-1 tvg-id="ESPN7.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1920px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7
-http://190.60.49.244:4000/play/a04c
+http://179.63.36.2:8000/play/a0p2/index.m3u8
 #EXTINF:-1 tvg-id="ESPNDEPORTES.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Deportes",ESPN DEPORTES
 https://pecdl.pricesaskeloadsc.com/espn_deportes/tracks-v1a1/mono.m3u8?token=21b0fc8255d567073e2fe60c6962fc299fe3f404-62-1736739762-1736703762
 #EXTINF:-1 tvg-id="ESPNPREMIUM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1920px-ESPN_Premium_logo.svg.png" group-title="Deportes",ESPN PREMIUM
-http://181.78.82.6:46090/play/a02g/index.m3u8
+http://179.63.36.2:8000/play/a0ko/index.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="Entretenimiento",El Gourmet
 http://217.26.191.118:8126/play/a0fw/index.m3u8
 #EXTINF:-1 tvg-id="Europaeuropa.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="Internacionales",Europa europa
