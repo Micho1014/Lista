@@ -208,7 +208,7 @@ http://190.60.40.37:12500/play/a09c/index.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Ciencia y Cultura",Love Nature
 http://190.60.40.37:12500/play/a0al/index.m3u8
 #EXTINF:-1 tvg-id="M+LigaDeCampeones.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1813px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes",M+ Liga de Campeones
-https://6.betzta.com/ligadecampeones1/tracks-v1a1/mono.m3u8?remote=38.25.18.234&token=00ec641eddfc64c3693046ba666cc24443635b94-9c8bbe0471d7fa8e022553aa49a47fd1-1738191353-1738180553
+https://jf4.naqsheala.com:999/hls/capespnarg.m3u8?md5=aBqusTinAlEao1S4MTTG_w&expires=1738188700
 #EXTINF:-1 tvg-id="MBCAmerica.us" tvg-logo="https://www.mbc-america.com/images/logo/MBXAMERICA_LOGO.png" group-title="Internacionales",MBC America
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
 #EXTINF:-1 tvg-id="MBCDrama.kr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCJNzQa35fy0hfJRXoHOnheq8m6r7B1Wxwz029Mb3TKA&s" group-title="Internacionales",MBC Drama
