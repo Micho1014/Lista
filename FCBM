@@ -123,8 +123,8 @@ http://190.109.31.53:9000/play/a07q/index.m3u8
 http://190.60.49.244:4000/play/a071
 #EXTINF:-1 tvg-id="ESPN7.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1920px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7
 http://179.63.36.2:8000/play/a0p2/index.m3u8
-#EXTINF:-1 tvg-id="ESPNDEPORTES.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Deportes",ESPN DEPORTES
-https://pecdl.pricesaskeloadsc.com/espn_deportes/tracks-v1a1/mono.m3u8?token=21b0fc8255d567073e2fe60c6962fc299fe3f404-62-1736739762-1736703762
+#EXTINF:-1 tvg-id="ESPNEXTRA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="Deportes",ESPN EXTRA
+https://bcja.pricesaskeloadsc.com/disney16/tracks-v1a1/mono.m3u8?token=60acc28b749d945a94ca803a3358e7945e4a9bc8-bb-1738205987-1738173587
 #EXTINF:-1 tvg-id="ESPNPREMIUM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1920px-ESPN_Premium_logo.svg.png" group-title="Deportes",ESPN PREMIUM
 http://179.63.36.2:8000/play/a0ko/index.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="Entretenimiento",El Gourmet
