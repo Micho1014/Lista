@@ -76,7 +76,7 @@ http://190.60.40.37:12500/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="DHE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1920px-2020_Canal_DHE_logo.svg.png" group-title="Peliculas y Series",DHE
 http://217.26.191.118:8126/play/a0dm/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTVSPORTS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",Directv Sports HD 
-https://a2lja3m.fubohd.com/dsports/tracks-v1a1/mono.m3u8?token=18e8438caa741ab2a18d84bc7480bb6a89bb27eb-1c-1737010331-1736974331
+https://10.betzta.com/dsports/tracks-v1a1/mono.m3u8?remote=38.25.18.234&token=7988d1a7a809bfd2d59a135928a8b2a9c0e2dcb7-877d9c1063fc7d2256ad178b2dd756f9-1738881507-1738870707
 #EXTINF:-1 tvg-id="DIRECTVSPORTS2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes",Directv Sports 2 HD 
 http://200.60.124.19:29000/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTVSPORTS+.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="Deportes",Directv Sports + HD 
