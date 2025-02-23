@@ -74,7 +74,7 @@ https://stream1.freetv.fun/cnn-int-1.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="Peliculas y Series",Comedy Central
 http://190.60.40.37:12500/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="DAZNLaLiga.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/DAZN_LALIGA_2024_logo.svg/1920px-DAZN_LALIGA_2024_logo.svg.png" group-title="Deportes",DAZN LaLiga
-https://zona593.live:8443/play/JxoB_PXAnedltw3863yXc7WQtM6yhq9HhkJq8nANE7I/ts
+https://zona593.live:8443/play/JxoB_PXAnedltw3863yXc56nzZdrwoLGvhFtH_hDDIA/ts
 #EXTINF:-1 tvg-id="DHE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1920px-2020_Canal_DHE_logo.svg.png" group-title="Peliculas y Series",DHE
 http://217.26.191.118:8126/play/a0dm/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTVSPORTS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",Directv Sports HD 
