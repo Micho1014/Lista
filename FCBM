@@ -144,7 +144,7 @@ https://a2lja3m.la10tv.com/foxdeportes/tracks-v1a1/mono.m3u8?token=f6e2145fee95b
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png" group-title="Deportes",Fox Sports 2 Centro 
 http://190.6.199.61:8004/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="FX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="Peliculas y Series",FX
-http://190.13.81.218:18000/play/a09t
+http://181.78.23.162:8000/play/a07c/index.m3u8
 #EXTINF:-1 tvg-id="GloboInternacional.br" tvg-logo="https://assets.website-files.com/5aecec4570137400861ad117/5c5c77a52662fe0f3e2db2f4_logo_globo_internacional.png" group-title="Internacionales",Globo Internacional
 http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/16730
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="Deportes",Gol Perú 
