@@ -46,7 +46,7 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:-1 tvg-id="Chilevision.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logotipo_Principal_de_Chilevisi%C3%B3n.svg/1920px-Logotipo_Principal_de_Chilevisi%C3%B3n.svg.png" group-title="Internacionales",Chilevision
 http://179.63.36.2:8000/play/a0od/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1920px-CinecanalLA.png" group-title="Peliculas y Series",Cinecanal
-http://189.127.167.71:8000/play/a04c
+http://181.78.23.162:8000/play/a066/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1920px-Cinemax_%28Yellow%29.svg.png" group-title="Peliculas y Series",Cinemax
 http://179.63.36.2:8000/play/a0pk/index.m3u8
 #EXTINF:-1 tvg-id="ClaroTv.pe" tvg-logo="https://static.claro.com.pe/img/logos/canal-6-claro.jpg" group-title="Trafico En Vivo",Av. Derby
@@ -76,7 +76,7 @@ http://190.60.40.37:12500/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="DAZNLaLiga.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/DAZN_LALIGA_2024_logo.svg/1920px-DAZN_LALIGA_2024_logo.svg.png" group-title="Deportes",DAZN LaLiga
 https://zona593.live:8443/play/JxoB_PXAnedltw3863yXc6iAZjzwT7NCVn8W2z21zCs/ts
 #EXTINF:-1 tvg-id="DHE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1920px-2020_Canal_DHE_logo.svg.png" group-title="Peliculas y Series",DHE
-http://217.26.191.118:8126/play/a0dm/index.m3u8
+http://181.78.23.162:8000/play/a06s/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTVSPORTS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",Directv Sports HD 
 https://bmf0aw9u.fubohd.com/dsports/mono.m3u8?token=383ee81cedecbe5e1986e368036848cfc61ff79a-4b-1739857139-1739821139
 #EXTINF:-1 tvg-id="DIRECTVSPORTS2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes",Directv Sports 2 HD 
@@ -158,17 +158,17 @@ http://45.181.123.194:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="History2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/375px-History2_logo_%282022%29.svg.png" group-title="Ciencia y Cultura",History 2
 http://45.181.123.194:8000/play/a0e4/index.m3u8
 #EXTINF:-1 tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png" group-title="Peliculas y Series",HBO
-http://189.127.167.71:8000/play/a04k
+http://181.78.23.162:8000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" group-title="Peliculas y Series",HBO 2
 http://45.186.106.207:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="HBO+.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png" group-title="Peliculas y Series",HBO +
-http://45.181.123.194:8001/play/a00i/index.m3u8
+http://181.78.23.162:8000/play/a0l4/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1024px-HBO_Family.svg.png" group-title="Peliculas y Series",HBO Family
 http://189.127.167.71:8000/play/a052
 #EXTINF:-1 tvg-id="HBOPop.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="Peliculas y Series",HBO Pop
 http://200.59.188.3:8000/play/a00m
 #EXTINF:-1 tvg-id="HBOXtreme.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="Peliculas y Series",HBO Xtreme
-http://189.127.167.71:8000/play/a053
+http://181.78.23.162:8000/play/a06x/index.m3u8
 #EXTINF:-1 tvg-id="HolaTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg" group-title="Entretenimiento",Hola TV
 http://138.186.20.13:23200/play/a054
 #EXTINF:-1 tvg-id="JTBC.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/JTBC_logo.svg/1920px-JTBC_logo.svg.png" group-title="Internacionales",JTBC
@@ -254,7 +254,7 @@ https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1024px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Infantil",Nickelodeon
 https://epg.pw/stream/bef8cba2d8138b68bfe911a67fbd82c5001a748c6aede3fabdb5b5712964eb53.m3u8
 #EXTINF:-1 tvg-id="Paramount.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Paramount%2B_logo.svg/480px-Paramount%2B_logo.svg.png" group-title="Peliculas y Series",Paramount
-http://171.22.165.241:8888/play/a0mc
+http://181.78.23.162:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="Pasiones.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1920px-Pasiones_Tv_logo.svg.png" group-title="Entretenimiento",Pasiones
 http://190.60.40.37:12500/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTvK-Drama.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1920px-Pluto_TV_logo_2020.svg.png" group-title="Internacionales",Pluto TV K-Drama
@@ -294,21 +294,21 @@ https://agvyby.fubohd.com/sky_sports_laliga/tracks-v1a1/mono.m3u8?token=ccec9457
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_SRF_1.svg/1920px-Logo_SRF_1.svg.png" group-title="Internacionales",SFR 1
 http://45.65.112.49:8000/play/a08y
 #EXTINF:-1 tvg-id="StarChannelCentro.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png" group-title="Peliculas y Series",Star Channel 
-http://45.71.37.194:8010/play/a042/index.m3u8
+http://181.78.23.162:8000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-id="StarTVE.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Internacionales",Star TVE
 http://45.190.187.226:58092/play/a02k
 #EXTINF:-1 tvg-id="SonyChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/180px-Sony_Channel_Logo.png" group-title="Peliculas y Series",Sony Channel
-http://207.248.2.105:3200/play/a0fk/index.m3u8
+http://181.78.23.162:8000/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-id="Space.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1920px-SpaceLogo.svg.png" group-title="Peliculas y Series",Space
-http://190.242.41.219:9000/play/a09q/index.m3u8
+http://181.78.23.162:8000/play/a0ab/index.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Logo_si.JPG" group-title="Deportes",Sportitalia
 https://stream.freetv.fun/sportitalia-1.m3u8
 #EXTINF:-1 tvg-id="StingrayiConcerts.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Stingray_Concerts.svg/330px-Stingray_Concerts.svg.png" group-title="Musicales",Stingray iConcerts
 http://45.70.237.221:8000/play/a0pv/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="Peliculas y Series",Studio Universal
-http://45.71.37.194:8010/play/a02k/index.m3u8
+http://181.78.23.162:8000/play/a06c/index.m3u8
 #EXTINF:-1 tvg-id="SunChannel.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/500px-Sun_Channel_Logo_2022.webp.png" group-title="Entretenimiento",Sun Channel
-http://45.71.37.194:8010/play/a01s/index.m3u8
+http://181.78.23.162:8000/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="TBSeFM.kr" tvg-logo="https://cdn-profiles.tunein.com/s113003/images/logog.png" group-title="Musicales",TBS eFM
 https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_360.smil/chunklist_b414000.m3u8
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Logo_TBS.svg/600px-Logo_TBS.svg.png" group-title="Internacionales",TBS TV Seoul
@@ -326,7 +326,7 @@ http://148.113.190.252/tnthd/index.m3u8
 #EXTINF:-1 tvg-id="TntSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1920px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports
 http://45.232.210.3:8000/play/cdfhd
 #EXTINF:-1 tvg-id="TntSeries.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Peliculas y Series",TNT Series
-http://207.248.2.105:3200/play/a0g8/index.m3u8
+http://181.78.23.162:8000/play/a0bl/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="Ciencia y Cultura",Travelxp
 http://177.234.247.66:8888/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1920px-TUDN_Logo.svg.png" group-title="Deportes",TUDN
@@ -348,7 +348,7 @@ https://stream1.freetv.fun/tv-tokyo-test-1.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/480px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports
 https://ch04-04-11-tyc.vodgc.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
 #EXTINF:-1 tvg-id="UniversalChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" group-title="Peliculas y Series",Universal Channel
-http://207.248.2.105:3200/play/a04q/index.m3u8
+http://181.78.23.162:8000/play/a0iw/index.m3u8
 #EXTINF:-1 tvg-id="Univision.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/725px-Logo_Univision_2019.svg.png" group-title="Internacionales",Univision
 https://7.tiofutbol.com/univision/mono.m3u8?token=71821b37bb036649860f07829cfbd9a8aec10486-a10274d26b8096c27c2f76667c93637a-1720346324-1720313924&remote=38.25.28.10
 #EXTINF:-1 tvg-id="WarnerChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Peliculas y Series",Warner Channel
