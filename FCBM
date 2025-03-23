@@ -129,6 +129,8 @@ http://179.63.36.2:8000/play/a0p2/index.m3u8
 https://bcja.pricesaskeloadsc.com/disney16/tracks-v1a1/mono.m3u8?token=60acc28b749d945a94ca803a3358e7945e4a9bc8-bb-1738205987-1738173587
 #EXTINF:-1 tvg-id="ESPNPREMIUM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1920px-ESPN_Premium_logo.svg.png" group-title="Deportes",ESPN PREMIUM
 http://179.63.36.2:8000/play/a0ko/index.m3u8
+#EXTINF:-1 tvg-id="Disney+.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/1280px-Disney%2B_2024.svg.png" group-title="Deportes",ESPN Disney+
+https://cgxheq.fubohd.com/disney15/mono.m3u8?token=a59b2729acd61930e5a9fb319ee08e70c6500d4f-1c-1742797696-1742761696
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="Entretenimiento",El Gourmet
 http://217.26.191.118:8126/play/a0fw/index.m3u8
 #EXTINF:-1 tvg-id="Europaeuropa.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="Internacionales",Europa europa
