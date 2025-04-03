@@ -124,7 +124,7 @@ http://200.37.199.140:8000/play/a06m/index.m3u8
 #EXTINF:-1 tvg-id="ESPN6.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1920px-ESPN_6_logo.svg.png" group-title="Deportes",ESPN 6
 http://200.37.199.140:8000/play/a03l/index.m3u8
 #EXTINF:-1 tvg-id="ESPN7.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1920px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7
-http://179.63.36.2:8000/play/a0p2/index.m3u8
+http://190.107.20.43:6004/play/a07m
 #EXTINF:-1 tvg-id="ESPNDEPORTES.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1920px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN DEPORTES
 http://45.68.35.218:4001/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="ESPNPREMIUM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1920px-ESPN_Premium_logo.svg.png" group-title="Deportes",ESPN PREMIUM
