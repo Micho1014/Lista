@@ -7,7 +7,7 @@ http://190.0.241.181:8000/play/a0al/index.m3u8
 http://190.0.241.181:8000/play/a0b9/index.m3u8
 #EXTINF:-1 tvg-id="APPLETV.us" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/02/Apple-TV-logo.png" group-title="Deportes",Apple TV
 https://bmf0aw9u.fubohd.com/mls/tracks-v1a1/mono.m3u8?token=5505d7232769371a626fa17702c69500b7e3a994-fb-1737293993-1737257993
-#EXTINF:-1 tvg-id="Arirang.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/1920px-Arirang-TV-Logo.svg.png" group-title="Internacionales",Arirang
+#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/1920px-Arirang-TV-Logo.svg.png" group-title="Internacionales", Arirang
 https://stream1.freetv.fun/arirang-20.ctv
 #EXTINF:-1 tvg-id="ArirangRadio.kr" tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="Musicales",Arirang Radio
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
