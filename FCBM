@@ -168,7 +168,7 @@ http://201.230.137.204:8000/play/a0id/index.m3u8
 #EXTINF:-1 tvg-id="HBOPop.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="Peliculas y Series",HBO Pop
 http://200.59.188.3:8000/play/a00m
 #EXTINF:-1 tvg-id="HBOXtreme.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="Peliculas y Series",HBO Xtreme
-http://201.230.137.204:8000/play/a0ie/index.m3u8
+http://45.5.117.57:8200/play/a0l6/index.m3u8
 #EXTINF:-1 tvg-id="HolaTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg" group-title="Entretenimiento",Hola TV
 http://138.186.20.13:23200/play/a054
 #EXTINF:-1 tvg-id="JTBC.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/JTBC_logo.svg/1920px-JTBC_logo.svg.png" group-title="Internacionales",JTBC
