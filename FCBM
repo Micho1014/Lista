@@ -16,7 +16,7 @@ http://177.234.230.206:8011/play/a0j4/index.m3u8
 #EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png" group-title="Peliculas y Series",Atreseries
 http://177.234.230.206:8011/play/a0o1/index.m3u8
 #EXTINF:-1 tvg-id="AXN.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1920px-AXN_logo_%282015%29.svg.png" group-title="Peliculas y Series",AXN
-http://38.190.107.211:8000/play/a05d/index.m3u8
+http://201.230.137.204:8000/play/a0ir/index.m3u8
 #EXTINF:-1 tvg-id="AZCinema.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/1920px-TV_Azteca_Cinema_logo.svg.png" group-title="Peliculas y Series",AZ Cinema
 http://179.1.147.210:5000/play/a01u
 #EXTINF:-1 tvg-id="AmericaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/800px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Perú",America Tv
@@ -162,13 +162,13 @@ http://181.78.74.69:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" group-title="Peliculas y Series",HBO 2
 http://45.186.106.207:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="HBO+.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png" group-title="Peliculas y Series",HBO +
-http://181.78.23.162:8000/play/a0l4/index.m3u8
+http://201.230.137.204:8000/play/a0f6/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1024px-HBO_Family.svg.png" group-title="Peliculas y Series",HBO Family
-http://189.127.167.71:8000/play/a052
+http://201.230.137.204:8000/play/a0id/index.m3u8
 #EXTINF:-1 tvg-id="HBOPop.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="Peliculas y Series",HBO Pop
 http://200.59.188.3:8000/play/a00m
 #EXTINF:-1 tvg-id="HBOXtreme.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="Peliculas y Series",HBO Xtreme
-http://181.78.23.162:8000/play/a06x/index.m3u8
+http://201.230.137.204:8000/play/a0ie/index.m3u8
 #EXTINF:-1 tvg-id="HolaTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg" group-title="Entretenimiento",Hola TV
 http://138.186.20.13:23200/play/a054
 #EXTINF:-1 tvg-id="JTBC.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/JTBC_logo.svg/1920px-JTBC_logo.svg.png" group-title="Internacionales",JTBC
@@ -298,7 +298,7 @@ http://181.78.208.254:8080/play/a0cs/index.m3u8
 #EXTINF:-1 tvg-id="StarTVE.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Internacionales",Star TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/180px-Sony_Channel_Logo.png" group-title="Peliculas y Series",Sony Channel
-http://181.78.208.254:8080/play/a0dz/index.m3u8
+http://201.230.137.204:8000/play/a0ip/index.m3u8
 #EXTINF:-1 tvg-id="Space.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1920px-SpaceLogo.svg.png" group-title="Peliculas y Series",Space
 http://181.78.208.254:8080/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Logo_si.JPG" group-title="Deportes",Sportitalia
@@ -322,7 +322,7 @@ http://161.132.243.192:50001/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="TheK-pop.kr" tvg-logo="https://pbs.twimg.com/profile_images/1224570939972575232/KSiGcUtU_400x400.jpg" group-title="Musicales",The K-POP by SBS M
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720923069/ei/XN-SZtnKOpK_sfIP-9yNmAI/ip/20.168.76.145/id/JVocS7Yftw8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-iv.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAeZO_wfDrcPGkh43rLGzvz2dIVQUih4cKKZChechizl658uIldGMLyxdhRY/vprv/1/playlist_type/DVR/initcwndbps/4915000/mh/wS/mm/44/mn/sn-iv/ms/lva/mv/m/mvi/5/pl/15/dover/11/pacing/0/keepalive/yes/mt/1720901086/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAIyRUZmIE9CotzKLNUL0Z95qHkz8_ZBxspsZ5s-s4PCvAiEArBthxy5GCxo7jRI6fK1aN34Z4Escp98_y0ygUMHYeoQ%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgFcDtzKf8wjy-KP6zTBlwrGqaXNRLXgbn6evSVV_o7OcCIE9h2BMdHWsx-BtqMRvO5fq5f82cpaKJbvqpE5L4j89H/playlist/index.m3u8
 #EXTINF:-1 tvg-id="Tnt.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/800px-TNT_%28TV_Channel%29.svg.png" group-title="Peliculas y Series",TNT
-http://148.113.190.252/tnthd/index.m3u8
+http://201.230.137.204:8000/play/a0im/index.m3u8
 #EXTINF:-1 tvg-id="TntSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1920px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports
 http://45.232.210.3:8000/play/cdfhd
 #EXTINF:-1 tvg-id="TntSeries.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Peliculas y Series",TNT Series
@@ -350,7 +350,7 @@ https://stream1.freetv.fun/tv-tokyo-2.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/480px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports
 https://ch04-04-11-tyc.vodgc.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
 #EXTINF:-1 tvg-id="UniversalChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" group-title="Peliculas y Series",Universal Channel
-http://181.78.23.162:8000/play/a0iw/index.m3u8
+http://201.230.137.204:8000/play/a0hv/index.m3u8
 #EXTINF:-1 tvg-id="Univision.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/725px-Logo_Univision_2019.svg.png" group-title="Internacionales",Univision
 https://7.tiofutbol.com/univision/mono.m3u8?token=71821b37bb036649860f07829cfbd9a8aec10486-a10274d26b8096c27c2f76667c93637a-1720346324-1720313924&remote=38.25.28.10
 #EXTINF:-1 tvg-id="WarnerChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Peliculas y Series",Warner Channel
