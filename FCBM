@@ -226,15 +226,15 @@ https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/218px-Logotipo_de_Mega_%282020-%29.svg.png" group-title="Entretenimiento",Mega
 http://170.254.234.244:9009/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="Mtv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1280px-MTV-2021.svg.png" group-title="Musicales",MTV
-http://181.119.107.201:5054/play/a0b3/index.m3u8
+http://201.230.137.204:8000/play/a0iz/index.m3u8
 #EXTINF:-1 tvg-id="MtvHits.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/631px-MTV_Hits_2021.svg.png" group-title="Musicales",MTV Hits
 http://179.1.147.210:5000/play/a02c
 #EXTINF:-1 tvg-id="MtvLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1024px-MTV_Live_2021_logo.svg.png" group-title="Musicales",MTV Live
-http://190.60.40.37:12500/play/a015/index.m3u8
+http://201.230.137.204:8000/play/a0iy/index.m3u8
 #EXTINF:-1 tvg-id="Mtv00.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Musicales",MTV 00's  
-http://181.48.150.203:8000/play/a0sz/index.m3u8
+http://45.5.117.57:8200/play/a0i0/index.m3u8
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1920px-Movistar_Deportes.svg.png" group-title="Deportes",Movistar Deportes
-https://tokio.crackstreamslivehd.com/movistar_deportes_peru/tracks-v1a1/mono.m3u8?ip=38.25.18.234&token=cf2e00f61e81da2f5781e7e1a33c381bcedd6f5c-6b-1745359684-1745327284
+http://190.108.83.86:8000/play/a07s/index.m3u8
 #EXTINF:-1 tvg-id="MovistarEventos1.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F08%2F00%2F8005555_950265F10D883D1D.png&height=60&resize=RATIO&format=PNG" group-title="Deportes",Movistar Eventos 1
 https://server.betzta.com/lb/movistarligadecampeones7/index.m3u8?token=8bf651e5ad6218847a5b82843d63a26c4da78315-e2ce790efd3fa7ccae3b509ccbc00f39-1731637283-1731626483&remote=38.25.15.10
 #EXTINF:-1 tvg-id="MovistarEventos2.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F08%2F49%2F8497308_4421741CE2838F7D.png&height=60&resize=RATIO&format=PNG" group-title="Deportes",Movistar Eventos 2
