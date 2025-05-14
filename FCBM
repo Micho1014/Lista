@@ -116,7 +116,7 @@ http://200.37.199.140:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 CENTRO
 http://45.186.106.207:8000/play/a08x/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3S.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 SUR 
-http://190.60.49.244:4000/play/a070
+http://38.250.119.233:4444/play/a099/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 CENTRO
 http://38.190.107.211:8000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4
