@@ -31,10 +31,12 @@ https://stream1.freetv.fun/bbc-world-1.m3u8
 http://190.13.128.151:8000/play/a00m
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-logo="https://pbs.twimg.com/profile_images/899643326831501313/KieG4VDx_400x400.jpg" group-title="Noticias",Canal N
 http://oaktvpro.club:8080/live/RaulTapia/Raul2023/3409.m3u8
+#EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://en.wikipedia.org/wiki/RCN_Televisi%C3%B3n#/media/File:CanalRCN2023.png" group-title="Internacionales",Canal RCN
+http://190.109.4.34:8000/play/a08k/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
 http://177.234.230.206:8011/play/a0kp/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Caracol_Televisi%C3%B3n_logo_2023.png" group-title="Internacionales",Caracol Television
-http://45.176.193.222:2405/play/a04r
+http://190.109.4.34:8000/play/a089/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTelevision2.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Caracol_Televisi%C3%B3n_logo_2023.png" group-title="Internacionales",Caracol Television 2
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-id="CCTV-4.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/CCTV-4_channel.svg/800px-CCTV-4_channel.svg.png" group-title="Internacionales",CCTV-4
@@ -46,7 +48,7 @@ https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 #EXTINF:-1 tvg-id="CGTNEspañol.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Internacionales",CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="Chilevision.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logotipo_Principal_de_Chilevisi%C3%B3n.svg/1920px-Logotipo_Principal_de_Chilevisi%C3%B3n.svg.png" group-title="Internacionales",Chilevision
-http://190.13.128.151:8000/play/a00k
+http://45.71.37.196:8010/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1920px-CinecanalLA.png" group-title="Peliculas y Series",Cinecanal
 http://181.78.208.254:8080/play/a0b8/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1920px-Cinemax_%28Yellow%29.svg.png" group-title="Peliculas y Series",Cinemax
@@ -149,6 +151,8 @@ http://45.68.35.218:4001/play/a021/index.m3u8
 http://45.68.35.218:4001/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="FX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="Peliculas y Series",FX
 http://190.95.60.228:8500/play/a02p
+#EXTINF:-1 tvg-id="GEN.py" tvg-logo="https://versuspy2.fra1.cdn.digitaloceanspaces.com/gen/assets/images/gen.svg" group-title="Deportes",GEN
+https://qzv4jmsc.fubohd.com/eventos5/mono.m3u8?token=b275b2ead0ceb046e68183397015dc24973d6003-a2-1749179972-1749161972
 #EXTINF:-1 tvg-id="GloboInternacional.br" tvg-logo="https://assets.website-files.com/5aecec4570137400861ad117/5c5c77a52662fe0f3e2db2f4_logo_globo_internacional.png" group-title="Internacionales",Globo Internacional
 http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/16730
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="Deportes",Gol Perú 
