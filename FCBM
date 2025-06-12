@@ -276,13 +276,15 @@ http://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/63211ba9cad976000794f9
 #EXTINF:-1 tvg-id="RaiItalia.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1920px-Rai_Italia_-_Logo_2017.svg.png" group-title="Internacionales",Rai Italia
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1024px-Rai_1_-_Logo_2016.svg.png" group-title="Internacionales",Rai 1
-http://45.59.149.54:8032/play/s1882
+https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
 #EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1024px-Rai_2_-_Logo_2016.svg.png" group-title="Internacionales",Rai 2
-http://45.59.149.54:8032/play/s1883
+https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 #EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1024px-Rai_3_-_Logo_2016.svg.png" group-title="Internacionales",Rai 3
-http://45.59.149.54:8032/play/s1884
+https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1920px-Rai_Movie_-_Logo_2017.svg.png" group-title="Internacionales",Rai Movie
 http://45.59.149.54:8032/play/s1886
+#EXTINF:-1 tvg-id="RaiWorldPremium.it" tvg-logo="https://tvprofil.com/img/kanali-logo/RAI_World_Premium_IT_logo_v2.png" group-title="Internacionales",Rai World Premium
+https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 #EXTINF:-1 tvg-id="RPPTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Noticias",RPP TV
 http://oaktvpro.club:8080/live/RaulTapia/Raul2023/3416.m3u8
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/1920px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="Internacionales",RTP Internacional
@@ -356,7 +358,7 @@ https://stream1.freetv.fun/tvn-4.ctv
 #EXTINF:-1 tvg-id="tvNMovies.kr" tvg-logo="https://www.pngkey.com/png/full/107-1070871_tvn-movies-film.png" group-title="Internacionales",tvN Movies
 https://stream1.freetv.fun/tvn-movies-9.ctv
 #EXTINF:-1 tvg-id="TVTOKYO.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/1920px-TV_Tokyo_logo_2023.svg.png" group-title="Internacionales",TV Tokyo
-https://stream1.freetv.fun/tv-tokyo-2.m3u8
+http://vthanh.utako.moe/TV_Tokyo/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/480px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports
 https://ch04-04-11-tyc.vodgc.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
 #EXTINF:-1 tvg-id="UniversalChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" group-title="Peliculas y Series",Universal Channel
