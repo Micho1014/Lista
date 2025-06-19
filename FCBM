@@ -82,11 +82,11 @@ https://zona593.live:8443/play/JxoB_PXAnedltw3863yXc6iAZjzwT7NCVn8W2z21zCs/ts
 #EXTINF:-1 tvg-id="DHE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1920px-2020_Canal_DHE_logo.svg.png" group-title="Peliculas y Series",DHE
 http://38.250.119.233:4444/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTVSPORTS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",Directv Sports HD 
-http://181.78.106.127:9000/play/ca026/index.m3u8
+http://217.26.190.76:8888/play/a0co/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTVSPORTS2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes",Directv Sports 2 HD 
 http://200.60.124.19:29000/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTVSPORTS+.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="Deportes",Directv Sports + HD 
-https://zw5k.la10tv.com/dsportsplus/tracks-v1a1/mono.m3u8?remote=38.25.25.170&token=c3638d279aa410d29d1c9d109e22dfb30c612ac8-a768d0d238dcb701eb63a155d917dc53-1728802949-1728766949
+http://217.26.190.76:8888/play/a0jb/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTVSPORTSFIGHT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/DSportsFight.png" group-title="Deportes",Directv Sports Fight + HD 
 http://181.177.255.253:8000/play/a077/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryH&H.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1280px-Discovery_Home_%26_Health_logo.svg.png" group-title="Ciencia y Cultura",Discovery H&H
@@ -156,7 +156,7 @@ https://qzv4jmsc.fubohd.com/eventos5/mono.m3u8?token=b275b2ead0ceb046e6818339701
 #EXTINF:-1 tvg-id="GloboInternacional.br" tvg-logo="https://assets.website-files.com/5aecec4570137400861ad117/5c5c77a52662fe0f3e2db2f4_logo_globo_internacional.png" group-title="Internacionales",Globo Internacional
 http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/16730
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="Deportes",Gol Perú 
-http://181.65.180.184:8500/play/a05g/index.m3u8
+http://181.176.153.107:8090/play/a1av/index.m3u8
 #EXTINF:-1 tvg-id="GolTV.us" tvg-logo="https://yt3.googleusercontent.com/fHJVG2vfMoKMP6BDE-Iio9P4fAXlRlzEN_HjK8kG6qMB0xpy0BFwnixlkvqSEDQGaY2nwZCim_w=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes",Gol TV Latam 
 http://38.7.204.232:8010/play/a2mc/index.m3u8
 #EXTINF:-1 tvg-id="Golden.mx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png" group-title="Peliculas y Series",Golden Plus
@@ -240,11 +240,7 @@ http://201.230.137.204:8000/play/a0iy/index.m3u8
 #EXTINF:-1 tvg-id="Mtv00.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Musicales",MTV 00's  
 http://45.5.117.57:8200/play/a0i0/index.m3u8
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1920px-Movistar_Deportes.svg.png" group-title="Deportes",Movistar Deportes
-http://38.250.119.233:4444/play/a002/index.m3u8
-#EXTINF:-1 tvg-id="MovistarEventos1.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F08%2F00%2F8005555_950265F10D883D1D.png&height=60&resize=RATIO&format=PNG" group-title="Deportes",Movistar Eventos 1
-https://server.betzta.com/lb/movistarligadecampeones7/index.m3u8?token=8bf651e5ad6218847a5b82843d63a26c4da78315-e2ce790efd3fa7ccae3b509ccbc00f39-1731637283-1731626483&remote=38.25.15.10
-#EXTINF:-1 tvg-id="MovistarEventos2.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F08%2F49%2F8497308_4421741CE2838F7D.png&height=60&resize=RATIO&format=PNG" group-title="Deportes",Movistar Eventos 2
-https://bmv3.la10tv.com/movistar_eventos2/tracks-v1a1/mono.m3u8?id=38.25.25.170&token=bd742907e696e6844b5b0800cf1f8aa81aaa63d1-cb-1729068366-1729032366
+http://181.176.153.107:8090/play/a13i/index.m3u8
 #EXTINF:-1 tvg-id="NatGeo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1920px-Natgeologo.svg.png" group-title="Ciencia y Cultura",Nat Geo
 http://170.254.234.244:9009/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://static.claro.com.pe/img/logos/logo-nativa.jpg" group-title="Perú",Nativa
