@@ -70,9 +70,9 @@ https://live.smartechlatam.online/claro/javierprado/index.m3u8
 #EXTINF:-1 tvg-id="Clover.us" tvg-logo="https://cloverchannel.com/wp-content/uploads/2023/12/Clover_7-300x87.png" group-title="Peliculas y Series",Clover
 http://200.59.188.3:8000/play/a0te
 #EXTINF:-1 tvg-id="CNN Chile.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/800px-CNN_Chile_logo_2017.svg.png" group-title="Noticias",CNN Chile
-http://45.71.37.194:8010/play/a044/index.m3u8
+http://217.26.190.76:8888/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="CNNESPANOL.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1280px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Noticias",CNN Español
-http://201.182.248.254:8888/play/a0a8/index.m3u8
+http://217.26.190.76:8888/play/a0aj/index.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/800px-CNN_International_logo.svg.png" group-title="Noticias",CNN International
 https://stream1.freetv.fun/cnn-int-1.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="Peliculas y Series",Comedy Central
