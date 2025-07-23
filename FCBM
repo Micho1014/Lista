@@ -108,7 +108,7 @@ http://190.83.2.172:8080/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="EITBasque.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/1920px-ETB_Basque_2022_logo.svg.png" group-title="Internacionales",ETB Basque
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-id="ESPN1S.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN SUR
-http://45.238.146.131:8008/play/a02w/index.m3u8
+http://190.217.23.56:1010/play/a0ee/index.m3u8
 #EXTINF:-1 tvg-id="ESPNCHILE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN CHILE
 http://190.52.105.146:8000/play/a0h6/index.m3u8
 #EXTINF:-1 tvg-id="ESPNCOLOMBIA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN COLOMBIA
@@ -116,21 +116,21 @@ http://190.217.23.56:1010/play/a0ee/index.m3u8
 #EXTINF:-1 tvg-id="ESPN1C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN CENTRO
 http://38.190.107.211:8000/play/a05h/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2S.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 SUR
-http://200.37.199.140:8000/play/a035/index.m3u8
+http://200.60.124.20:29000/play/a0g1/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 CENTRO
 http://45.186.106.207:8000/play/a08x/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3S.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 SUR 
-http://45.71.37.196:8010/play/a0p6/index.m3u8
+http://190.52.105.146:8000/play/a0gq/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 CENTRO
 http://38.190.107.211:8000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4
-http://45.71.37.196:8010/play/a0cf/index.m3u8
+http://190.217.23.56:1010/play/a0ci/index.m3u8
 #EXTINF:-1 tvg-id="ESPN5.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1920px-ESPN_5_logo.svg.png" group-title="Deportes",ESPN 5
-http://45.71.37.196:8010/play/a0m9/index.m3u8
+http://190.52.105.146:8000/play/a0gi/index.m3u8
 #EXTINF:-1 tvg-id="ESPN6.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1920px-ESPN_6_logo.svg.png" group-title="Deportes",ESPN 6
-http://45.71.37.196:8010/play/a0fh/index.m3u8
+http://190.52.105.146:8000/play/a0as/index.m3u8
 #EXTINF:-1 tvg-id="ESPN7.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1920px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7
-http://181.189.241.114:5050/play/a0bw
+http://200.60.124.20:29000/play/a0h1/index.m3u8
 #EXTINF:-1 tvg-id="ESPNDEPORTES.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1920px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN DEPORTES
 http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="ESPNPREMIUM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1920px-ESPN_Premium_logo.svg.png" group-title="Deportes",ESPN PREMIUM
