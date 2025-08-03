@@ -68,7 +68,7 @@ https://live.smartechlatam.online/claro/lamarina/index.m3u8
 #EXTINF:-1 tvg-id="ClaTv.pe" tvg-logo="https://static.claro.com.pe/img/logos/canal-6-claro.jpg" group-title="Trafico En Vivo",Javier Prado
 https://live.smartechlatam.online/claro/javierprado/index.m3u8
 #EXTINF:-1 tvg-id="Clover.us" tvg-logo="https://cloverchannel.com/wp-content/uploads/2023/12/Clover_7-300x87.png" group-title="Peliculas y Series",Clover
-http://200.59.188.3:8000/play/a0te
+http://179.1.147.210:5000/play/a05y
 #EXTINF:-1 tvg-id="CNN Chile.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/800px-CNN_Chile_logo_2017.svg.png" group-title="Noticias",CNN Chile
 http://217.26.190.76:8888/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="CNNESPANOL.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1280px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Noticias",CNN Español
@@ -94,7 +94,7 @@ http://190.95.60.228:8500/play/a047
 #EXTINF:-1 tvg-id="Discovery.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" group-title="Ciencia y Cultura",Discovery
 http://190.95.60.228:8500/play/a048
 #EXTINF:-1 tvg-id="DiscoveryKids.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/215px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Infantil",Discovery Kids
-http://190.217.22.156:18000/play/a001
+http://8.243.67.133:8003/play/a090/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTheater.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1920px-2015_Discovery_theater_HD_logo.svg.png" group-title="Ciencia y Cultura",Discovery Theater
 http://190.95.60.228:8500/play/a02t
 #EXTINF:-1 tvg-id="DiscoveryWorld.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1920px-World_Discovery_HD_logo.svg.png" group-title="Ciencia y Cultura",Discovery World
@@ -102,13 +102,13 @@ http://190.95.60.228:8500/play/a02v
 #EXTINF:-1 tvg-id="DisneyChannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png" group-title="Infantil",Disney Channel
 http://190.95.60.228:8500/play/a02l
 #EXTINF:-1 tvg-id="DWEspañol.de" tvg-logo="https://cfres-71f3.kxcdn.com/si/l/dw-news.jpg" group-title="Noticias",DW Español
-http://45.169.39.162:8000/play/a03n/index.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="E!Latino.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png" group-title="Entretenimiento",E! Latino
 http://190.83.2.172:8080/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="EITBasque.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/1920px-ETB_Basque_2022_logo.svg.png" group-title="Internacionales",ETB Basque
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-id="ESPN1S.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN SUR
-http://190.217.23.56:1010/play/a0ee/index.m3u8
+http://8.243.67.133:8003/play/a09k/index.m3u8
 #EXTINF:-1 tvg-id="ESPNCHILE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN CHILE
 http://190.52.105.146:8000/play/a0h6/index.m3u8
 #EXTINF:-1 tvg-id="ESPNCOLOMBIA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN COLOMBIA
@@ -144,7 +144,7 @@ http://38.250.119.233:4444/play/a0cj/index.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Noticias",Exitosa TV
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="FIFA+.us" tvg-logo="https://i0.wp.com/www.socceramerica.com/wp-content/uploads/2023/09/fifa-plus-logo-small_tE1mfbX.png" group-title="Deportes",FIFA+
-http://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/66997d18a1b69e00082ee85flivestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+https://stream1.freetv.fun/fifa-plus-spain-1.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes",Fox Sports 1 Centro
 http://45.68.35.218:4001/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png" group-title="Deportes",Fox Sports 2 Centro 
@@ -392,7 +392,7 @@ https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/1920px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Nacional", 7.3 TV Peru Noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-logo="https://pbs.twimg.com/profile_images/899643326831501313/KieG4VDx_400x400.jpg" group-title="Nacional", 8.1 Canal N
-http://190.116.38.19:9090/play/a01d/index.m3u8
+http://181.176.153.107:8090/play/a0or/index.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" group-title="Nacional", 9.1 ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="ATV+Noticias.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/1920px-ATV%2B_logo_2020.png" group-title="Nacional", 9.2 ATV+ Noticias
