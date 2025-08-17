@@ -132,7 +132,7 @@ http://190.52.105.146:8000/play/a0as/index.m3u8
 #EXTINF:-1 tvg-id="ESPN7.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1920px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7
 http://200.60.124.20:29000/play/a0h1/index.m3u8
 #EXTINF:-1 tvg-id="ESPNDEPORTES.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1920px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN DEPORTES
-http://190.92.10.66:4000/play/a003/index.m3u8
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1M2Q1YmI0NDBiOWI2LWRiNGEtNGRjNC1iODU4LTZkYzE3YTM4/master.m3u8
 #EXTINF:-1 tvg-id="ESPNPREMIUM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1920px-ESPN_Premium_logo.svg.png" group-title="Deportes",ESPN PREMIUM
 http://179.63.36.2:8000/play/a0ko/index.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="Entretenimiento",El Gourmet
@@ -145,6 +145,8 @@ http://38.250.119.233:4444/play/a0cj/index.m3u8
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="FIFA+.us" tvg-logo="https://i0.wp.com/www.socceramerica.com/wp-content/uploads/2023/09/fifa-plus-logo-small_tE1mfbX.png" group-title="Deportes",FIFA+
 https://stream1.freetv.fun/fifa-plus-spain-1.m3u8
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="Deportes",Fox Deportes
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NzJhZTA0ODBkNjlkLThiZDgtZjIyNC02NzM5LTJlYmVmMjYw/master.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes",Fox Sports 1 Centro
 http://45.68.35.218:4001/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png" group-title="Deportes",Fox Sports 2 Centro 
@@ -205,6 +207,8 @@ http://mytv.dothome.co.kr/ch/catv/4.php
 http://mytv.dothome.co.kr/ch/catv/1.php
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png" group-title="Internacionales",KBS World
 http://mytv.dothome.co.kr/ch/catv/7.php
+#EXTINF:-1 tvg-id="KPOPCORN.kr" tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_236/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Internacionales",K-POPCORN
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=k-popcorn&channel_id=newid_236&mpf=0f755f5e-39af1962-450ea33a&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=b97a27f4-0806f2da-1a19f271-7f766876&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-id="LeEquipe.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/La_cha%C3%AEne_l%27Equipe_-_logo_2016.png" group-title="Deportes",L'e Equipe Live 1
 https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/02a768df-3204-4f59-ab29-f9ed1759b3aa/3.m3u8
 #EXTINF:-1 tvg-id="LaRed.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/1024px-La_Red_Logotipo_2021.svg.png" group-title="Entretenimiento",La Red
@@ -224,7 +228,7 @@ https://jf4.naqsheala.com:999/hls/capespnarg.m3u8?md5=aBqusTinAlEao1S4MTTG_w&exp
 #EXTINF:-1 tvg-id="MBCAmerica.us" tvg-logo="https://www.mbc-america.com/images/logo/MBXAMERICA_LOGO.png" group-title="Internacionales",MBC America
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
 #EXTINF:-1 tvg-id="MBCDrama.kr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCJNzQa35fy0hfJRXoHOnheq8m6r7B1Wxwz029Mb3TKA&s" group-title="Internacionales",MBC Drama
-https://6a4601d2f50b4d62ad7f4ab955669d27.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gdszk6u5jzbbu/6ffb917b-d383-4a67-95d3-05ce8c9fd0c5/2.m3u8
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=k-dramabymbc&channel_id=newid_311&mpf=a2e5c248-39af1962-3aaf2a5b&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=40b6b9dc-585ca260-17a4e6b5-2f2c38cc&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-id="MBCEvery1.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC_every1_logo.png" group-title="Internacionales",MBC Every 1
 https://ythls.armelin.one/channel/UC-VbFgagk6GJGDJgRQIMpZw.m3u8
 #EXTINF:-1 tvg-id="MBCNews.kr" tvg-logo="https://play-lh.googleusercontent.com/HqtVY28S66KoEjc1bi-qlKWKt0lVGdG9YEoBOHl2XkTPJZG03quFYoQMf5TlWaTgaD97" group-title="Internacionales",MBC News
@@ -247,14 +251,16 @@ http://181.176.153.107:8090/play/a13i/index.m3u8
 http://170.254.234.244:9009/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://static.claro.com.pe/img/logos/logo-nativa.jpg" group-title="Perú",Nativa
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="NEWKMOVIES.kr" tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_219/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Internacionales",New K-Movies
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovies&channel_id=newid_219&mpf=adfc204d-39af1962-103f07e6&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=b62c2c8b-8316a771-295eba28-f4663ddd&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-id="NHK.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/800px-NHK_logo_2020.svg.png" group-title="Internacionales",NHK
 https://stream1.freetv.fun/nhk-world-premium-5.m3u8
 #EXTINF:-1 tvg-id="NHKBS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png" group-title="Internacionales",NHK BS
 http://vthanh.utako.moe/NHK_BS/index.m3u8
 #EXTINF:-1 tvg-id="NHKBS4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png" group-title="Internacionales",NHK BS 4K
-http://luong.utako.moe/bsp4k/index.m3u8
+https://mt01.utako.moe/bsp4k/index.m3u8
 #EXTINF:-1 tvg-id="NHKGeneralTv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/800px-NHK_logo_2020.svg.png" group-title="Internacionales",NHK General Tv
-http://vthanh.utako.moe/NHK_G/index.m3u8
+https://mt01.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="Internacionales",NHK World Japan
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1024px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Infantil",Nickelodeon
@@ -283,6 +289,8 @@ https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
 http://45.59.149.54:8032/play/s1886
 #EXTINF:-1 tvg-id="RaiWorldPremium.it" tvg-logo="https://tvprofil.com/img/kanali-logo/RAI_World_Premium_IT_logo_v2.png" group-title="Internacionales",Rai World Premium
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
+#EXTINF:-1 tvg-id="ROMCOM.kr" tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_234/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Internacionales",ROMCOM K-Drama
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=romcomk-drama&channel_id=newid_234&mpf=e17b3e72-39af1962-cd108c3b&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=375dca02-8dfed015-c42201cb-fa8e4ab9&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-id="RPPTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Noticias",RPP TV
 http://oaktvpro.club:8080/live/RaulTapia/Raul2023/3416.m3u8
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/1920px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="Internacionales",RTP Internacional
@@ -293,8 +301,8 @@ https://cachehsi1a.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 http://45.65.112.49:8000/play/a091
 #EXTINF:-1 tvg-id="SBS.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1920px-Seoul_Broadcasting_System_logo.svg.png" group-title="Internacionales",SBS
 http://www.hwado.net/webtv/catv/502_76142D8F.php
-#EXTINF:-1 tvg-id="SBSPLAY.kr" tvg-logo="https://www.sbs.co.kr/images/m/about_sbsplay_logo.png" group-title="Internacionales",SBS Drama Play
-https://newidco-sbs-1-eu.xiaomi.wurl.tv/bf4797101b0f71e947c36d35d707518b.m3u8
+#EXTINF:-1 tvg-id="SBSDrama.kr" tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_008/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Internacionales",SBS Drama 
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=sbsk-drama&channel_id=newid_008&mpf=c064f5f4-39af1962-6d5d5e50&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=474ab4cb-5d47aa0a-84d0cbca-2a3730a6&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-id="SBSNews.kr" tvg-logo="https://yt3.googleusercontent.com/w7ColCSgsKVMJuh6izq4oRlYn-ZkJ8roQuHQy1Nvc75ONCH7uzLmoUE5YMJtZqFCHb4ZFPxAOg=s900-c-k-c0x00ffffff-no-rj" group-title="Internacionales",SBS News
 https://ythls.armelin.one/channel/UCkinYTS9IHqOEwR1Sze2JTw.m3u8
 #EXTINF:-1 tvg-id="Shuls.pe" tvg-logo="https://files.kick.com/images/user/2710300/profile_image/conversion/83339f6d-5ca0-4964-b844-7321ff89acc4-fullsize.webp" group-title="Kick",Shuls_off
@@ -358,7 +366,7 @@ https://stream1.freetv.fun/tvn-4.ctv
 #EXTINF:-1 tvg-id="tvNMovies.kr" tvg-logo="https://www.pngkey.com/png/full/107-1070871_tvn-movies-film.png" group-title="Internacionales",tvN Movies
 https://stream1.freetv.fun/tvn-movies-9.ctv
 #EXTINF:-1 tvg-id="TVTOKYO.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/1920px-TV_Tokyo_logo_2023.svg.png" group-title="Internacionales",TV Tokyo
-http://vthanh.utako.moe/TV_Tokyo/index.m3u8
+https://mt01.utako.moe/bstvtokyo/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/480px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports
 https://ch04-04-11-tyc.vodgc.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
 #EXTINF:-1 tvg-id="UniversalChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" group-title="Peliculas y Series",Universal Channel
