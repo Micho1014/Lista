@@ -364,7 +364,7 @@ http://45.186.252.17:7500/play/a08l
 #EXTINF:-1 tvg-id="TVEInternacional.es" tvg-logo="https://css2.rtve.es/css/rtveplay.2021/i/compartir_tve_internacional.jpg" group-title="Internacionales",TVE Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 tvg-id="TVELA1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/800px-Logo_TVE-1.svg.png" group-title="Internacionales",TVE La 1
-http://45.14.248.42:6001/play/La14K
+http://45.14.248.42:6001/play/La1HD
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/1920px-Logo_TF1_2013.svg.png" group-title="Internacionales",TF1
 https://livetvde.net/tf1/tracks-v1a1/mono.m3u8?token=3fbc84ec5e36866444ebb49ee3a35aefc69896cb-7b4313dd6c690837cb8bdddb61fc86eb-1742766335-1742755535
 #EXTINF:-1 tvg-id="tvN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1280px-Logo_tvN.svg.png" group-title="Internacionales",tvN
