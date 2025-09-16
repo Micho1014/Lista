@@ -116,7 +116,7 @@ http://181.119.85.222:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="ESPN1C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN CENTRO
 http://38.190.107.211:8000/play/a05h/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2S.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 SUR
-http://143.0.67.77:8000/play/a059/index.m3u8
+http://45.232.176.17:8000/play/a023
 #EXTINF:-1 tvg-id="ESPN2C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 COLOMBIA
 http://186.194.160.110:9002/play/a0j2/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 CENTRO
@@ -126,7 +126,7 @@ http://190.52.105.146:8000/play/a0gq/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 CENTRO
 http://38.190.107.211:8000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4
-http://143.0.67.77:8000/play/a076/index.m3u8
+http://45.232.176.17:8000/play/a00r
 #EXTINF:-1 tvg-id="ESPN5.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1920px-ESPN_5_logo.svg.png" group-title="Deportes",ESPN 5
 http://190.52.105.146:8000/play/a0gi/index.m3u8
 #EXTINF:-1 tvg-id="ESPN6.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1920px-ESPN_6_logo.svg.png" group-title="Deportes",ESPN 6
@@ -154,9 +154,9 @@ http://181.78.106.127:9000/play/ca031/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1024px-Fox_Sports_2_Argentina_2023.svg.png" group-title="Deportes",Fox Sports 2
 http://181.78.106.127:9000/play/ca032/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes",Fox Sports 1 Centro
-http://45.68.35.218:4001/play/a021/index.m3u8
+http://clubtv.link/sep1409/phpcode/lista0.php?c=30&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png" group-title="Deportes",Fox Sports 2 Centro 
-http://45.68.35.218:4001/play/a01p/index.m3u8
+http://clubtv.link/sep1409/phpcode/lista0.php?c=29&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-id="FVidal.pe" tvg-logo="https://files.kick.com/images/user/41189386/profile_image/conversion/ab20ea29-1496-4b15-af1b-995778d93f10-fullsize.webp" group-title="Kick",FrancoVidalAlcalde
 https://sae11.playlist.live-video.net/v1/playlist/CuYF4HgJroevVr3un5FYTJPM7ahtf4y18JfvBufKrUPg4BFvJYacPLRAZglVU6BhQqcDk8SoW7RE7SXXsLCEOD7O18tYf9Z4AyUdZnKIOqt-rZmM3CoLU375-fsZkpmKEA0mtgfyKN9rx26IhgV8ZPDAzgbBo_ue26Nob6LHlM_EBQHcY_sEWp911mHKGqrRv7rT9izp67rxDLkJvS3jyq0n3st9T3RbwxSWVgHUUg7Y6bQpMT7pmLICHytazLJJiIpRgz-l_9qkEnlw0Qr9j-fKYrcSzVHDvJSLrdETvI4vIb0iUbFSiXEjuVxkaSWxrC7qH2FaJrU6t6a4yzJFo7P759-hdBJC9j6bVzicAcbLohJaB-jJgPJ6AkA5jwdgXijWzLsK5bRpEbsy6m-dl2gT_BLnw5xMEp_tZ5tEQp0O343pIDZpgzNPLzEAeiw-aNKn06rZbHpsyXm9CBl8xatA-JasoxrvnJQHj_2ono3lpxg8W548u0uxfvyndcFRnI96lTRF536uzNvgFcEAf-HvsjP1B7leQCQaXrwopBWpXswZuZolkESB58B2rgZI28tUOABdLIgO60f0Bsrf023WqwVw0_U39HQBfz_bB-iCQgORs9WKzGbo-W_uvz6b80sm9PCJXUCHFGW0c01bWnMzzNkBOj5gi2T4fZHXIHlfLgTnppYsF14T-E3CAbcMeTVE1SaZJGaZV4X9XgPmQvNTuAOrNfKE2SE-N9nN0gL6fi3MD9lgp1RkdzoT6g5_LbVz2_4E1m3QtKfykL9CEvWmeiR4oJaMr6RMPZ606UPhFDiIXoqdmFAX_uCkVIq0yWLTA_gJ1rsCJOZDtyJr8f2xfEpHuKUbAYG2EKQjIQKzVdhuon-8jQwjaGuJKjy5egxG7T2K__LV_XiZLa0NnUaoeHBUUbYt6zUsZuYY29ct9mpI0hkSvrbKR8LHQL49_NopbdVWmnXn4UWfshT5qvxBNjvDesOBfxoMz_ExKHmaHZ0JZeWhIAEqCXVzLWVhc3QtMjCfDQ.m3u8
 #EXTINF:-1 tvg-id="FX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="Peliculas y Series",FX
@@ -224,7 +224,7 @@ http://152.230.126.5:3344/play/a0v8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/800px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento",Las Estrellas
 http://8.243.67.133:8003/play/a07t/index.m3u8
 #EXTINF:-1 tvg-id="Liga1.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/1280px-L1-LOGO.svg.png" group-title="Deportes",L1
-http://177.53.155.236:8000/play/a0bt/index.m3u8
+http://45.232.176.17:8000/play/a02o
 #EXTINF:-1 tvg-id="Liga1Max.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1920px-L1MAX-LOGO.svg.png" group-title="Deportes",L1 Max
 http://181.176.153.107:8090/play/a0p6/index.m3u8
 #EXTINF:-1 tvg-id="LollyKids.us" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/lolly-kids.png" group-title="Infantil",Lolly Kids
