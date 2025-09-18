@@ -114,7 +114,7 @@ http://190.52.105.146:8000/play/a0h6/index.m3u8
 #EXTINF:-1 tvg-id="ESPNCOLOMBIA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN COLOMBIA
 http://181.119.85.222:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="ESPN1C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN CENTRO
-http://200.12.41.194:8000/play/a060/index.m3u8
+45.186.106.220:5550/play/a04f/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2S.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 SUR
 http://45.232.176.17:8000/play/a023
 #EXTINF:-1 tvg-id="ESPN2C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 COLOMBIA
@@ -351,6 +351,8 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720923069/ei/
 http://201.230.137.204:8000/play/a0im/index.m3u8
 #EXTINF:-1 tvg-id="TntSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1920px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports
 http://45.232.210.3:8000/play/cdfhd
+#EXTINF:-1 tvg-id="TntSports.mx" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="Deportes",TNT Sports Mexico
+http://45.189.151.7:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="TntSeries.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Peliculas y Series",TNT Series
 http://181.189.241.114:5050/play/a0q4
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="Ciencia y Cultura",Travelxp
