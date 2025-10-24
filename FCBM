@@ -194,7 +194,7 @@ http://138.186.20.13:23200/play/a054
 #EXTINF:-1 tvg-id="JTBC.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/JTBC_logo.svg/1920px-JTBC_logo.svg.png" group-title="Internacionales",JTBC
 https://stream1.freetv.fun/jtbc-3.ctv
 #EXTINF:-1 tvg-id="KCTV.kp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Korean_Central_Television_2005.svg/1024px-Korean_Central_Television_2005.svg.png" group-title="Internacionales",KCTV
-https://tv.nknews.org/tvhls/stream.m3u8
+https://tv.intchoson.com/kctv/main_stream.m3u8
 #EXTINF:-1 tvg-id="KbyCJENM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1920px-Pluto_TV_logo_2020.svg.png" group-title="Internacionales",K-Content by CJ ENM 
 https://r.mjh.nz/PlutoTV/6176ff3ba00900000763710f-alt.m3u8
 #EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://www.kanalddrama.com/assets/img/logotop2.png" group-title="Entretenimiento",Kanal D Drama
