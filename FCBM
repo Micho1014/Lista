@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Micho1014/Lista/refs/heads/main/Guia.xml"
+#EXTM3U x-tvg-url="https://github.com/Micho1014/Lista/blob/main/Guida.xml.gz"
 #EXTINF:-1 tvg-id="AsianCrush.us" tvg-logo="https://www.asiancrush.com/images/asiancrush/asiancrush_logo_image.png" group-title="Internacionales",AsianCrush
 https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/profile/4/profile.m3u8
 #EXTINF:-1 tvg-id="AdultSwim.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1920px-Adult_Swim_2003_logo.svg.png" group-title="Entretenimiento",Adult Swim
