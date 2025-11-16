@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="EPG-Latam" generator-info-url="https://epg.programadorx.cl" generator-time="2025-11-14 08:26:15 America/Lima" time-start="2025-11-14 03:26:15 America/Lima" time-end="2025-05-15 00:00:00 America/Lima">
+  <title>EPG Guide</title>
+  <contact-url>https://epg.programadorx.cl</contact-url>  
+  <channel id="KBSWorld.kr">
+    <display-name>KBS World</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080942280528_38.png" />
+  </channel>
+  <programme start="20251116135500 -0500" stop="20251116151000 -0500" channel="KBSWorld.kr">
+    <title>El regreso de Superman Ep.596</title>
+    <desc>Los retos de la crianza de "Superman", el primer héroe con el que se encuentran los niños al nacer.</desc>
+    <category>Entretenimiento</category>
+    <date>2025-11-16</date>
+  </programme>
+  <programme start="20251116151000 -0500" stop="20251116160000 -0500" channel="KBSWorld.kr">
+    <title>Mi vecino, Charles Ep.503</title>
+    <desc>Extranjeros que han dejado atrás sus mundos conocidos y han llegado a la desconocida Corea.
+          Una historia real y conmovedora sobre la adaptación de extranjeros que intentan integrarse en la sociedad coreana por diversos motivos. Este programa de telerrealidad retrata con calidez sus inquietudes sobre el trabajo, el matrimonio y la crianza de los hijos mientras viven en Corea.</desc>
+    <category>Entretenimiento</category>
+    <date>2025-11-16</date>
+  </programme>
+  <programme start="20251116160000 -0500" stop="20251116171500 -0500" channel="KBSWorld.kr">
+    <title>Nuestros días dorados Ep.26</title>
+    <desc>Todos tenemos nuestra época dorada. Ya sea ahora, en el pasado o en el futuro. 
+          Un emotivo melodrama familiar que trasciende generaciones, explorando esos días deslumbrantes que todos vivimos con diferentes significados.</desc>
+    <category>Drama Series</category>
+    <date>2025-11-16</date>
+  </programme>
+  <programme start="20251116171500 -0500" stop="20251116184500 -0500" channel="KBSWorld.kr">
+    <title>Los perros son increíbles 2</title>
+    <desc>La academia de adiestramiento de Dogs Are Incredible! está dirigida a dueños de mascotas que lidian con problemas como mordeduras, agresividad o ladridos excesivos de sus queridos perros, que se han convertido en parte de la familia.</desc>
+    <category>Entretenimiento</category>
+    <date>2025-11-16</date>
+  </programme>
+  <programme start="20251116184500 -0500" stop="20251116200000 -0500" channel="KBSWorld.kr">
+    <title>Eres la Mejor, Lee Soon Shin! Ep.21</title>
+    <desc>¿Cuál es la palabra más cálida, feliz y conmovedora del mundo? ¡Mamá! Arrastrada por la tempestad de una nueva vida tras la muerte de su padre, la hija menor de esta familia comienza una búsqueda de la felicidad junto a su madre.</desc>
+    <category>Drama Series</category>
+    <date>2025-11-16</date>
+  </programme>
+  <programme start="20251116200000 -0500" stop="20251116211500 -0500" channel="KBSWorld.kr">
+    <title>Eres la Mejor, Lee Soon Shin! Ep.22</title>
+    <desc>¿Cuál es la palabra más cálida, feliz y conmovedora del mundo? ¡Mamá! Arrastrada por la tempestad de una nueva vida tras la muerte de su padre, la hija menor de esta familia comienza una búsqueda de la felicidad junto a su madre.</desc>
+    <category>Drama Series</category>
+    <date>2025-11-16</date>
+  </programme>
+  <programme start="20251116211500 -0500" stop="20251116225500 -0500" channel="KBSWorld.kr">
+    <title>Dos días y una noche 4 Ep.299</title>
+    <desc>¡Un viaje de dos días por los rincones más bellos de Corea! En lugar de un estudio sofisticado, este reality show se desarrolla en zonas rurales. Mientras más de 10 millones de coreanos viajan al extranjero cada año, el elenco de "2 Días y 1 Noche" recorre Corea: montañas, granjas, pueblos pesqueros, islas... donde podrás disfrutar de la hospitalidad de nuestros vecinos y de la belleza natural que deleita la vista.</desc>
+    <category>Entretenimiento</category>
+    <date>2025-11-16</date>
+  </programme>
+  <programme start="20251116225500 -0500" stop="20251117001000 -0500" channel="KBSWorld.kr">
+    <title>El regreso de Superman Ep.596</title>
+    <category>Entretenimiento</category>
+    <desc>Los retos de la crianza de "Superman", el primer héroe con el que se encuentran los niños al nacer.</desc>
+    <date>2025-11-16</date>
+  </programme>
+  <programme start="20251117001000 -0500" stop="20251117012500 -0500" channel="KBSWorld.kr">
+    <title>Nuestros días dorados</title>
+    <desc>Todos tenemos nuestra época dorada. Ya sea ahora, en el pasado o en el futuro. 
+          Un emotivo melodrama familiar que trasciende generaciones, explorando esos días deslumbrantes que todos vivimos con diferentes significados.</desc>
+    <category>Drama Series</category>
+    <date>2025-11-17</date>
+</programme>
+</tv>
