@@ -181,14 +181,14 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 http://181.78.202.249:8002/play/a02s/index.m3u8	
 #EXTINF:-1 tvg-id="HBO2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" group-title="Peliculas y Series",HBO 2
 http://181.189.244.253:8000/play/a019/index.m3u8
-#EXTINF:-1 tvg-id="HBO+.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png" group-title="Peliculas y Series",HBO +
+#EXTINF:-1 tvg-id="HBO PLUS.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png" group-title="Peliculas y Series",HBO +
 http://181.189.244.253:8000/play/a01a/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamily.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1024px-HBO_Family.svg.png" group-title="Peliculas y Series",HBO Family
+#EXTINF:-1 tvg-id="HBO FAMILY.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1024px-HBO_Family.svg.png" group-title="Peliculas y Series",HBO Family
 http://181.189.244.253:8000/play/a01b/index.m3u8
-#EXTINF:-1 tvg-id="HBOPop.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="Peliculas y Series",HBO Pop
-http://179.63.6.15:8000/play/a02p
-#EXTINF:-1 tvg-id="HBOXtreme.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="Peliculas y Series",HBO Xtreme
-http://190.56.9.114:8000/play/a054/index.m3u8	
+#EXTINF:-1 tvg-id="HBO POP.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="Peliculas y Series",HBO Pop
+http://138.36.253.13:8008/play/a02c/index.m3u8
+#EXTINF:-1 tvg-id="HBO XTREME.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="Peliculas y Series",HBO Xtreme
+http://181.189.244.253:8000/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="HolaTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg" group-title="Entretenimiento",Hola TV
 http://138.186.20.13:23200/play/a054
 #EXTINF:-1 tvg-id="JTBC.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/JTBC_logo.svg/1920px-JTBC_logo.svg.png" group-title="Internacionales",JTBC
