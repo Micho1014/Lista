@@ -389,6 +389,10 @@ https://7.tiofutbol.com/univision/mono.m3u8?token=71821b37bb036649860f07829cfbd9
 http://38.199.4.105:9999/play/a0mn/index.m3u8
 #EXTINF:-1 tvg-id="WeatherNews.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Weathernews_logo.svg/1200px-Weathernews_logo.svg.png" group-title="Internacionales",Weather News
 https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
+#EXTINF:-1 tvg-id="WinSports.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1280px-Win_Sports_nuevo_logo.svg.png" group-title="Deportes", Win Sports
+http://190.61.55.34:2401/play/win/index.m3u8
+#EXTINF:-1 tvg-id="Win+Futbol.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/2560px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="Deportes", Win+ Fútbol
+http://181.78.8.199:8000/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="Willax.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="Nacional", 1.1 Willax
 https://live2.eu-north-1a.cf.dmcdn.net/sec2(z9E3pXnehgc0NiGJH9vXzKed3qqfhpMafRqIK8LK431lLAizjuZ0mmVBt8cIDYi3b7LeQXg_9ASeqbmbapH6UMcGmD1YZvoPWTSkevewj1AeV9E5CeMtr4uvedBA8nci)/cloud/3/x7x4dgx/s/live-1080.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/800px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Nacional", 2.1 Latina
