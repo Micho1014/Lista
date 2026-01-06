@@ -180,9 +180,9 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 #EXTINF:-1 tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png" group-title="Peliculas y Series",HBO
 http://181.78.202.249:8002/play/a02s/index.m3u8	
 #EXTINF:-1 tvg-id="HBO2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" group-title="Peliculas y Series",HBO 2
-http://181.189.244.253:8000/play/a019/index.m3u8
+http://38.199.4.160:93/play/a0bz
 #EXTINF:-1 tvg-id="HBO PLUS.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png" group-title="Peliculas y Series",HBO +
-http://181.189.244.253:8000/play/a01a/index.m3u8
+http://38.199.4.160:93/play/a0c0
 #EXTINF:-1 tvg-id="HBO FAMILY.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1024px-HBO_Family.svg.png" group-title="Peliculas y Series",HBO Family
 http://181.189.244.253:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="HBO POP.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="Peliculas y Series",HBO Pop
