@@ -99,6 +99,8 @@ http://8.243.67.133:8003/play/a090/index.m3u8
 http://190.95.60.228:8500/play/a02t
 #EXTINF:-1 tvg-id="DiscoveryWorld.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1920px-World_Discovery_HD_logo.svg.png" group-title="Ciencia y Cultura",Discovery World
 http://190.95.60.228:8500/play/a02v
+#EXTINF:-1 tvg-id="Disney+.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/1280px-Disney%2B_2024.svg.png" group-title="Deportes",Disney +
+https://x4bnd7lq.fubohd.com/disney15/mono.m3u8?token=1198790da3518083c7bc1b882235ec78df337f55-6c-1768106700-1768088700
 #EXTINF:-1 tvg-id="DisneyChannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png" group-title="Infantil",Disney Channel
 http://190.95.60.228:8500/play/a02l
 #EXTINF:-1 tvg-id="DWEspañol.de" tvg-logo="https://cfres-71f3.kxcdn.com/si/l/dw-news.jpg" group-title="Noticias",DW Español
