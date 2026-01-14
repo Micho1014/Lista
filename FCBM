@@ -137,8 +137,10 @@ http://189.50.210.3:8008/play/a04c/index.m3u8
 http://190.61.55.34:2401/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="ESPNDEPORTES.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1920px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN DEPORTES
 
-#EXTINF:-1 tvg-id="ESPNPREMIUM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1920px-ESPN_Premium_logo.svg.png" group-title="Deportes",ESPN PREMIUM
-http://143.0.67.77:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-id="ESPNPREMIUM.us" tvg-logo="https://www.knett.com.ar/wp-content/uploads/2025/10/large.espnpremium.png.8498f795338c9167a556bd035cb560b0.png" group-title="Deportes",ESPN PREMIUM
+http://190.104.67.2:234/play/a086/index.m3u8
+#EXTINF:-1 tvg-id="ESPNPREMIUM.us" tvg-logo="https://www.knett.com.ar/wp-content/uploads/2025/10/large.espnpremium.png.8498f795338c9167a556bd035cb560b0.png" group-title="Deportes",ESPN PREMIUM CHILE
+http://201.182.249.198:10013/play/a0jg/index.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="Entretenimiento",El Gourmet
 http://217.26.191.118:8126/play/a0fw/index.m3u8
 #EXTINF:-1 tvg-id="Europaeuropa.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="Internacionales",Europa europa
