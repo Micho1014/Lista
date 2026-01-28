@@ -11,7 +11,7 @@ https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smi
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="A&E.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1920px-A%26E_Network_logo.svg.png" group-title="Peliculas y Series",A&E Latam
 http://38.199.4.105:9999/play/a0gw/index.m3u8	
-#EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png" group-title="Peliculas y Series",Atreseries
+#EXTINF:-1 tvg-id="ATRES SERIES HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png" group-title="Peliculas y Series",Atreseries
 http://186.194.160.110:9002/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="AXN.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1920px-AXN_logo_%282015%29.svg.png" group-title="Peliculas y Series" audio-track="2",AXN
 http://38.199.4.105:9999/play/a0mo/index.m3u8	
@@ -49,7 +49,7 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 http://131.100.49.73:8003/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="CINECANAL.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1920px-CinecanalLA.png" group-title="Peliculas y Series",Cinecanal
 http://38.199.4.105:9999/play/a0ml/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1920px-Cinemax_%28Yellow%29.svg.png" group-title="Peliculas y Series",Cinemax
+#EXTINF:-1 tvg-id="CINEMAX.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1920px-Cinemax_%28Yellow%29.svg.png" group-title="Peliculas y Series",Cinemax
 https://streamer1.nexgen.bz/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-id="ClaroTv.pe" tvg-logo="https://static.claro.com.pe/img/logos/canal-6-claro.jpg" group-title="Trafico En Vivo",Av. Derby
 https://live.smartechlatam.online/claro/derby/index.m3u8
@@ -120,15 +120,15 @@ http://181.78.8.199:8000/play/a08z/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 CENTRO
 http://181.78.109.191:1050/play/a0k7/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 3 HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 SUR 
-http://189.50.210.3:8008/play/a04b/index.m3u8 
+http://190.61.55.34:2401/play/a03x/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 CENTRO
 http://181.78.109.191:1050/play/a0fa/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 4 HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4
-http://189.50.210.3:8008/play/a04a/index.m3u8
+http://190.61.55.34:2401/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 5 HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1920px-ESPN_5_logo.svg.png" group-title="Deportes",ESPN 5
-http://189.50.210.3:8008/play/a030/index.m3u8
+http://190.61.55.34:2401/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 6 HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1920px-ESPN_6_logo.svg.png" group-title="Deportes",ESPN 6
-http://189.50.210.3:8008/play/a04c/index.m3u8
+http://190.61.55.34:2401/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 7 HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1920px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7
 http://190.61.55.34:2401/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="ESPNDEPORTES.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1920px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN DEPORTES
@@ -159,7 +159,7 @@ http://clubtv.link/sep1409/phpcode/lista0.php?c=30&token=tecnotokenplustv&f=.m3u
 http://clubtv.link/sep1409/phpcode/lista0.php?c=29&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-id="FVidal.pe" tvg-logo="https://files.kick.com/images/user/41189386/profile_image/conversion/ab20ea29-1496-4b15-af1b-995778d93f10-fullsize.webp" group-title="Kick",FrancoVidalAlcalde : ⚽🔥 PICHANGA: FRANCO VIDAL & FRITZ  VS NIÑO VIEJO 💪😎 
 https://sae13.playlist.live-video.net/v1/playlist/CvAFzpvMbQab7aeAWc3Su2ltAyETUeVSVGRuhZ1fG8mMOzf-HZrP6WfXJ7WmjHt5kD2gKILRwgxDp1r94kZtN1gV96lZtFp55Tbe-MqVW4YvhBJtpfV6W1U-o9XRG0e_jaR4yGka5lWwRFwa3rdVwW2kq2sXFK2hX_FVaMZJLiz33jKzLOfQOWmlyL7i7caWq1r5HCoipWXagcfD4owp92W6TYDGUYcMh49HDEMlSks_sga8y-Y6dZBQH5mw-tdC6nc7YTqmwrIZME1ozgGaAAEwbDIGpycrSqsAh2XMmy0qF04k_BKoWkc1Ko8daZUIkeTfw0apd70YyE9Zi-UCh_jDonhzZv-S_O8L2wYY3Axa4W41DWyei94-IESwmZpdfTHZi_AEy1_trCVMerZuGtqhLYE2Jyutg9xGOiYr1fgywkDqXs2Czc3G-u0yfaG8fdeW9pwG6nM5IxjQ3wWP6Db8P2blVW9yv2sCYXN49sbDgWWdeYPNYzV_3hmKA-o8O6yNhhQ3db-GgHRkW3BtsZDskbLc3VM8GvkXtiXWawFibFXvT0IMRoQAxTEAVWKQlgUflthwfF6LNnjJukaTFz2EQbh9j42mVFC9H1Vi0qWzwu7FC7KGZZNDfh8Han4B_BDtCGktX6xsMY8sfD49ewRmPJ8f7IDK8waGlxqSYLD_G8Cx_0OC80ms9SoQa7jVv9JgkeVxCGrh0KPPBkEelNVmzs7zdqbfQqBpSo58Dq-OPOkV_kP-EYfk_jTS8mp3D_gWN9jkWtEu2fH4u5UjzRvVuFVLaoNBA3kyApkbQWgdW963b0BEWd_C-iXt2WBpI-pRYUpPHhkfPUKRkXRix6b7pJ4Q9paL6ACYtX-aIjgO4z9ygVEUq7OEWhJVhzBMghvm2-wMjQ4-f1R2_uqt8W4VhC22PBavIlBRIBt3P7mcLZ36JJGcIpCwYwjz79iyF9wzccSIymnI5uvl7wLw4htbL0lbJesJ4BuTQ3yJFbIs3PcaDGZ0wSk8XW0yGGzh6iABKgl1cy1lYXN0LTIwpA4.m3u8
-#EXTINF:-1 tvg-id="FX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="Peliculas y Series",FX
+#EXTINF:-1 tvg-id="FX.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="Peliculas y Series",FX
 http://190.95.60.228:8500/play/a02p
 #EXTINF:-1 tvg-id="GloboInternacional.br" tvg-logo="https://assets.website-files.com/5aecec4570137400861ad117/5c5c77a52662fe0f3e2db2f4_logo_globo_internacional.png" group-title="Internacionales",Globo Internacional
 http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/16730
