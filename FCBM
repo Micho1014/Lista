@@ -70,7 +70,7 @@ http://186.194.160.110:9002/play/a05n/index.m3u8
 #EXTINF:-1 tvg-id="CNN Chile.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/800px-CNN_Chile_logo_2017.svg.png" group-title="Noticias",CNN Chile
 http://217.26.190.76:8888/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="CNNESPANOL.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1280px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Noticias",CNN Español
-http://179.63.6.15:8000/play/a01b
+http://179.63.6.15:8002/play/a02q
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/800px-CNN_International_logo.svg.png" group-title="Noticias",CNN International
 https://t.freetv.fun/live/cnn-1.m3u8
 #EXTINF:-1 tvg-id="COMEDY CENTRAL HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="Peliculas y Series",Comedy Central
@@ -80,7 +80,7 @@ http://38.188.186.47:4000/play/Ji198
 #EXTINF:-1 tvg-id="DHE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1920px-2020_Canal_DHE_logo.svg.png" group-title="Peliculas y Series",DHE
 http://38.199.4.105:9999/play/a0n2/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTVSPORTS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",Directv Sports HD 
-http://177.10.184.193:8000/play/a0fc/index.m3u8
+http://190.117.20.37:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTVSPORTS2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes",Directv Sports 2 HD 
 http://200.60.124.19:29000/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTVSPORTS+.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="Deportes",Directv Sports + HD 
@@ -118,11 +118,11 @@ http://181.13.252.102:8000/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 COLOMBIA
 http://181.78.8.199:8000/play/a08z/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 CENTRO
-http://181.78.109.191:1050/play/a0k7/index.m3u8
+http://179.60.224.196:8000/play/a0f6/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 3 HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 SUR 
 http://190.61.55.34:2401/play/a03x/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 CENTRO
-http://181.78.109.191:1050/play/a0fa/index.m3u8
+http://179.60.224.196:8000/play/a0f7/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 4 HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4
 http://190.61.55.34:2401/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 5 HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1920px-ESPN_5_logo.svg.png" group-title="Deportes",ESPN 5
@@ -244,7 +244,7 @@ http://201.230.137.204:8000/play/a0iy/index.m3u8
 #EXTINF:-1 tvg-id="Mtv00.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Musicales",MTV 00's  
 http://148.222.228.3:9000/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1920px-Movistar_Deportes.svg.png" group-title="Deportes",Movistar Deportes
-http://179.63.6.15:8000/play/a01t
+http://179.63.6.15:8002/play/a02w
 #EXTINF:-1 tvg-id="NatGeo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1920px-Natgeologo.svg.png" group-title="Ciencia y Cultura",Nat Geo
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://static.claro.com.pe/img/logos/logo-nativa.jpg" group-title="Perú",Nativa
@@ -306,7 +306,7 @@ https://ythls.armelin.one/channel/UCkinYTS9IHqOEwR1Sze2JTw.m3u8
 #EXTINF:-1 tvg-id="Shuls.pe" tvg-logo="https://files.kick.com/images/user/2710300/profile_image/conversion/83339f6d-5ca0-4964-b844-7321ff89acc4-fullsize.webp" group-title="Kick",Shuls_off : hoy full show tirando factos y entrado a google maps  
 https://sae12.playlist.live-video.net/v1/playlist/Cu8FTyvhwAIQNGYp05AJBpb0fPHviLcH2FE1-iAXB7hzNbQfwnzpELl_d1sOwjeGEqdWQOfFO5uZcBRcRAXSigNFJJn4_cU7ZKeKDMfllVdE-MH2kYx6uvh8dF-5Eg0qL1H2axzemO6hsauep3lXXYrp4brfYi1iCcEXlUJqwafr0vvi6LXpTLyapZbwlADT3j0rBUXIEyCJ7YMrMy8XysyuVi6HtxPqNkGn1EcNCYY1SsCahV7ZaXEeAF7IyG-rsTrh-dWUv-0sIoO2Tef5WdMWynnCObmUt_reDyukUQKAFMZMqrQBc6DB8mHCGD2lztslE5uiNqzcNeVxTgZzxPAKfKIYYf23LggOavJzj1ziTG9d2Q7y7uKoT2yIu4JkwKpmOLyOGrjibqzdDFcpyfTVcnHNweurtRHXdLCn0Yq6Ve4vzdvJxCjwlEp7teMkbi0i9CfvFJYDtb8-ewR2DKRSFSt7-0QHIac7b1jlf3YEqIzepxkPFEi8MOw7CVLaBnaEYkZLbc48mZMrS1RLuZDJZtAYPee6QjxafNdMihuVmkIiSLO8NjgKrLsjGP1uT3zrVEgbTTsnhBhnwV8DoNahczOXOteupOTX3chE3zPVithkXuTmDEf32iuZHIvH366DaB2rvcKMIa6hKVgy59WdJ-CNK9z5gb1ZycwZTs7rmPOSKRdXyWuoy_z51CK1O5tKSfbHFaSIKn4BniES4a92IIF8H2ijw1pZIhGEsGIwb52fi8xk7GcXmZ3gVtGoTNKMlkCUnxePQYS3vkTqEDmsNya5OJ7rQNAbU0nUau0HlI92RlwHxs6wGKJj0Za436rOF6-5LL4yptxfTTyg6FXfqTdoVUoU-Wx8pQ6V-rydP3MmrVtxDbvPYNcPkdnHrTYYkE--CQ6c-H83Yya1E5Td7kUArEikX8FCYZ4nmdH03tkGtxMKkCyAy1AIGCYZRf_0emwM5PTGAPotOwl2fWyE7sFFOQyCKUFdDxdDrMvhcBoMsNeBO6d5_xetCs0KIAEqCXVzLWVhc3QtMjDmDQ.m3u8
 #EXTINF:-1 tvg-id="SkySports.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_LaLiga_II.svg/revision/latest?cb=20231120144248" group-title="Deportes",Sky Sports LA LIGA
-http://38.199.4.160:93/play/a093
+http://177.10.184.60:8002/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_SRF_1.svg/1920px-Logo_SRF_1.svg.png" group-title="Internacionales",SFR 1
 http://45.65.112.49:8000/play/a08y
 #EXTINF:-1 tvg-id="STAR CHANNEL.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png" group-title="Peliculas y Series",Star Channel 
