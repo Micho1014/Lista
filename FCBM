@@ -386,13 +386,13 @@ https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
 #EXTINF:-1 tvg-id="RPP.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Nacional", 3.2 RPP TV
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/rpptv/livestream0/chunks.m3u8?dpssid=b22255359906928ab1083734&sid=ba5t1l1xb214422942176949a28f7707b&ndvc=0
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/800px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Nacional", 4.1 America Tv
-https://live-evg1.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="Panamericana.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg/800px-Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg.png" group-title="Nacional", 5.1 Panamericana
-https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
+https://live-evg18.tv360.bitel.com.pe/bitel/panamericana_abr/bitel/panamericana_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Nacional", 6.1 Exitosa TV
 https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
 #EXTINF:-1 tvg-id="Karibeña.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logokaribe%C3%B1atv.png" group-title="Nacional", 6.2 Karibeña
-https://live-evg25.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
+https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1280px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Nacional", 7.1 TV Peru
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 #EXTINF:-1 tvg-id="RadioNacional.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Radio_Nacional_del_Per%C3%BA_%282021%29.svg/1920px-Radio_Nacional_del_Per%C3%BA_%282021%29.svg.png" group-title="Nacional", 7.2 Radio Nacional
@@ -412,7 +412,7 @@ http://161.132.108.74:50001/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="USMPTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Usmptv.png" group-title="Nacional", 12.1 USMP TV
 https://live-evg25.tv360.bitel.com.pe/bitel/usmp/chunks.m3u8
 #EXTINF:-1 tvg-id="Global.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/800px-Global_logo_2019.png" group-title="Nacional", 13.1 Global
-https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunks.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTdjODc3ODEtOTBlZC00ODEwLTljNDktYmNkMGM3YWY1MjQzXkEyXkFqcGdeQXVyMzE4MDkyNTA@._V1_FMjpg_UX1000_.jpg" group-title="Age of Youth 청춘시대 (2016)",Episodio 1
 https://download942.mediafire.com/04og9rrkhizgOvzlTQdHObOKpHNrpPljGClriErO2WF8V-W3S-D733PqiKgT-QmsZ0KVc1A6BGbk8dN50OCI6j6W-YjMeMWdgFiBfQm9ebxol_sRBJU6SMjuoxWdciEikd-cFMY1mRKuUysvkZubDbce4dKDwKSmrjS4LwtDqqY/0art5tobdaj2qiv/20-01.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTdjODc3ODEtOTBlZC00ODEwLTljNDktYmNkMGM3YWY1MjQzXkEyXkFqcGdeQXVyMzE4MDkyNTA@._V1_FMjpg_UX1000_.jpg" group-title="Age of Youth 청춘시대 (2016)",Episodio 2
