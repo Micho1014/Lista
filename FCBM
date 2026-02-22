@@ -310,7 +310,7 @@ http://177.10.184.60:8002/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_SRF_1.svg/1920px-Logo_SRF_1.svg.png" group-title="Internacionales",SFR 1
 http://45.65.112.49:8000/play/a08y
 #EXTINF:-1 tvg-id="STAR CHANNEL.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png" group-title="Peliculas y Series",Star Channel 
-http://181.78.109.191:1050/play/a0e5/index.m3u8
+http://38.210.3.64:8090/play/a0iw/index.m3u8
 #EXTINF:-1 tvg-id="StarTVE.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Internacionales",Star TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/180px-Sony_Channel_Logo.png" group-title="Peliculas y Series",Sony Channel
