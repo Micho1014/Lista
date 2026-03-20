@@ -268,13 +268,13 @@ http://38.199.4.105:9999/play/a0gs/index.m3u8
 #EXTINF:-1 tvg-id="Pasiones.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1920px-Pasiones_Tv_logo.svg.png" group-title="Entretenimiento",Pasiones
 http://190.61.55.34:2401/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTvK-Drama.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1920px-Pluto_TV_logo_2020.svg.png" group-title="Internacionales",Pluto TV K-Drama
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62ac54bda1c8650007e9d1c4/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8
 #EXTINF:-1 tvg-id="PlutoTvDramasCoreanos.us" tvg-logo="https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/thumbnail_1762186822152.jpg" group-title="Internacionales",Pluto TV Dramas Coreanos
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=6185a9a88b2ce30007de5128&deviceLat=19.4453&deviceLon=-99.1083&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=PE&sid=7fcdf6d25b584228b5ed890847dc0d05&userId=
+https://jmp2.uk/plu-6661d5424b10960008599fa3.m3u8
 #EXTINF:-1 tvg-id="PlutoTvDramasCoreanosTeen.us" tvg-logo="https://images.pluto.tv/channels/6661d5424b10960008599fa3/thumbnail_1762186919798.jpg" group-title="Internacionales",Pluto TV Dramas Coreanos Teen
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6661d5424b10960008599fa3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=6661d5424b10960008599fa3&deviceLat=19.4453&deviceLon=-99.1083&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=PE&sid=7fcdf6d25b584228b5ed890847dc0d05&userId=
+https://jmp2.uk/plu-6185a9a88b2ce30007de5128.m3u8
 #EXTINF:-1 tvg-id="PlutoTvLaSeleccion.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/La_selecci%C3%B3n%2Cla_serie_logo.PNG" group-title="Internacionales",Pluto TV La Selección
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63211ba9cad976000794f988/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=63211ba9cad976000794f988&deviceLat=19.4453&deviceLon=-99.1083&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=PE&sid=7fcdf6d25b584228b5ed890847dc0d05&userId=
+https://jmp2.uk/plu-63211ba9cad976000794f988.m3u8
 #EXTINF:-1 tvg-id="RaiItalia.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1920px-Rai_Italia_-_Logo_2017.svg.png" group-title="Internacionales",Rai Italia
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1024px-Rai_1_-_Logo_2016.svg.png" group-title="Internacionales",Rai 1
