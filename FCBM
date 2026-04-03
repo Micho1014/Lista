@@ -216,9 +216,9 @@ http://152.230.126.5:3344/play/a0v8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/800px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento",Las Estrellas
 http://8.243.67.133:8003/play/a07t/index.m3u8
 #EXTINF:-1 tvg-id="Liga1.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/1280px-L1-LOGO.svg.png" group-title="Deportes",L1
-http://181.224.200.5:2277/play/a0de/index.m3u8
+http://181.177.233.98:8000/play/a047/index.m3u8
 #EXTINF:-1 tvg-id="Liga1Max.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1920px-L1MAX-LOGO.svg.png" group-title="Deportes",L1 Max
-http://45.173.72.26:2072/play/a0d5
+http://190.60.52.28:5001/play/a0gt/index.m3u8
 #EXTINF:-1 tvg-id="LollyKids.us" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/lolly-kids.png" group-title="Infantil",Lolly Kids
 http://190.60.40.37:12500/play/a09c/index.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Ciencia y Cultura",Love Nature
