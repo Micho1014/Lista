@@ -38,7 +38,7 @@ http://190.109.4.34:8000/play/a089/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTelevision2.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Caracol_Televisi%C3%B3n_logo_2023.png" group-title="Internacionales",Caracol Television 2
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-id="CCTV-4.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/CCTV-4_channel.svg/800px-CCTV-4_channel.svg.png" group-title="Internacionales",CCTV-4
-http://148.222.228.3:9000/play/a04x/index.m3u8
+https://hc9lby9bzw8zcar.wcetv.com/hls/cctv4.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1920px-CGTN.svg.png" group-title="Internacionales",CGTN
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/CGTN_Documentary.svg/1920px-CGTN_Documentary.svg.png" group-title="Internacionales",CGTN Documentary
