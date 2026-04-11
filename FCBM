@@ -172,15 +172,15 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 #EXTINF:-1 tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png" group-title="Peliculas y Series",HBO
 http://38.210.3.64:8090/play/a0h9/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" group-title="Peliculas y Series",HBO 2
-http://38.199.4.160:93/play/a0bz
+http://45.171.64.30:8800/play/a016
 #EXTINF:-1 tvg-id="HBO PLUS.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png" group-title="Peliculas y Series",HBO +
-http://38.199.4.160:93/play/a0c0
+http://45.171.64.30:6060/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="HBO FAMILY.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1024px-HBO_Family.svg.png" group-title="Peliculas y Series",HBO Family
-http://38.199.4.160:93/play/a0c1
+http://38.250.125.162:9800/play/091/index.m3u8
 #EXTINF:-1 tvg-id="HBO POP.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="Peliculas y Series",HBO Pop
-http://38.199.4.160:93/play/a00q
+http://38.250.125.162:9800/play/093/index.m3u8
 #EXTINF:-1 tvg-id="HBO XTREME.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="Peliculas y Series",HBO Xtreme
-http://38.199.4.160:93/play/a0c2
+http://38.250.125.162:9800/play/092/index.m3u8
 #EXTINF:-1 tvg-id="HolaTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg" group-title="Entretenimiento",Hola TV
 http://138.186.20.13:23200/play/a054
 #EXTINF:-1 tvg-id="JTBC.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/JTBC_logo.svg/1920px-JTBC_logo.svg.png" group-title="Internacionales",JTBC
