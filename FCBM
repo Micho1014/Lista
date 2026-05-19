@@ -106,13 +106,13 @@ http://190.83.2.172:8080/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="EITBasque.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/1920px-ETB_Basque_2022_logo.svg.png" group-title="Internacionales",ETB Basque
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-id="ESPN HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN SUR
-http://190.14.249.223:17032/play/a03w/index.m3u8
+http://181.13.252.102:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="ESPNCHILE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN CHILE
 http://38.210.3.64:8090/play/a0np/index.m3u8
 #EXTINF:-1 tvg-id="ESPNCOLOMBIA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN COLOMBIA
 http://181.78.8.199:8000/play/a08y/index.m3u8
 #EXTINF:-1 tvg-id="ESPN1C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN CENTRO
-http://200.92.227.238:8000/play/a0tj/index.m3u8
+http://http://209.87.175.160:5001/play/a0m7/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 SUR
 http://181.13.252.102:8000/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 COLOMBIA
@@ -150,13 +150,13 @@ https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
 #EXTINF:-1 tvg-id="FoxDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="Deportes",Fox Deportes
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/800px-Fox_Sports_Argentina_2023.svg.png" group-title="Deportes",Fox Sports
-http://181.209.105.115:2525/play/foxsports/index.m3u8
+http://181.13.252.102:8000/play/a07j/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1024px-Fox_Sports_2_Argentina_2023.svg.png" group-title="Deportes",Fox Sports 2
-http://181.209.105.115:2525/play/foxsports2/index.m3u8
+http://181.13.252.102:8000/play/a05c/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes",Fox Sports 1 Centro
-http://clubtv.link/sep1409/phpcode/lista0.php?c=30&token=tecnotokenplustv&f=.m3u8
+http://209.87.175.160:5001/play/a0m2/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png" group-title="Deportes",Fox Sports 2 Centro 
-http://clubtv.link/sep1409/phpcode/lista0.php?c=29&token=tecnotokenplustv&f=.m3u8
+http://209.87.175.160:5001/play/a0m3/index.m3u8
 #EXTINF:-1 tvg-id="FVidal.pe" tvg-logo="https://files.kick.com/images/user/41189386/profile_image/conversion/ab20ea29-1496-4b15-af1b-995778d93f10-fullsize.webp" group-title="Kick",FrancoVidalAlcalde : ⚽🔥 PICHANGA: FRANCO VIDAL & FRITZ  VS NIÑO VIEJO 💪😎 
 https://sae13.playlist.live-video.net/v1/playlist/CvAFzpvMbQab7aeAWc3Su2ltAyETUeVSVGRuhZ1fG8mMOzf-HZrP6WfXJ7WmjHt5kD2gKILRwgxDp1r94kZtN1gV96lZtFp55Tbe-MqVW4YvhBJtpfV6W1U-o9XRG0e_jaR4yGka5lWwRFwa3rdVwW2kq2sXFK2hX_FVaMZJLiz33jKzLOfQOWmlyL7i7caWq1r5HCoipWXagcfD4owp92W6TYDGUYcMh49HDEMlSks_sga8y-Y6dZBQH5mw-tdC6nc7YTqmwrIZME1ozgGaAAEwbDIGpycrSqsAh2XMmy0qF04k_BKoWkc1Ko8daZUIkeTfw0apd70YyE9Zi-UCh_jDonhzZv-S_O8L2wYY3Axa4W41DWyei94-IESwmZpdfTHZi_AEy1_trCVMerZuGtqhLYE2Jyutg9xGOiYr1fgywkDqXs2Czc3G-u0yfaG8fdeW9pwG6nM5IxjQ3wWP6Db8P2blVW9yv2sCYXN49sbDgWWdeYPNYzV_3hmKA-o8O6yNhhQ3db-GgHRkW3BtsZDskbLc3VM8GvkXtiXWawFibFXvT0IMRoQAxTEAVWKQlgUflthwfF6LNnjJukaTFz2EQbh9j42mVFC9H1Vi0qWzwu7FC7KGZZNDfh8Han4B_BDtCGktX6xsMY8sfD49ewRmPJ8f7IDK8waGlxqSYLD_G8Cx_0OC80ms9SoQa7jVv9JgkeVxCGrh0KPPBkEelNVmzs7zdqbfQqBpSo58Dq-OPOkV_kP-EYfk_jTS8mp3D_gWN9jkWtEu2fH4u5UjzRvVuFVLaoNBA3kyApkbQWgdW963b0BEWd_C-iXt2WBpI-pRYUpPHhkfPUKRkXRix6b7pJ4Q9paL6ACYtX-aIjgO4z9ygVEUq7OEWhJVhzBMghvm2-wMjQ4-f1R2_uqt8W4VhC22PBavIlBRIBt3P7mcLZ36JJGcIpCwYwjz79iyF9wzccSIymnI5uvl7wLw4htbL0lbJesJ4BuTQ3yJFbIs3PcaDGZ0wSk8XW0yGGzh6iABKgl1cy1lYXN0LTIwpA4.m3u8
 #EXTINF:-1 tvg-id="FX.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="Peliculas y Series",FX
@@ -344,7 +344,7 @@ http://38.199.4.105:9999/play/a0mx/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="Ciencia y Cultura",Travelxp
 http://177.234.247.66:8888/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1920px-TUDN_Logo.svg.png" group-title="Deportes",TUDN
-http://45.228.234.30:16000/play/a02x/index.m3u8
+http://179.60.224.196:8000/play/a0f4/index.m3u8
 #EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1920px-TUDN_Logo.svg.png" group-title="Deportes",TUDN
 http://177.10.184.193:8000/play/a0ft/index.m3u8
 #EXTINF:-1 tvg-id="Tv+.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/480px-TV%2B_%282018%29.png" group-title="Entretenimiento",TV+
