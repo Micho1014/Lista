@@ -124,17 +124,17 @@ http://181.78.79.131:8000/play/a0s6
 #EXTINF:-1 tvg-id="ESPN3C.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 CENTRO
 http://179.60.224.196:8000/play/a0f7/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 4 HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4
-http://190.61.55.34:2401/play/a049/index.m3u8
+http://38.199.4.105:9999/play/a0ms/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 5 HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1920px-ESPN_5_logo.svg.png" group-title="Deportes",ESPN 5
-http://190.187.200.244:8000/play/a0pl/index.m3u8
+http://38.199.4.105:9999/play/a0mw/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 6 HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1920px-ESPN_6_logo.svg.png" group-title="Deportes",ESPN 6
-http://190.61.55.34:2401/play/a01w/index.m3u8
+http://38.199.4.105:9999/play/a0gr/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 7 HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1920px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7
-http://45.177.21.6:9000/play/a00s
+http://38.199.4.105:9999/play/a0hj/index.m3u8
 #EXTINF:-1 tvg-id="ESPNDEPORTES.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1920px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN DEPORTES
 
 #EXTINF:-1 tvg-id="ESPNPREMIUM.us" tvg-logo="https://www.knett.com.ar/wp-content/uploads/2025/10/large.espnpremium.png.8498f795338c9167a556bd035cb560b0.png" group-title="Deportes",ESPN PREMIUM
-http://190.104.67.2:234/play/a086/index.m3u8
+http://181.209.96.155:10000/play/a15c/index.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="Entretenimiento",El Gourmet
 http://217.26.191.118:8126/play/a0fw/index.m3u8
 #EXTINF:-1 tvg-id="Europaeuropa.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="Internacionales",Europa europa
@@ -155,6 +155,8 @@ http://181.13.252.102:8000/play/a07j/index.m3u8
 http://181.13.252.102:8000/play/a05c/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes",Fox Sports 1 Centro
 http://209.87.175.160:5001/play/a0m2/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes",Fox Sports 1 Centro
+http://181.209.96.155:10000/play/a15b/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png" group-title="Deportes",Fox Sports 2 Centro 
 http://209.87.175.160:5001/play/a0m3/index.m3u8
 #EXTINF:-1 tvg-id="FVidal.pe" tvg-logo="https://files.kick.com/images/user/41189386/profile_image/conversion/ab20ea29-1496-4b15-af1b-995778d93f10-fullsize.webp" group-title="Kick",FrancoVidalAlcalde : ⚽🔥 PICHANGA: FRANCO VIDAL & FRITZ  VS NIÑO VIEJO 💪😎 
