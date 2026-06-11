@@ -388,7 +388,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
 #EXTINF:-1 tvg-id="RPP.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Nacional", 3.2 RPP TV
 https://cdn-ssai.smartbit.co/rpp/index.m3u8
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/800px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Nacional", 4.1 America Tv
-https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/chunks.m3u8
+https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?_=1781213487254&dnt=true&player=691c838be999aef024e946d9&access_token=lyzzZ2JpwZqb9N9EipvBMQUgKOE1shLDXO81SZbkkCRiQq9R7M1o0HIIRugf3veS73q1SVT3nnV&uid=IBeHCtlbytxuOdJeZ1rWeGBtezaWaDuh&sid=qMbm9UUr86Wp3nk31GUEGyQCFYenTC7P&pid=xKZNO6vxR2WlCe28qpDiQLquhKNYPOkI&an=6099b04d9418ac082441dd74&at=web-app&av=v1.0.77&sc=0&ref=tvgo.americatv.com.pe&res=1920x1080&ext_pb=0&CMCD=cid%3D%226099b04d9418ac082441dd74%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22xKZNO6vxR2WlCe28qpDiQLquhKNYPOkI%22%2Csu
 #EXTINF:-1 tvg-id="Panamericana.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg/800px-Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg.png" group-title="Nacional", 5.1 Panamericana
 https://live-evg18.tv360.bitel.com.pe/bitel/panamericana_abr/bitel/panamericana_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Nacional", 6.1 Exitosa TV
