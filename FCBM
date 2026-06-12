@@ -186,7 +186,7 @@ http://45.171.64.30:6060/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="HolaTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg" group-title="Entretenimiento",Hola TV
 http://138.186.20.13:23200/play/a054
 #EXTINF:-1 tvg-id="JTBC.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/JTBC_logo.svg/1920px-JTBC_logo.svg.png" group-title="Internacionales",JTBC
-https://cdn.inteltelevision.com/krcn/107-jtbc/playlist.m3u8?t=1767316556&token=630d1d03c2b7bebba9d395b5e382ff2f
+https://k227.jk-cdn.com/watch/live.m3u8?video=jtbc_540&sid=Al86jpnrfPFtYR16timQ0Vhk5hvtkJ3Nttobro41&secret=58d313cbc5c92c952af6002bfaba81e9&time=1766061066
 #EXTINF:-1 tvg-id="KCTV.kp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Korean_Central_Television_2005.svg/1024px-Korean_Central_Television_2005.svg.png" group-title="Internacionales",KCTV
 https://tv.intchoson.com/kctv/main_stream.m3u8
 #EXTINF:-1 tvg-id="KbyCJENM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1920px-Pluto_TV_logo_2020.svg.png" group-title="Internacionales",K-Content by CJ ENM 
