@@ -30,11 +30,11 @@ http://131.100.49.73:8003/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-logo="https://pbs.twimg.com/profile_images/899643326831501313/KieG4VDx_400x400.jpg" group-title="Noticias",Canal N
 http://oaktvpro.club:8080/live/RaulTapia/Raul2023/3409.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://en.wikipedia.org/wiki/RCN_Televisi%C3%B3n#/media/File:CanalRCN2023.png" group-title="Internacionales",Canal RCN
-http://8.243.67.133:8003/play/a044/index.m3u8
+http://181.78.17.52:8000/play/a0ec/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
 http://200.60.124.20:29000/play/a0hm/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Caracol_Televisi%C3%B3n_logo_2023.png" group-title="Internacionales",Caracol Television
-http://190.109.4.34:8000/play/a089/index.m3u8
+http://181.78.17.52:8000/play/a0os/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTelevision2.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Caracol_Televisi%C3%B3n_logo_2023.png" group-title="Internacionales",Caracol Television 2
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-id="CCTV-4.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/CCTV-4_channel.svg/800px-CCTV-4_channel.svg.png" group-title="Internacionales",CCTV-4
@@ -46,7 +46,7 @@ https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 #EXTINF:-1 tvg-id="CGTNEspañol.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Internacionales",CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="Chilevision.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logotipo_Principal_de_Chilevisi%C3%B3n.svg/1920px-Logotipo_Principal_de_Chilevisi%C3%B3n.svg.png" group-title="Internacionales",Chilevision
-http://131.100.49.73:8003/play/a00o/index.m3u8
+http://190.60.48.151:8010/play/a0ar/index.m3u8
 #EXTINF:-1 tvg-id="CINECANAL.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1920px-CinecanalLA.png" group-title="Peliculas y Series",Cinecanal
 http://38.199.4.105:9999/play/a0ml/index.m3u8
 #EXTINF:-1 tvg-id="CINEMAX.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1920px-Cinemax_%28Yellow%29.svg.png" group-title="Peliculas y Series",Cinemax
@@ -334,7 +334,9 @@ http://190.95.60.228:8500/play/a031
 #EXTINF:-1 tvg-id="Telehit.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png" group-title="Musicales",Telehit
 http://190.61.91.81:5000/play/a0bg
 #EXTINF:-1 tvg-id="Telemundo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1024px-Telemundo_logo_2018.svg.png" group-title="Internacionales",Telemundo
-http://161.132.243.192:50001/play/a02x/index.m3u8
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Telemundo_Internacional_Logo_%282018-presente%29.png/revision/latest/scale-to-width-down/1000?cb=20181101133212&path-prefix=es" group-title="Internacionales",Telemundo Internacional
+http://181.78.21.46:8009/play/a03b
 #EXTINF:-1 tvg-id="TheK-pop.kr" tvg-logo="https://pbs.twimg.com/profile_images/1224570939972575232/KSiGcUtU_400x400.jpg" group-title="Musicales",The K-POP by SBS M
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720923069/ei/XN-SZtnKOpK_sfIP-9yNmAI/ip/20.168.76.145/id/JVocS7Yftw8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-iv.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAeZO_wfDrcPGkh43rLGzvz2dIVQUih4cKKZChechizl658uIldGMLyxdhRY/vprv/1/playlist_type/DVR/initcwndbps/4915000/mh/wS/mm/44/mn/sn-iv/ms/lva/mv/m/mvi/5/pl/15/dover/11/pacing/0/keepalive/yes/mt/1720901086/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAIyRUZmIE9CotzKLNUL0Z95qHkz8_ZBxspsZ5s-s4PCvAiEArBthxy5GCxo7jRI6fK1aN34Z4Escp98_y0ygUMHYeoQ%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgFcDtzKf8wjy-KP6zTBlwrGqaXNRLXgbn6evSVV_o7OcCIE9h2BMdHWsx-BtqMRvO5fq5f82cpaKJbvqpE5L4j89H/playlist/index.m3u8
 #EXTINF:-1 tvg-id="TNT.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/800px-TNT_%28TV_Channel%29.svg.png" group-title="Peliculas y Series",TNT
