@@ -256,11 +256,11 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovi
 #EXTINF:-1 tvg-id="NHK.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/800px-NHK_logo_2020.svg.png" group-title="Internacionales",NHK
 https://stream1.freetv.fun/nhk-world-premium-5.m3u8
 #EXTINF:-1 tvg-id="NHKBS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png" group-title="Internacionales",NHK BS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
+https://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="NHKBS4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png" group-title="Internacionales",NHK BS 4K
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
+https://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="NHKGeneralTv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/800px-NHK_logo_2020.svg.png" group-title="Internacionales",NHK General Tv
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+http://akariko.netgenx.site/stream/jp/nhk_g/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="NHK.pe" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="Internacionales",NHK World Japan
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1024px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Infantil",Nickelodeon
@@ -366,7 +366,7 @@ https://pull.radartv.in/krcn/106-tvn/playlist.m3u8
 #EXTINF:-1 tvg-id="tvNMovies.kr" tvg-logo="https://www.pngkey.com/png/full/107-1070871_tvn-movies-film.png" group-title="Internacionales",tvN Movies
 https://stream1.freetv.fun/tvn-movies-9.ctv
 #EXTINF:-1 tvg-id="TVTOKYO.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/1920px-TV_Tokyo_logo_2023.svg.png" group-title="Internacionales",TV Tokyo
-https://nl00.utako.moe/bstvtokyo/index.m3u8
+http://akariko.netgenx.site/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/480px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports
 http://138.121.114.91:8000/play/a06x/index.m3u8
 #EXTINF:-1 tvg-id="UniversalChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" group-title="Peliculas y Series",Universal Channel
@@ -376,7 +376,7 @@ https://7.tiofutbol.com/univision/mono.m3u8?token=71821b37bb036649860f07829cfbd9
 #EXTINF:-1 tvg-id="WARNER CHANNEL.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Peliculas y Series",Warner Channel
 http://38.199.4.105:9999/play/a0mn/index.m3u8
 #EXTINF:-1 tvg-id="WeatherNews.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Weathernews_logo.svg/1200px-Weathernews_logo.svg.png" group-title="Internacionales",Weather News
-https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
+http://akariko.netgenx.site/stream/jp/weather_news/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="WinSports.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1280px-Win_Sports_nuevo_logo.svg.png" group-title="Deportes", Win Sports
 http://181.78.8.199:8000/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="Win+Futbol.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/2560px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="Deportes", Win+ Fútbol
