@@ -335,6 +335,8 @@ http://190.95.60.228:8500/play/a031
 http://190.61.91.81:5000/play/a0bg
 #EXTINF:-1 tvg-id="Telemundo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1024px-Telemundo_logo_2018.svg.png" group-title="Internacionales",Telemundo
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="TelemundoDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Telemundo_Deportes_2022_vector_logo_horizontal.svg/960px-Telemundo_Deportes_2022_vector_logo_horizontal.svg.png" group-title="Deportes",Telemundo Deportes
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo.co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Telemundo_Internacional_Logo_%282018-presente%29.png/revision/latest/scale-to-width-down/1000?cb=20181101133212&path-prefix=es" group-title="Internacionales",Telemundo Internacional
 http://181.78.21.46:8009/play/a03b
 #EXTINF:-1 tvg-id="TheK-pop.kr" tvg-logo="https://pbs.twimg.com/profile_images/1224570939972575232/KSiGcUtU_400x400.jpg" group-title="Musicales",The K-POP by SBS M
