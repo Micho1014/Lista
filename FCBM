@@ -180,7 +180,7 @@ http://45.171.64.30:6060/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="HBO Family HD.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1024px-HBO_Family.svg.png" group-title="Peliculas y Series",HBO Family
 http://38.210.3.64:8090/play/a0h5/index.m3u8
 #EXTINF:-1 tvg-id="HBO Pop.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="Peliculas y Series",HBO Pop
-http://190.242.61.125:8000/play/a0q8/index.m3u8?hls
+http://181.65.191.173:8069/play/a0a6
 #EXTINF:-1 tvg-id="HBO Xtreme (Panamericano HD).co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="Peliculas y Series",HBO Xtreme
 http://45.171.64.30:6060/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="HolaTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg" group-title="Entretenimiento",Hola TV
