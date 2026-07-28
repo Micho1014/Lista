@@ -79,15 +79,13 @@ http://38.199.4.105:9999/play/a0av/index.m3u8
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 #EXTINF:-1 tvg-id="DHE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1920px-2020_Canal_DHE_logo.svg.png" group-title="Peliculas y Series",DHE
 http://38.199.4.105:9999/play/a0n2/index.m3u8
-#EXTINF:-1 tvg-id="Dsports HD.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",Directv Sports HD 
+#EXTINF:-1 tvg-id="Dsports.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",Directv Sports HD 
 http://190.117.20.37:8000/play/a08d/index.m3u8
-#EXTINF:-1 tvg-id="Dsports HD.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",Directv Sports HD 2
+#EXTINF:-1 tvg-id="Dsports.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",Directv Sports HD 2
 http://190.108.83.69:8000/play/a0cb/index.m3u8
-#EXTINF:-1 tvg-id="Dsports HD.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",Directv Sports HD 3
-http://38.87.224.19:2220/play/a04f/index.m3u8
-#EXTINF:-1 tvg-id="Dsports 2 HD.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes",Directv Sports 2 HD 
+#EXTINF:-1 tvg-id="Dsports2.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes",Directv Sports 2 HD 
 http://190.108.83.69:8000/play/a0c6/index.m3u8
-#EXTINF:-1 tvg-id="Dsports + HD.uy"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="Deportes",Directv Sports + HD 
+#EXTINF:-1 tvg-id="Dsportsplus.uy"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="Deportes",Directv Sports + HD 
 http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTVSPORTSFIGHT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/DSportsFight.png" group-title="Deportes",Directv Sports Fight + HD 
 http://181.177.255.253:8000/play/a077/index.m3u8
