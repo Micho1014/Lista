@@ -30,11 +30,11 @@ http://131.100.49.73:8003/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-logo="https://pbs.twimg.com/profile_images/899643326831501313/KieG4VDx_400x400.jpg" group-title="Noticias",Canal N
 http://oaktvpro.club:8080/live/RaulTapia/Raul2023/3409.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://en.wikipedia.org/wiki/RCN_Televisi%C3%B3n#/media/File:CanalRCN2023.png" group-title="Internacionales",Canal RCN
-http://181.78.17.52:8000/play/a0ec/index.m3u8
+http://190.90.154.112:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
 http://200.60.124.20:29000/play/a0hm/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Caracol_Televisi%C3%B3n_logo_2023.png" group-title="Internacionales",Caracol Television
-http://181.78.17.52:8000/play/a0os/index.m3u8
+http://45.171.108.253:8888/CARACOL/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTelevision2.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Caracol_Televisi%C3%B3n_logo_2023.png" group-title="Internacionales",Caracol Television 2
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-id="Cctv4.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/CCTV-4_channel.svg/800px-CCTV-4_channel.svg.png" group-title="Internacionales",CCTV-4
