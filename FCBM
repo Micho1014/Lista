@@ -76,7 +76,7 @@ https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="COMEDY CENTRAL HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="Peliculas y Series",Comedy Central
 http://38.199.4.105:9999/play/a0av/index.m3u8
 #EXTINF:-1 tvg-id="DAZNLaLiga.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/DAZN_LALIGA_2024_logo.svg/1920px-DAZN_LALIGA_2024_logo.svg.png" group-title="Deportes",DAZN LaLiga
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+https://7nyaler.streamhostingcdn.top/stream/35/index.m3u8
 #EXTINF:-1 tvg-id="DHE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1920px-2020_Canal_DHE_logo.svg.png" group-title="Peliculas y Series",DHE
 http://38.199.4.105:9999/play/a0n2/index.m3u8
 #EXTINF:-1 tvg-id="Dsports.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",Directv Sports HD 
@@ -230,7 +230,7 @@ http://190.60.40.37:12500/play/a09c/index.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Ciencia y Cultura",Love Nature
 http://190.60.40.37:12500/play/a0al/index.m3u8
 #EXTINF:-1 tvg-id="MBCAmerica.us" tvg-logo="https://www.mbc-america.com/images/logo/MBXAMERICA_LOGO.png" group-title="Internacionales",MBC America
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
 #EXTINF:-1 tvg-id="MBCDrama.kr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCJNzQa35fy0hfJRXoHOnheq8m6r7B1Wxwz029Mb3TKA&s" group-title="Internacionales",MBC Drama
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=k-dramabymbc&channel_id=newid_311&mpf=a2e5c248-39af1962-3aaf2a5b&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=40b6b9dc-585ca260-17a4e6b5-2f2c38cc&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-id="MBCEvery1.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC_every1_logo.png" group-title="Internacionales",MBC Every 1
@@ -362,7 +362,7 @@ http://45.186.252.17:7500/play/a08l
 #EXTINF:-1 tvg-id="TVEInternacional.es" tvg-logo="https://css2.rtve.es/css/rtveplay.2021/i/compartir_tve_internacional.jpg" group-title="Internacionales",TVE Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVELA1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Logo_La_1_UHD_2024.svg/1280px-Logo_La_1_UHD_2024.svg.png" group-title="Internacionales",TVE La 1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
+https://7nyaler.streamhostingcdn.top/stream/40/index.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/1920px-Logo_TF1_2013.svg.png" group-title="Internacionales",TF1
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
 #EXTINF:-1 tvg-id="tvN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1280px-Logo_tvN.svg.png" group-title="Internacionales",tvN
@@ -372,7 +372,7 @@ https://stream1.freetv.fun/tvn-movies-9.ctv
 #EXTINF:-1 tvg-id="TVTOKYO.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/1920px-TV_Tokyo_logo_2023.svg.png" group-title="Internacionales",TV Tokyo
 http://akariko.netgenx.site/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/480px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports
-http://138.121.114.91:8000/play/a06x/index.m3u8
+https://7nyaler.streamhostingcdn.top/stream/82/index.m3u8
 #EXTINF:-1 tvg-id="UniversalChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" group-title="Peliculas y Series",Universal Channel
 http://38.199.4.105:9999/play/a0mv/index.m3u8
 #EXTINF:-1 tvg-id="Univision.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/725px-Logo_Univision_2019.svg.png" group-title="Internacionales",Univision
