@@ -38,7 +38,7 @@ http://45.171.108.253:8888/CARACOL/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTelevision2.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Caracol_Televisi%C3%B3n_logo_2023.png" group-title="Internacionales",Caracol Television 2
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-id="Cctv4.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/CCTV-4_channel.svg/800px-CCTV-4_channel.svg.png" group-title="Internacionales",CCTV-4
-https://hc9lby9bzw8zcar.wcetv.com/hls/cctv4.m3u8
+https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1920px-CGTN.svg.png" group-title="Internacionales",CGTN
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/CGTN_Documentary.svg/1920px-CGTN_Documentary.svg.png" group-title="Internacionales",CGTN Documentary
@@ -148,7 +148,7 @@ https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/i
 #EXTINF:-1 tvg-id="FIFA+.us" tvg-logo="https://i0.wp.com/www.socceramerica.com/wp-content/uploads/2023/09/fifa-plus-logo-small_tE1mfbX.png" group-title="Deportes",FIFA+
 https://stream1.freetv.fun/fifa-plus-spain-1.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/France.tv_-_logo_2022.svg/1920px-France.tv_-_logo_2022.svg.png" group-title="Internacionales",France 2
-https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
+http://151.80.18.177:86/France_2_HD/index.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="Deportes",Fox Deportes
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/800px-Fox_Sports_Argentina_2023.svg.png" group-title="Deportes",Fox Sports
@@ -264,7 +264,7 @@ https://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="NHKBS4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png" group-title="Internacionales",NHK BS 4K
 https://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="NHKGeneralTv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/800px-NHK_logo_2020.svg.png" group-title="Internacionales",NHK General Tv
-http://akariko.netgenx.site/stream/jp/nhk_g/stream-output.m3u8?mode=hls
+https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
 #EXTINF:-1 tvg-id="NHK.pe" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="Internacionales",NHK World Japan
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1024px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Infantil",Nickelodeon
@@ -364,7 +364,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVELA1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Logo_La_1_UHD_2024.svg/1280px-Logo_La_1_UHD_2024.svg.png" group-title="Internacionales",TVE La 1
 https://7nyaler.streamhostingcdn.top/stream/40/index.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/1920px-Logo_TF1_2013.svg.png" group-title="Internacionales",TF1
-https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
+http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:-1 tvg-id="tvN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1280px-Logo_tvN.svg.png" group-title="Internacionales",tvN
 https://pull.radartv.in/krcn/106-tvn/playlist.m3u8
 #EXTINF:-1 tvg-id="tvNMovies.kr" tvg-logo="https://www.pngkey.com/png/full/107-1070871_tvn-movies-film.png" group-title="Internacionales",tvN Movies
@@ -380,7 +380,7 @@ https://7.tiofutbol.com/univision/mono.m3u8?token=71821b37bb036649860f07829cfbd9
 #EXTINF:-1 tvg-id="WARNER CHANNEL.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Peliculas y Series",Warner Channel
 http://38.199.4.105:9999/play/a0mn/index.m3u8
 #EXTINF:-1 tvg-id="WeatherNews.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Weathernews_logo.svg/1200px-Weathernews_logo.svg.png" group-title="Internacionales",Weather News
-http://akariko.netgenx.site/stream/jp/weather_news/stream-output.m3u8?mode=hls
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1280px-Win_Sports_nuevo_logo.svg.png" group-title="Deportes", Win Sports
 http://181.78.8.199:8000/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="Win+Futbol.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/2560px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="Deportes", Win+ Fútbol
