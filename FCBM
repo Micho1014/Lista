@@ -1,6 +1,7 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/generate/SyYb3KtJrp.xml.gz"
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-us.xml"
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-mx.xml"
+#EXTM3U x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz"
 #EXTINF:-1 tvg-id="AsianCrush.us" tvg-logo="https://www.asiancrush.com/images/asiancrush/asiancrush_logo_image.png" group-title="Internacionales",AsianCrush
 https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/profile/4/profile.m3u8
 #EXTINF:-1 tvg-id="ADULT SWIM.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1920px-Adult_Swim_2003_logo.svg.png" group-title="Entretenimiento",Adult Swim
@@ -149,7 +150,7 @@ http://190.95.60.228:8500/play/a03k
 http://190.61.55.34:2401/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Noticias",Exitosa TV
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="FIFA+.us" tvg-logo="https://i0.wp.com/www.socceramerica.com/wp-content/uploads/2023/09/fifa-plus-logo-small_tE1mfbX.png" group-title="Deportes",FIFA+
+#EXTINF:-1 tvg-id="66997d18a1b69e00082ee85f" tvg-logo="https://i0.wp.com/www.socceramerica.com/wp-content/uploads/2023/09/fifa-plus-logo-small_tE1mfbX.png" group-title="Deportes",FIFA+
 https://stream1.freetv.fun/fifa-plus-spain-1.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/France.tv_-_logo_2022.svg/1920px-France.tv_-_logo_2022.svg.png" group-title="Internacionales",France 2
 http://151.80.18.177:86/France_2_HD/index.m3u8
@@ -279,11 +280,11 @@ http://38.199.4.105:9999/play/a0gs/index.m3u8
 http://190.61.55.34:2401/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTvK-Drama.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1920px-Pluto_TV_logo_2020.svg.png" group-title="Internacionales",Pluto TV K-Drama
 https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8
-#EXTINF:-1 tvg-id="PlutoTvDramasCoreanos.us" tvg-logo="https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/thumbnail_1762186822152.jpg" group-title="Internacionales",Pluto TV Dramas Coreanos
+#EXTINF:-1 tvg-id="6185a9a88b2ce30007de5128" tvg-logo="https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/thumbnail_1762186822152.jpg" group-title="Internacionales",Pluto TV Dramas Coreanos
 https://jmp2.uk/plu-6661d5424b10960008599fa3.m3u8
-#EXTINF:-1 tvg-id="PlutoTvDramasCoreanosTeen.us" tvg-logo="https://images.pluto.tv/channels/6661d5424b10960008599fa3/thumbnail_1762186919798.jpg" group-title="Internacionales",Pluto TV Dramas Coreanos Teen
+#EXTINF:-1 tvg-id="6661d5424b10960008599fa3" tvg-logo="https://images.pluto.tv/channels/6661d5424b10960008599fa3/thumbnail_1762186919798.jpg" group-title="Internacionales",Pluto TV Dramas Coreanos Teen
 https://jmp2.uk/plu-6185a9a88b2ce30007de5128.m3u8
-#EXTINF:-1 tvg-id="PlutoTvLaSeleccion.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/La_selecci%C3%B3n%2Cla_serie_logo.PNG" group-title="Internacionales",Pluto TV La Selección
+#EXTINF:-1 tvg-id="63211ba9cad976000794f988" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/La_selecci%C3%B3n%2Cla_serie_logo.PNG" group-title="Internacionales",Pluto TV La Selección
 https://jmp2.uk/plu-63211ba9cad976000794f988.m3u8
 #EXTINF:-1 tvg-id="RaiItalia.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1920px-Rai_Italia_-_Logo_2017.svg.png" group-title="Internacionales",Rai Italia
 https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8
