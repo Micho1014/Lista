@@ -380,7 +380,7 @@ http://190.232.196.147:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="Univision.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/725px-Logo_Univision_2019.svg.png" group-title="Internacionales",Univision
 https://7.tiofutbol.com/univision/mono.m3u8?token=71821b37bb036649860f07829cfbd9a8aec10486-a10274d26b8096c27c2f76667c93637a-1720346324-1720313924&remote=38.25.28.10
 #EXTINF:-1 tvg-id="WARNER CHANNEL.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Peliculas y Series",Warner Channel
-http://190.232.196.147:8000/play/a01t/index.m3u8
+http://38.210.3.64:8090/play/a0j1/index.m3u8
 #EXTINF:-1 tvg-id="WeatherNews.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Weathernews_logo.svg/1200px-Weathernews_logo.svg.png" group-title="Internacionales",Weather News
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1280px-Win_Sports_nuevo_logo.svg.png" group-title="Deportes", Win Sports
